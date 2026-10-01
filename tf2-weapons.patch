@@ -1,74 +1,80 @@
 diff --git a/game/mod_tf/resource/mod_tf_english.txt b/game/mod_tf/resource/mod_tf_english.txt
-index edf73c793d6444785969dfd9650ac46de8de7b91..f24d6191b374c8564a01083ca4a8cf70b49f07ca 100644
+index edf73c793d6444785969dfd9650ac46de8de7b91..81803d739f32ae26d52b1d52a6ca54e3ccd0f19e 100644
 GIT binary patch
-literal 11658
-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
+literal 12676
+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
 
 delta 59
-zcmeB*KENpa|DO^=4nrbC9z!~V5(6(oH3RQNacxm0h7g8)hHQpZphPiTA~v0^7O19{
-F0RXi%49Nfh
+zcmZokKENpa|DO^=4nrbC9z!~V5(6(oH3RQNacxm0h7g8)hHQpZphPiTA~v0^7O19{
+F0RXk549frj
 
 diff --git a/game/mod_tf/scripts/items/items_mod.txt b/game/mod_tf/scripts/items/items_mod.txt
 new file mode 100644
-index 0000000..843ce25
+index 0000000..4486047
 --- /dev/null
 +++ b/game/mod_tf/scripts/items/items_mod.txt
-@@ -0,0 +1,1275 @@
+@@ -0,0 +1,1492 @@
 +// =============================================================================
 +// Custom items for this mod. Merged on top of TF2's items_game.txt at load time
 +// (see Mod_MergeCustomItems in src/game/shared/econ/econ_item_schema.cpp).
@@ -174,6 +180,115 @@ index 0000000..843ce25
 +			"hidden"				"1"
 +			"stored_as_integer"		"0"
 +		}
++		"9010"
++		{
++			"name"					"mod stomp damage multiplier"
++			"attribute_class"		"mod_stomp_damage_mult"
++			"description_format"	"value_is_percentage"
++			"effect_type"			"positive"
++			"hidden"				"1"
++			"stored_as_integer"		"0"
++		}
++		"9011"
++		{
++			"name"					"mod landing shockwave"
++			"attribute_class"		"mod_landing_shockwave"
++			"description_format"	"value_is_additive"
++			"effect_type"			"positive"
++			"hidden"				"1"
++			"stored_as_integer"		"0"
++		}
++		"9012"
++		{
++			"name"					"mod only weapon"
++			"attribute_class"		"mod_only_weapon"
++			"description_format"	"value_is_additive"
++			"effect_type"			"negative"
++			"hidden"				"1"
++			"stored_as_integer"		"0"
++		}
++		"9013"
++		{
++			"name"					"mod weapon tint"
++			"attribute_class"		"mod_weapon_tint"
++			"description_format"	"value_is_additive"
++			"effect_type"			"neutral"
++			"hidden"				"1"
++			"stored_as_integer"		"0"
++		}
++		"9014"
++		{
++			"name"					"mod fall damage taken"
++			"attribute_class"		"mod_fall_damage_taken"
++			"description_format"	"value_is_percentage"
++			"effect_type"			"positive"
++			"hidden"				"1"
++			"stored_as_integer"		"0"
++		}
++		"9015"
++		{
++			"name"					"mod afterburn duration"
++			"attribute_class"		"mod_afterburn_duration"
++			"description_format"	"value_is_additive"
++			"effect_type"			"positive"
++			"hidden"				"1"
++			"stored_as_integer"		"0"
++		}
++		"9016"
++		{
++			"name"					"mod auto reflect rockets"
++			"attribute_class"		"mod_auto_reflect_rockets"
++			"description_format"	"value_is_additive"
++			"effect_type"			"positive"
++			"hidden"				"1"
++			"stored_as_integer"		"0"
++		}
++		"9017"
++		{
++			"name"					"mod no secondary"
++			"attribute_class"		"mod_no_secondary"
++			"description_format"	"value_is_additive"
++			"effect_type"			"negative"
++			"hidden"				"1"
++			"stored_as_integer"		"0"
++		}
++		"9018"
++		{
++			"name"					"mod build speed"
++			"attribute_class"		"mod_build_speed"
++			"description_string"	"#Mod_Attrib_BuildSpeed"
++			"description_format"	"value_is_percentage"
++			"effect_type"			"positive"
++			"hidden"				"0"
++			"stored_as_integer"		"0"
++		}
++		"9019"
++		{
++			"name"					"mod extra weapon"		// number key 1-6: carried on top of the loadout
++			"attribute_class"		"mod_extra_weapon"
++			"description_format"	"value_is_additive"
++			"effect_type"			"neutral"
++			"hidden"				"1"
++			"stored_as_integer"		"0"
++		}
++		"9020"
++		{
++			"name"					"mod weapon position"	// order within a number key (set automatically for extras)
++			"attribute_class"		"mod_weapon_position"
++			"description_format"	"value_is_additive"
++			"effect_type"			"neutral"
++			"hidden"				"1"
++			"stored_as_integer"		"0"
++		}
++		"9021"
++		{
++			"name"					"mod viewmodel arms model"	// custom first-person arms model (new animations)
++			"attribute_class"		"mod_viewmodel_arms_model"
++			"attribute_type"		"string"
++			"description_format"	"value_is_additive"
++			"effect_type"			"neutral"
++			"hidden"				"1"
++		}
 +	}
 +
 +	"items"
@@ -194,6 +309,7 @@ index 0000000..843ce25
 +			"item_slot"			"primary"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"16751987"	// colour #FF9D73
 +				"mod homing rockets"			"1"		// steering strength (x tf_mod_homing_turn_rate)
 +				"mod clip size multiplier"		"0.5"	// 4 -> 2
 +				"mod reload time multiplier"	"0.5"	// half the reload time
@@ -216,6 +332,7 @@ index 0000000..843ce25
 +			"anim_slot"			"secondary"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"10131967"	// colour #9A99FF
 +				"mod weapon bucket"		"2"		// number key 2, like Heavy's other secondaries
 +				"mod viewmodel arms class"	"8"	// first-person: use the Spy's arms (class 8) and his revolver animations
 +			}
@@ -238,6 +355,7 @@ index 0000000..843ce25
 +			"item_slot"			"melee"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"10223475"	// colour #9BFF73
 +				"mod damage multiplier"			"0.25"	// 35 -> ~9 damage
 +				"mod melee airblast knockback"	"2"		// 2x Pyro airblast push
 +				"mod damage taken while active"		"0.25"	// takes 75% less damage while held
@@ -260,6 +378,7 @@ index 0000000..843ce25
 +			"item_slot"			"primary"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"16751060"	// colour #FF99D4
 +				"fire rate bonus"	"0.6"
 +				"clip size bonus"	"1.5"
 +				"damage penalty"	"0.6"
@@ -280,6 +399,7 @@ index 0000000..843ce25
 +			"item_slot"			"primary"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"7597311"	// colour #73ECFF
 +				"weapon spread bonus"	"0.6"
 +				"damage bonus"	"1.15"
 +				"clip size penalty"	"0.5"
@@ -300,6 +420,7 @@ index 0000000..843ce25
 +			"item_slot"			"secondary"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"16773017"	// colour #FFEF99
 +				"speed_boost_on_hit"	"2"
 +				"damage penalty"	"0.75"
 +				"maxammo secondary reduced"	"0.5"
@@ -319,6 +440,7 @@ index 0000000..843ce25
 +			"item_slot"			"secondary"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"12612607"	// colour #C073FF
 +				"fire rate bonus"	"0.7"
 +				"clip size bonus"	"1.5"
 +				"damage penalty"	"0.75"
@@ -339,6 +461,7 @@ index 0000000..843ce25
 +			"item_slot"			"melee"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"10092467"	// colour #99FFB3
 +				"mod mini-crit airborne"	"1"
 +				"damage penalty"	"0.85"
 +				"mult_dmgtaken_active"	"1.15"
@@ -358,6 +481,7 @@ index 0000000..843ce25
 +			"item_slot"			"melee"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"16741240"	// colour #FF7378
 +				"damage bonus"	"1.35"
 +				"fire rate penalty"	"1.4"
 +				"max health additive penalty"	"-10"
@@ -379,6 +503,7 @@ index 0000000..843ce25
 +			"item_slot"			"primary"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"10074879"	// colour #99BAFF
 +				"Blast radius increased"	"1.25"
 +				"dmg bonus vs buildings"	"1.5"
 +				"Projectile speed decreased"	"0.75"
@@ -399,6 +524,7 @@ index 0000000..843ce25
 +			"item_slot"			"primary"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"13238131"	// colour #C9FF73
 +				"self dmg push force increased"	"1.2"
 +				"increased air control"	"1.5"
 +				"Blast radius decreased"	"0.8"
@@ -419,6 +545,7 @@ index 0000000..843ce25
 +			"item_slot"			"secondary"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"16751094"	// colour #FF99F6
 +				"bullets per shot bonus"	"1.3"
 +				"spread penalty"	"1.3"
 +				"clip size penalty"	"0.66"
@@ -438,6 +565,7 @@ index 0000000..843ce25
 +			"item_slot"			"secondary"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"7602147"	// colour #73FFE3
 +				"fire rate bonus"	"0.8"
 +				"Reload time decreased"	"0.7"
 +				"damage penalty"	"0.8"
@@ -458,6 +586,7 @@ index 0000000..843ce25
 +			"item_slot"			"melee"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"16764313"	// colour #FFCD99
 +				"heal on kill"	"50"
 +				"speed_boost_on_kill"	"3"
 +				"damage penalty"	"0.8"
@@ -477,6 +606,7 @@ index 0000000..843ce25
 +			"item_slot"			"melee"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"9532415"	// colour #9173FF
 +				"dmg taken from crit reduced"	"0.5"
 +				"dmg taken from blast reduced"	"0.8"
 +				"damage penalty"	"0.75"
@@ -499,7 +629,9 @@ index 0000000..843ce25
 +			"item_slot"			"primary"
 +			"static_attrs"
 +			{
-+				"flame life bonus"	"1.3"
++				"mod weapon tint"	"10616729"	// colour #A1FF99
++				"flame life bonus"	"1.3"	// shows "+30% flame range" in the tooltip
++				"flame_speed"	"3185"	// what actually sets range: 2450 stock x 1.3
 +				"airblast cost increased"	"1.5"
 +				"flame ammopersec increased"	"1.3"
 +			}
@@ -518,6 +650,7 @@ index 0000000..843ce25
 +			"item_slot"			"primary"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"16741286"	// colour #FF73A6
 +				"airblast cost decreased"	"0.7"
 +				"airblast pushback scale"	"1.3"
 +				"damage penalty"	"0.8"
@@ -538,7 +671,9 @@ index 0000000..843ce25
 +			"item_slot"			"secondary"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"10083583"	// colour #99DCFF
 +				"Set DamageType Ignite"	"1"
++				"mod afterburn duration"	"4"	// seconds of afterburn (stock flamethrower-like)
 +				"damage penalty"	"0.75"
 +				"clip size penalty"	"0.5"
 +			}
@@ -557,6 +692,7 @@ index 0000000..843ce25
 +			"item_slot"			"secondary"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"16318323"	// colour #F8FF73
 +				"Projectile speed increased"	"1.5"
 +				"mark for death"	"1"
 +				"damage penalty"	"0.7"
@@ -576,6 +712,7 @@ index 0000000..843ce25
 +			"item_slot"			"melee"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"15112703"	// colour #E699FF
 +				"dmg taken from fire reduced on active"	"0.5"
 +				"damage bonus vs burning"	"1.25"
 +				"dmg penalty vs nonburning"	"0.75"
@@ -595,6 +732,7 @@ index 0000000..843ce25
 +			"item_slot"			"melee"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"7602100"	// colour #73FFB4
 +				"minicrit vs burning player"	"1"
 +				"single wep deploy time decreased"	"0.6"
 +				"damage penalty"	"0.85"
@@ -617,6 +755,7 @@ index 0000000..843ce25
 +			"item_slot"			"primary"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"16755609"	// colour #FFAB99
 +				"damage bonus"	"1.2"
 +				"Blast radius increased"	"1.15"
 +				"clip size penalty"	"0.5"
@@ -637,6 +776,7 @@ index 0000000..843ce25
 +			"item_slot"			"primary"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"7570687"	// colour #7384FF
 +				"Projectile speed increased"	"1.25"
 +				"clip size bonus"	"1.5"
 +				"damage penalty"	"0.8"
@@ -657,8 +797,9 @@ index 0000000..843ce25
 +			"item_slot"			"secondary"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"12844953"	// colour #C3FF99
 +				"sticky arm time bonus"	"-0.3"
-+				"Projectile speed increased"	"1.25"
++				"Projectile range increased"	"1.25"	// sticky launchers read "range" for launch speed
 +				"max pipebombs decreased"	"-4"
 +				"maxammo secondary reduced"	"0.6"
 +			}
@@ -677,10 +818,11 @@ index 0000000..843ce25
 +			"item_slot"			"secondary"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"16741333"	// colour #FF73D5
 +				"max pipebombs increased"	"2"
 +				"Blast radius increased"	"1.15"
 +				"Reload time increased"	"1.25"
-+				"Projectile speed decreased"	"0.8"
++				"Projectile range decreased"	"0.8"	// sticky launchers read "range" for launch speed
 +			}
 +		}
 +		"38025"
@@ -697,6 +839,7 @@ index 0000000..843ce25
 +			"item_slot"			"melee"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"10092287"	// colour #99FEFF
 +				"heal on kill"	"50"
 +				"dmg taken from blast reduced"	"0.85"
 +				"damage penalty"	"0.85"
@@ -717,6 +860,7 @@ index 0000000..843ce25
 +			"item_slot"			"melee"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"16766835"	// colour #FFD773
 +				"damage bonus"	"1.25"
 +				"critboost on kill"	"3"
 +				"fire rate penalty"	"1.3"
@@ -739,6 +883,7 @@ index 0000000..843ce25
 +			"item_slot"			"primary"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"12884479"	// colour #C499FF
 +				"fire rate bonus"	"0.85"
 +				"maxammo primary increased"	"1.5"
 +				"spread penalty"	"1.3"
@@ -759,6 +904,7 @@ index 0000000..843ce25
 +			"item_slot"			"primary"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"7602053"	// colour #73FF85
 +				"dmg taken from bullets reduced"	"0.8"
 +				"dmg taken from crit reduced"	"0.7"
 +				"damage penalty"	"0.85"
@@ -779,6 +925,7 @@ index 0000000..843ce25
 +			"item_slot"			"secondary"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"16751018"	// colour #FF99AA
 +				"Reload time decreased"	"0.6"
 +				"maxammo secondary increased"	"1.5"
 +				"damage penalty"	"0.85"
@@ -799,6 +946,7 @@ index 0000000..843ce25
 +			"item_slot"			"secondary"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"7582463"	// colour #73B2FF
 +				"damage bonus"	"1.2"
 +				"dmg bonus vs buildings"	"1.5"
 +				"fire rate penalty"	"1.25"
@@ -819,6 +967,7 @@ index 0000000..843ce25
 +			"item_slot"			"melee"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"15073177"	// colour #E5FF99
 +				"heal on hit for slowfire"	"15"
 +				"dmg taken from blast reduced"	"0.8"
 +				"damage penalty"	"0.9"
@@ -839,7 +988,8 @@ index 0000000..843ce25
 +			"item_slot"			"melee"
 +			"static_attrs"
 +			{
-+				"mult_player_movespeed_active"	"1.15"
++				"mod weapon tint"	"16413695"	// colour #FA73FF
++				"mult_player_movespeed_active"	"1.35"
 +				"increased jump height from weapon"	"1.25"
 +				"damage penalty"	"0.6"
 +				"mult_dmgtaken_active"	"1.2"
@@ -862,8 +1012,9 @@ index 0000000..843ce25
 +			"item_slot"			"primary"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"10092509"	// colour #99FFDD
 +				"maxammo metal increased"	"1.5"
-+				"Construction rate increased"	"1.15"
++				"mod build speed"	"1.15"	// 15% faster building (all buildings, not just wrench hits)
 +				"damage penalty"	"0.85"
 +				"clip size penalty"	"0.66"
 +			}
@@ -882,6 +1033,7 @@ index 0000000..843ce25
 +			"item_slot"			"primary"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"16754803"	// colour #FFA873
 +				"engy sentry fire rate increased"	"0.85"
 +				"damage penalty"	"0.75"
 +				"maxammo primary reduced"	"0.5"
@@ -901,6 +1053,7 @@ index 0000000..843ce25
 +			"item_slot"			"secondary"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"10656255"	// colour #A299FF
 +				"damage bonus bullet vs sentry target"	"1.3"
 +				"fire rate bonus"	"0.85"
 +				"maxammo secondary reduced"	"0.5"
@@ -920,6 +1073,7 @@ index 0000000..843ce25
 +			"item_slot"			"secondary"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"9437043"	// colour #8FFF73
 +				"weapon spread bonus"	"0.5"
 +				"damage bonus"	"1.2"
 +				"fire rate penalty"	"1.5"
@@ -940,6 +1094,7 @@ index 0000000..843ce25
 +			"item_slot"			"melee"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"16751052"	// colour #FF99CC
 +				"Construction rate increased"	"1.4"
 +				"Repair rate increased"	"1.25"
 +				"maxammo metal reduced"	"0.8"
@@ -960,6 +1115,7 @@ index 0000000..843ce25
 +			"item_slot"			"melee"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"7594495"	// colour #73E1FF
 +				"engy building health bonus"	"1.3"
 +				"Construction rate decreased"	"0.75"
 +				"max health additive penalty"	"-20"
@@ -981,6 +1137,7 @@ index 0000000..843ce25
 +			"item_slot"			"primary"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"16775065"	// colour #FFF799
 +				"heal on hit for rapidfire"	"2"
 +				"clip size bonus"	"1.25"
 +				"max health additive penalty"	"-20"
@@ -1001,6 +1158,7 @@ index 0000000..843ce25
 +			"item_slot"			"primary"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"13333503"	// colour #CB73FF
 +				"mad milk syringes"	"1"
 +				"damage penalty"	"0.8"
 +				"clip size penalty"	"0.75"
@@ -1020,6 +1178,7 @@ index 0000000..843ce25
 +			"item_slot"			"secondary"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"10092475"	// colour #99FFBB
 +				"ubercharge rate bonus"	"1.15"
 +				"uber duration bonus"	"2"
 +				"heal rate penalty"	"0.8"
@@ -1040,6 +1199,7 @@ index 0000000..843ce25
 +			"item_slot"			"secondary"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"16742771"	// colour #FF7973
 +				"heal rate bonus"	"1.3"
 +				"ubercharge rate penalty"	"0.75"
 +			}
@@ -1058,6 +1218,7 @@ index 0000000..843ce25
 +			"item_slot"			"melee"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"10072831"	// colour #99B2FF
 +				"add uber charge on hit"	"0.1"
 +				"single wep deploy time decreased"	"0.6"
 +				"damage penalty"	"0.8"
@@ -1077,6 +1238,7 @@ index 0000000..843ce25
 +			"item_slot"			"melee"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"12517235"	// colour #BEFF73
 +				"damage bonus"	"1.25"
 +				"speed_boost_on_hit"	"2"
 +				"max health additive penalty"	"-20"
@@ -1098,6 +1260,7 @@ index 0000000..843ce25
 +			"item_slot"			"primary"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"16751086"	// colour #FF99EE
 +				"SRifle Charge rate increased"	"1.5"
 +				"damage penalty"	"0.85"
 +				"sniper aiming movespeed decreased"	"0.6"
@@ -1117,6 +1280,7 @@ index 0000000..843ce25
 +			"item_slot"			"primary"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"7602158"	// colour #73FFEE
 +				"mark for death"	"1"
 +				"sniper full charge damage bonus"	"1.1"
 +				"SRifle Charge rate decreased"	"0.8"
@@ -1137,6 +1301,7 @@ index 0000000..843ce25
 +			"item_slot"			"secondary"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"16766361"	// colour #FFD599
 +				"clip size bonus"	"1.4"
 +				"fire rate bonus"	"0.9"
 +				"damage penalty"	"0.8"
@@ -1157,6 +1322,7 @@ index 0000000..843ce25
 +			"item_slot"			"secondary"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"10253311"	// colour #9C73FF
 +				"bleeding duration"	"3"
 +				"damage penalty"	"0.75"
 +				"clip size penalty"	"0.6"
@@ -1176,6 +1342,7 @@ index 0000000..843ce25
 +			"item_slot"			"melee"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"10092441"	// colour #99FF99
 +				"heal on kill"	"40"
 +				"speed_boost_on_kill"	"3"
 +				"damage penalty"	"0.8"
@@ -1195,6 +1362,7 @@ index 0000000..843ce25
 +			"item_slot"			"melee"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"16741275"	// colour #FF739B
 +				"damage bonus"	"1.25"
 +				"crit vs wet players"	"1"
 +				"fire rate penalty"	"1.25"
@@ -1217,6 +1385,7 @@ index 0000000..843ce25
 +			"item_slot"			"secondary"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"10081535"	// colour #99D4FF
 +				"mark for death"	"1"
 +				"weapon spread bonus"	"0.7"
 +				"damage penalty"	"0.85"
@@ -1237,6 +1406,7 @@ index 0000000..843ce25
 +			"item_slot"			"secondary"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"15597427"	// colour #EDFF73
 +				"damage bonus"	"1.25"
 +				"clip size penalty"	"0.5"
 +				"Reload time increased"	"1.3"
@@ -1256,6 +1426,7 @@ index 0000000..843ce25
 +			"item_slot"			"melee"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"15636991"	// colour #EE99FF
 +				"silent killer"	"1"
 +				"add cloak on hit"	"15"
 +				"cloak regen rate decreased"	"0.7"
@@ -1275,6 +1446,7 @@ index 0000000..843ce25
 +			"item_slot"			"melee"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"7602111"	// colour #73FFBF
 +				"single wep deploy time decreased"	"0.5"
 +				"speed_boost_on_kill"	"3"
 +				"mult_dmgtaken_active"	"1.2"
@@ -1294,6 +1466,7 @@ index 0000000..843ce25
 +			"item_slot"			"pda2"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"16757657"	// colour #FFB399
 +				"cloak consume rate decreased"	"0.7"
 +				"cloak regen rate decreased"	"0.7"
 +			}
@@ -1312,6 +1485,7 @@ index 0000000..843ce25
 +			"item_slot"			"building"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"7567615"	// colour #7378FF
 +				"sapper damage bonus"	"1.3"
 +				"sapper health penalty"	"0.6"
 +			}
@@ -1336,19 +1510,68 @@ index 0000000..843ce25
 +			"item_slot"			"secondary"
 +			"static_attrs"
 +			{
++				"mod weapon tint"	"12320665"	// colour #BBFF99
 +				"mod dual wield"				"1"		// second, mirrored pistol in the left hand
 +				"clip size bonus"				"2"		// 12 per gun -> 24
 +				"fire rate bonus"				"0.5"	// two guns taking turns = twice the shots
 +				"maxammo secondary increased"	"2"		// ammo for both guns
 +			}
 +		}
++
++		// Heavy melee: the stock Fists. Land on someone from a height for a huge stomp,
++		// and any landing big enough to hurt throws nearby enemies away. Jumps higher.
++		// Cost: while equipped, Heavy carries no other weapon.
++		"38058"
++		{
++			"mod_copy_from"		"5"		// TF_WEAPON_FISTS
++			"name"				"Bear Feet"
++			"item_name"			"#Mod_BearFeet"
++			"item_description"	"#Mod_BearFeet_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"heavy"		"1"
++			}
++			"item_slot"			"melee"
++			"static_attrs"
++			{
++				"boots falling stomp"					"1"		// landing on an enemy hurts them, not you (like the Mantreads)
++				"mod stomp damage multiplier"			"3"		// 3x the Mantreads stomp
++				"mod landing shockwave"					"1"		// shockwave strength (tf_mod_shockwave_radius / _force)
++				"increased jump height from weapon"		"1.4"	// about twice as high
++				"mod fall damage taken"					"0.65"	// 35% less fall damage
++				"mod only weapon"						"1"		// no primary or secondary while equipped
++			}
++		}
++
++		// Pyro primary: a stock Flame Thrower that airblasts incoming rockets by itself,
++		// sending them where you're aiming. Cost: no secondary weapon.
++		"38059"
++		{
++			"mod_copy_from"		"21"	// TF_WEAPON_FLAMETHROWER
++			"name"				"The Return to Sender"
++			"item_name"			"#Mod_ReturnToSender"
++			"item_description"	"#Mod_ReturnToSender_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"pyro"		"1"
++			}
++			"item_slot"			"primary"
++			"static_attrs"
++			{
++				"mod weapon tint"			"7405567"	// colour #70FFFF
++				"mod auto reflect rockets"	"1"		// range: tf_mod_autoreflect_range
++				"mod no secondary"			"1"		// no secondary while equipped
++			}
++		}
 +	}
 +}
 diff --git a/src/game/server/tf/tf_player.cpp b/src/game/server/tf/tf_player.cpp
-index c030951..c179b2a 100644
+index c030951..35b3f04 100644
 --- a/src/game/server/tf/tf_player.cpp
 +++ b/src/game/server/tf/tf_player.cpp
-@@ -1124,6 +1124,16 @@ CTFPlayer::CTFPlayer()
+@@ -1124,6 +1124,20 @@ CTFPlayer::CTFPlayer()
  	m_bRespawning = false;
  
  	m_bAlreadyUsedExtendFreezeThisDeath = false;
@@ -1360,12 +1583,24 @@ index c030951..c179b2a 100644
 +		{
 +			m_ModEquips[iClass][iSlot].Clear();
 +		}
++		for ( int i = 0; i < MOD_MAX_EXTRA_WEAPONS; ++i )
++		{
++			m_ModExtraEquips[iClass][i].Clear();
++		}
 +	}
 +	m_bModEquipsRestored = false;
  }
  
  //-----------------------------------------------------------------------------
-@@ -3353,6 +3363,10 @@ void CTFPlayer::ApplyAbsVelocityImpulse( const Vector &vecImpulse )
+@@ -3079,6 +3093,7 @@ void CTFPlayer::PrecacheTFPlayer()
+ 	PrecacheModel( "models/player/gibs/random_organ.mdl" );
+ 
+ 	PrecacheScriptSound( "Weapon_Mantreads.Impact" );
++	PrecacheParticleSystem( "hammer_impact_button" );	// MOD: Bear Feet landing shockwave
+ 
+ 	// Precache footstep override sounds.
+ 	PrecacheScriptSound( "cleats_conc.StepLeft" );
+@@ -3353,6 +3368,10 @@ void CTFPlayer::ApplyAbsVelocityImpulse( const Vector &vecImpulse )
  		flImpulseScale *= 2.f;
  	}
  
@@ -1376,7 +1611,7 @@ index c030951..c179b2a 100644
  	// take extra force if you have a parachute deployed in x-y directions
  	if ( m_Shared.InCond( TF_COND_PARACHUTE_ACTIVE ) )
  	{
-@@ -4432,8 +4446,9 @@ bool CTFPlayer::ItemIsAllowed( CEconItemView *pItem )
+@@ -4432,8 +4451,9 @@ bool CTFPlayer::ItemIsAllowed( CEconItemView *pItem )
  	}
  
  	// Holiday Restriction
@@ -1387,7 +1622,58 @@ index c030951..c179b2a 100644
  	{
  		int iHolidayRestriction = UTIL_GetHolidayForString( pData->GetHolidayRestriction() );
  		if ( iHolidayRestriction != kHoliday_None && !TFGameRules()->IsHolidayActive( iHolidayRestriction ) )
-@@ -4895,6 +4910,14 @@ CEconItemView *CTFPlayer::GetLoadoutItem( int iClass, int iSlot, bool bReportWhi
+@@ -4489,6 +4509,40 @@ bool CTFPlayer::ItemIsAllowed( CEconItemView *pItem )
+ 		}
+ 	}
+ 
++	// MOD: "mod no secondary" - while a weapon with this attribute is equipped,
++	// the secondary slot stays empty.
++	if ( iSlot == LOADOUT_POSITION_SECONDARY )
++	{
++		static CSchemaAttributeDefHandle pAttrib_ModNoSecondary( "mod no secondary" );
++		static const int s_OtherSlots[] = { LOADOUT_POSITION_PRIMARY, LOADOUT_POSITION_MELEE };
++		for ( int i = 0; i < ARRAYSIZE( s_OtherSlots ); ++i )
++		{
++			CEconItemView *pOther = GetLoadoutItem( iClass, s_OtherSlots[i] );
++			if ( pOther && pOther->IsValid() && pOther->FindAttribute( pAttrib_ModNoSecondary ) )
++				return false;
++		}
++	}
++
++	// MOD: "mod only weapon" (Bear Feet) - while a weapon with this attribute is
++	// equipped, the player's other weapon slots stay empty.
++	if ( iSlot == LOADOUT_POSITION_PRIMARY || iSlot == LOADOUT_POSITION_SECONDARY || iSlot == LOADOUT_POSITION_MELEE )
++	{
++		static CSchemaAttributeDefHandle pAttrib_ModOnlyWeapon( "mod only weapon" );
++		if ( !pItem->FindAttribute( pAttrib_ModOnlyWeapon ) )
++		{
++			static const int s_WeaponSlots[] = { LOADOUT_POSITION_PRIMARY, LOADOUT_POSITION_SECONDARY, LOADOUT_POSITION_MELEE };
++			for ( int i = 0; i < ARRAYSIZE( s_WeaponSlots ); ++i )
++			{
++				if ( s_WeaponSlots[i] == iSlot )
++					continue;
++
++				CEconItemView *pOther = GetLoadoutItem( iClass, s_WeaponSlots[i] );
++				if ( pOther && pOther->IsValid() && pOther->FindAttribute( pAttrib_ModOnlyWeapon ) )
++					return false;
++			}
++		}
++	}
++
+ 	return true;
+ }
+ 
+@@ -4665,6 +4719,9 @@ void CTFPlayer::ManageRegularWeapons( TFPlayerClassData_t *pData )
+ 			} // For each item in load out
+ 		}
+ 
++		// MOD: weapons added on top of the loadout with "mod extra weapon" / mod_equip ... extra <key>
++		Mod_GiveExtraWeapons();
++
+ 		if ( bItemsChanged )
+ 		{
+ 			CTF_GameStats.Event_PlayerLoadoutChanged( this, false );			
+@@ -4895,6 +4952,14 @@ CEconItemView *CTFPlayer::GetLoadoutItem( int iClass, int iSlot, bool bReportWhi
  			return pItem;
  	}
  
@@ -1402,7 +1688,18 @@ index c030951..c179b2a 100644
  	if ( TFGameRules()->IsInTraining() || TFGameRules()->IsInItemTestingMode() )
  	{
  		CTFInventoryManager *pInventoryManager = TFInventoryManager();
-@@ -7188,12 +7211,18 @@ static void DebugEconItemView( const char *pszDescStr, CEconItemView *pEconItemV
+@@ -5163,6 +5228,10 @@ void CTFPlayer::ValidateWeapons( TFPlayerClassData_t *pData, bool bResetWeapons
+ 		if ( !pWeapon )
+ 			continue;
+ 
++		// MOD: extra weapons aren't part of the loadout; keep the ones still equipped.
++		if ( !bOverrideRemoval && Mod_IsCurrentExtraWeapon( pWeapon ) )
++			continue;
++
+ 		int iLoadoutSlot = pWeapon->GetAttributeContainer()->GetItem()->GetStaticData()->GetLoadoutSlot( GetPlayerClass()->GetClassIndex() );
+ 		CEconItemView *pItem = GetLoadoutItem( GetPlayerClass()->GetClassIndex(), iLoadoutSlot );
+ 
+@@ -7188,12 +7257,18 @@ static void DebugEconItemView( const char *pszDescStr, CEconItemView *pEconItemV
  }
  #endif
  
@@ -1421,7 +1718,60 @@ index c030951..c179b2a 100644
  	if ( FStrEq( pcmd, "addcond" ) )
  	{
  		if ( sv_cheats->GetBool() && args.ArgC() >= 2 )
-@@ -23148,3 +23177,799 @@ void CTFPlayer::ScriptStunPlayer( float flTime, float flReductionAmount, int iSt
+@@ -8258,6 +8333,10 @@ float CTFPlayer::GetObjectBuildSpeedMultiplier( int iObjectType, bool bIsRedeplo
+ 		break;
+ 	}
+ 
++	// MOD: "mod build speed" - faster/slower building from any equipped item
++	// (e.g. the Scrapper's Shotgun), not just from wrench hits.
++	CALL_ATTRIB_HOOK_FLOAT( flBuildRate, mod_build_speed );
++
+ 	return flBuildRate - 1.0f; // sub out the initial 1 so the final result is added
+ }
+ 
+@@ -8795,6 +8874,8 @@ ConVar tf_debug_damage( "tf_debug_damage", "0", FCVAR_CHEAT );
+ //-----------------------------------------------------------------------------
+ // Purpose: 
+ //-----------------------------------------------------------------------------
++static void Mod_LandingShockwave( CTFPlayer *pPlayer, float flFallSpeed, float flStrength );	// MOD: defined at the end of this file
++
+ int CTFPlayer::OnTakeDamage( const CTakeDamageInfo &inputInfo )
+ {
+ 	CTakeDamageInfo info = inputInfo;
+@@ -8968,6 +9049,7 @@ int CTFPlayer::OnTakeDamage( const CTakeDamageInfo &inputInfo )
+ 			if ( pOther && pOther->GetTeamNumber() != GetTeamNumber() )
+ 			{
+ 				float flStompDamage = 10.0f + info.GetDamage() * 3.f;
++				CALL_ATTRIB_HOOK_FLOAT_ON_OTHER( this, flStompDamage, mod_stomp_damage_mult );	// MOD: Bear Feet
+ 
+ 				CTakeDamageInfo infoInner( this, this, GetEquippedWearableForLoadoutSlot( LOADOUT_POSITION_SECONDARY ), flStompDamage, DMG_FALL, TF_DMG_CUSTOM_BOOTS_STOMP );
+ 				pOther->TakeDamage( infoInner );
+@@ -8981,6 +9063,24 @@ int CTFPlayer::OnTakeDamage( const CTakeDamageInfo &inputInfo )
+ 			}
+ 		}
+ 
++		// MOD: "mod landing shockwave" (Bear Feet) - a landing big enough to hurt
++		// throws nearby enemies up and away.
++		float flModShockwave = 0.f;
++		CALL_ATTRIB_HOOK_FLOAT_ON_OTHER( this, flModShockwave, mod_landing_shockwave );
++		if ( flModShockwave > 0.f )
++		{
++			Mod_LandingShockwave( this, flOriginalVelocity, flModShockwave );
++		}
++
++		// MOD: "mod fall damage taken" (Bear Feet: 35% less fall damage). Applied after the
++		// stomp, so the damage dealt to the enemy you land on isn't reduced.
++		float flModFallTaken = 1.f;
++		CALL_ATTRIB_HOOK_FLOAT_ON_OTHER( this, flModFallTaken, mod_fall_damage_taken );
++		if ( flModFallTaken != 1.f )
++		{
++			info.SetDamage( info.GetDamage() * flModFallTaken );
++		}
++
+ /*
+ 		// no fall damage in space
+ 		if (  m_Shared.InCond( TF_COND_SPACE_GRAVITY ) )
+@@ -23148,3 +23248,1077 @@ void CTFPlayer::ScriptStunPlayer( float flTime, float flReductionAmount, int iSt
  {
  	m_Shared.StunPlayer( flTime, flReductionAmount, iStunFlags, ScriptToEntClass< CTFPlayer >( hAttacker ) );
  }
@@ -1442,6 +1792,63 @@ index c030951..c179b2a 100644
 +//    mod_unequip <item | all>
 +//
 +//=============================================================================
++ConVar tf_mod_shockwave_radius( "tf_mod_shockwave_radius", "400", FCVAR_NOTIFY, "Bear Feet: shockwave radius (units) for the biggest falls." );
++ConVar tf_mod_shockwave_force( "tf_mod_shockwave_force", "900", FCVAR_NOTIFY, "Bear Feet: shockwave push strength for the biggest falls." );
++
++//-----------------------------------------------------------------------------
++// Purpose: MOD: Bear Feet landing shockwave. Stronger and wider the faster the
++// fall; enemies in the open get thrown up and away, walls block it.
++//-----------------------------------------------------------------------------
++static void Mod_LandingShockwave( CTFPlayer *pPlayer, float flFallSpeed, float flStrength )
++{
++	if ( !pPlayer || !TFGameRules() )
++		return;
++
++	// 0.5 power at the first fall that hurts, full power at twice that speed.
++	const float flPower = RemapValClamped( flFallSpeed, PLAYER_MAX_SAFE_FALL_SPEED, PLAYER_MAX_SAFE_FALL_SPEED * 2.f, 0.5f, 1.f );
++	const float flRadius = tf_mod_shockwave_radius.GetFloat() * flPower;
++	const float flForce = tf_mod_shockwave_force.GetFloat() * flPower * flStrength;
++	const Vector vecCenter = pPlayer->GetAbsOrigin();
++
++	if ( !( TFGameRules()->IsTruceActive() && pPlayer->IsTruceValidForEnt() ) )
++	{
++		CUtlVector< CTFPlayer * > vecEnemies;
++		CollectPlayers( &vecEnemies, GetEnemyTeam( pPlayer->GetTeamNumber() ), COLLECT_ONLY_LIVING_PLAYERS );
++		FOR_EACH_VEC( vecEnemies, i )
++		{
++			CTFPlayer *pEnemy = vecEnemies[i];
++			Vector vecTo = pEnemy->WorldSpaceCenter() - vecCenter;
++			const float flDist = vecTo.Length();
++			if ( flDist > flRadius )
++				continue;
++
++			trace_t tr;
++			UTIL_TraceLine( pPlayer->WorldSpaceCenter(), pEnemy->WorldSpaceCenter(), MASK_SOLID_BRUSHONLY, pPlayer, COLLISION_GROUP_NONE, &tr );
++			if ( tr.fraction < 1.f )
++				continue;
++
++			// Up and away, weaker at the edge.
++			Vector vecPush = vecTo;
++			vecPush.z = 0.f;
++			if ( vecPush.NormalizeInPlace() < 1.f )
++			{
++				vecPush = Vector( 1.f, 0.f, 0.f );
++			}
++			vecPush.z = 0.75f;
++			vecPush *= flForce * RemapValClamped( flDist, 0.f, flRadius, 1.f, 0.4f );
++
++			pEnemy->SetGroundEntity( NULL );
++			pEnemy->ApplyAbsVelocityImpulse( vecPush );
++			pEnemy->m_Shared.AddCond( TF_COND_KNOCKED_INTO_AIR );
++			pEnemy->m_AchievementData.AddDamagerToHistory( pPlayer );	// credit if they fall to their death
++		}
++	}
++
++	DispatchParticleEffect( "hammer_impact_button", vecCenter, vec3_angle );
++	pPlayer->EmitSound( "Weapon_Mantreads.Impact" );
++	UTIL_ScreenShake( vecCenter, 12.f * flPower, 150.f, 1.f, flRadius * 1.5f, SHAKE_START );
++}
++
 +ConVar tf_mod_allow_all_items( "tf_mod_allow_all_items", "1", FCVAR_NOTIFY, "1 = players can mod_equip any item in TF2's item list. 0 = only this mod's custom items." );
 +
 +#define MOD_ITEM_INDEX_MIN		38000
@@ -1619,6 +2026,7 @@ index c030951..c179b2a 100644
 +struct ModEquipSave_t
 +{
 +	CTFPlayer::ModEquip_t m_Equips[ TF_CLASS_COUNT_ALL ][ CLASS_LOADOUT_POSITION_COUNT ];
++	CTFPlayer::ModEquip_t m_Extras[ TF_CLASS_COUNT_ALL ][ CTFPlayer::MOD_MAX_EXTRA_WEAPONS ];
 +};
 +static CUtlMap< uint32, ModEquipSave_t > s_ModEquipSaves( DefLessFunc( uint32 ) );
 +
@@ -1630,6 +2038,7 @@ index c030951..c179b2a 100644
 +
 +	ModEquipSave_t save;
 +	V_memcpy( save.m_Equips, m_ModEquips, sizeof( save.m_Equips ) );
++	V_memcpy( save.m_Extras, m_ModExtraEquips, sizeof( save.m_Extras ) );
 +	s_ModEquipSaves.InsertOrReplace( steamID.GetAccountID(), save );
 +}
 +
@@ -1655,6 +2064,13 @@ index c030951..c179b2a 100644
 +				Mod_SetItem( iClass, iSlot, save.m_Equips[iClass][iSlot] );
 +			}
 +		}
++		for ( int i = 0; i < MOD_MAX_EXTRA_WEAPONS; ++i )
++		{
++			if ( save.m_Extras[iClass][i].m_iDef != INVALID_ITEM_DEF_INDEX )
++			{
++				Mod_SetExtra( iClass, i, save.m_Extras[iClass][i] );
++			}
++		}
 +	}
 +}
 +
@@ -1674,9 +2090,9 @@ index c030951..c179b2a 100644
 +	}
 +}
 +
-+bool CTFPlayer::Mod_SetItem( int iClass, int iSlot, const ModEquip_t &equip )
++// Builds a local copy of an item with the chosen quality and extras (Australium, Unusual, ...).
++static bool Mod_BuildItemView( CEconItemView &item, const CTFPlayer::ModEquip_t &equip, bool bTaunt )
 +{
-+
 +	// Pick the quality: explicit, else Unusual/Strange if asked for, else Unique.
 +	// (Normal quality would make the game match items by type instead of by ID.)
 +	int iQuality = equip.m_nQuality;
@@ -1685,13 +2101,9 @@ index c030951..c179b2a 100644
 +		iQuality = equip.m_nUnusual ? AE_UNUSUAL : AE_UNIQUE;
 +	}
 +
-+	CEconItemView &item = m_ModEquippedItems[iClass][iSlot];
 +	item.Init( equip.m_iDef, iQuality, AE_USE_SCRIPT_VALUE, false );
 +	if ( !item.GetStaticData() )
-+	{
-+		m_ModEquips[iClass][iSlot].Clear();
 +		return false;
-+	}
 +	item.SetItemID( s_ulNextModItemID++ );
 +
 +	if ( equip.m_bAustralium )
@@ -1706,7 +2118,7 @@ index c030951..c179b2a 100644
 +	if ( equip.m_nUnusual > 0 )
 +	{
 +		// Taunts use their own unusual attribute.
-+		Mod_SetRuntimeAttr( item, IsTauntSlot( iSlot ) ? "taunt attach particle index" : "attach particle effect", (float)equip.m_nUnusual );
++		Mod_SetRuntimeAttr( item, bTaunt ? "taunt attach particle index" : "attach particle effect", (float)equip.m_nUnusual );
 +	}
 +	if ( equip.m_nKillstreakTier > 0 )
 +		Mod_SetRuntimeAttr( item, "killstreak tier", (float)equip.m_nKillstreakTier );
@@ -1717,8 +2129,157 @@ index c030951..c179b2a 100644
 +	if ( iQuality == AE_STRANGE )
 +		Mod_SetRuntimeAttr( item, "kill eater", 0.f );
 +
++	return true;
++}
++
++bool CTFPlayer::Mod_SetItem( int iClass, int iSlot, const ModEquip_t &equip )
++{
++	if ( !Mod_BuildItemView( m_ModEquippedItems[iClass][iSlot], equip, IsTauntSlot( iSlot ) ) )
++	{
++		m_ModEquips[iClass][iSlot].Clear();
++		return false;
++	}
++
 +	m_ModEquips[iClass][iSlot] = equip;
 +	return true;
++}
++
++//-----------------------------------------------------------------------------
++// MOD: extra weapons. Carried on top of the normal loadout, on number key
++// m_nExtraKey; several can share a key (pressing it again cycles through them).
++//-----------------------------------------------------------------------------
++static int Mod_GetExtraKeyFromDef( const GameItemDefinition_t *pDef )
++{
++	static CSchemaAttributeDefHandle pAttrDef_ExtraWeapon( "mod extra weapon" );
++	float flKey = 0.f;
++	if ( pDef && FindAttribute_UnsafeBitwiseCast<attrib_value_t>( pDef, pAttrDef_ExtraWeapon, &flKey ) )
++		return (int)flKey;
++	return 0;
++}
++
++bool CTFPlayer::Mod_SetExtra( int iClass, int iIndex, const ModEquip_t &equip )
++{
++	CEconItemView &item = m_ModExtraItems[iClass][iIndex];
++	if ( !Mod_BuildItemView( item, equip, false ) )
++	{
++		m_ModExtraEquips[iClass][iIndex].Clear();
++		return false;
++	}
++
++	// Which number key, and a spot after the normal weapons on that key (runtime values
++	// override the item's own, and travel to clients with the weapon).
++	Mod_SetRuntimeAttr( item, "mod extra weapon", (float)equip.m_nExtraKey );
++	Mod_SetRuntimeAttr( item, "mod weapon position", (float)( 5 + iIndex ) );
++
++	m_ModExtraEquips[iClass][iIndex] = equip;
++	return true;
++}
++
++CEconItemView *CTFPlayer::Mod_GetExtraItem( int iClass, int iIndex )
++{
++	if ( !m_bModEquipsRestored )
++	{
++		Mod_RestoreSavedEquips();
++	}
++
++	if ( iClass < 0 || iClass >= TF_CLASS_COUNT_ALL || iIndex < 0 || iIndex >= MOD_MAX_EXTRA_WEAPONS )
++		return NULL;
++
++	if ( m_ModExtraEquips[iClass][iIndex].m_iDef == INVALID_ITEM_DEF_INDEX )
++		return NULL;
++
++	CEconItemView *pItem = &m_ModExtraItems[iClass][iIndex];
++	return ( pItem->IsValid() && pItem->GetStaticData() ) ? pItem : NULL;
++}
++
++bool CTFPlayer::Mod_UnequipExtra( int iClass, int iIndex )
++{
++	if ( !Mod_GetExtraItem( iClass, iIndex ) )
++		return false;
++
++	m_ModExtraEquips[iClass][iIndex].Clear();
++	Mod_SaveEquips();
++	Mod_ApplyLoadoutChange( iClass );
++	return true;
++}
++
++bool CTFPlayer::Mod_IsCurrentExtraWeapon( CBaseCombatWeapon *pWeapon )
++{
++	CTFWeaponBase *pTFWeapon = dynamic_cast< CTFWeaponBase * >( pWeapon );
++	if ( !pTFWeapon || !GetPlayerClass() )
++		return false;
++
++	const itemid_t ulItemID = pTFWeapon->GetAttributeContainer()->GetItem()->GetItemID();
++	if ( ulItemID < MOD_FAKE_ITEMID_BASE || ulItemID == INVALID_ITEM_ID )
++		return false;
++
++	const int iClass = GetPlayerClass()->GetClassIndex();
++	for ( int i = 0; i < MOD_MAX_EXTRA_WEAPONS; ++i )
++	{
++		CEconItemView *pItem = Mod_GetExtraItem( iClass, i );
++		if ( pItem && pItem->GetItemID() == ulItemID )
++			return ItemIsAllowed( pItem );
++	}
++	return false;
++}
++
++void CTFPlayer::Mod_GiveExtraWeapons( void )
++{
++	if ( !GetPlayerClass() )
++		return;
++
++	const int iClass = GetPlayerClass()->GetClassIndex();
++	CSteamID ownerSteamID;
++	GetSteamID( &ownerSteamID );
++
++	for ( int i = 0; i < MOD_MAX_EXTRA_WEAPONS; ++i )
++	{
++		CEconItemView *pItem = Mod_GetExtraItem( iClass, i );
++		if ( !pItem || !pItem->GetStaticData()->CanBeUsedByClass( iClass ) || !ItemIsAllowed( pItem ) )
++			continue;
++
++		// Already carrying it (kept through a resupply)?
++		bool bHave = false;
++		for ( int w = 0; w < MAX_WEAPONS && !bHave; ++w )
++		{
++			CTFWeaponBase *pWeapon = dynamic_cast< CTFWeaponBase * >( GetWeapon( w ) );
++			bHave = pWeapon && pWeapon->GetAttributeContainer()->GetItem()->GetItemID() == pItem->GetItemID();
++		}
++		if ( bHave )
++			continue;
++
++		const char *pszItemClass = pItem->GetStaticData()->GetItemClass();
++		if ( !pszItemClass || !*pszItemClass || FStrEq( pszItemClass, "no_entity" ) )
++			continue;
++
++		pszItemClass = TranslateWeaponEntForClass( pszItemClass, iClass );
++		if ( !pszItemClass || !*pszItemClass )
++			continue;
++
++		// Made directly rather than with GiveNamedItem, which refuses a second weapon of a
++		// type you already carry (a second rocket launcher, say).
++		CBaseEntity *pEntity = ItemGeneration()->GenerateItemFromScriptData( pItem, GetLocalOrigin(), vec3_angle, pszItemClass );
++		CTFWeaponBase *pNewWeapon = dynamic_cast< CTFWeaponBase * >( pEntity );
++		if ( !pNewWeapon )
++		{
++			if ( pEntity )
++				UTIL_Remove( pEntity );
++			Warning( "mod_equip: %s can't be an extra weapon (not a weapon).\n", pItem->GetStaticData()->GetDefinitionName() );
++			continue;
++		}
++
++		pNewWeapon->AddSpawnFlags( SF_NORESPAWN );
++		DispatchSpawn( pNewWeapon );
++		if ( pNewWeapon->IsMarkedForDeletion() )
++			continue;
++
++		pNewWeapon->GetAttributeContainer()->GetItem()->SetOverrideAccountID( ownerSteamID.GetAccountID() );
++		pNewWeapon->SetSoundsEnabled( false );
++		pNewWeapon->AddSolidFlags( FSOLID_NOT_SOLID );
++		pNewWeapon->AddEffects( EF_NODRAW );
++		Weapon_Equip( pNewWeapon );
++		pNewWeapon->SetSoundsEnabled( true );
++	}
 +}
 +
 +CEconItemView *CTFPlayer::Mod_GetItem( int iClass, int iSlot )
@@ -1748,6 +2309,12 @@ index c030951..c179b2a 100644
 +		for ( int iSlot = 0; iSlot < CLASS_LOADOUT_POSITION_COUNT; ++iSlot )
 +		{
 +			CEconItemView *pItem = Mod_GetItem( iClass, iSlot );
++			if ( pItem && pItem->GetItemID() == ulItemID )
++				return pItem;
++		}
++		for ( int i = 0; i < MOD_MAX_EXTRA_WEAPONS; ++i )
++		{
++			CEconItemView *pItem = Mod_GetExtraItem( iClass, i );
 +			if ( pItem && pItem->GetItemID() == ulItemID )
 +				return pItem;
 +		}
@@ -1795,6 +2362,52 @@ index c030951..c179b2a 100644
 +	int iSlot = pDef->GetLoadoutSlot( iClass );
 +	if ( iSlot < 0 || iSlot >= CLASS_LOADOUT_POSITION_COUNT )
 +		return false;
++
++	// MOD: an extra weapon, carried on top of the normal loadout?
++	const int iExtraKey = equip.m_nExtraKey ? equip.m_nExtraKey : Mod_GetExtraKeyFromDef( pDef );
++	if ( iExtraKey > 0 )
++	{
++		const char *pszItemClass = pDef->GetItemClass();
++		if ( IsTauntSlot( iSlot ) || pDef->GetTauntData() || IsWearableSlot( iSlot ) || !pszItemClass || FStrEq( pszItemClass, "no_entity" ) )
++		{
++			ClientPrint( this, HUD_PRINTCONSOLE, CFmtStr( "%s isn't a weapon, so it can't be an extra weapon.\n", pDef->GetDefinitionName() ) );
++			return false;
++		}
++		if ( iExtraKey > MAX_WEAPON_SLOTS )
++		{
++			ClientPrint( this, HUD_PRINTCONSOLE, CFmtStr( "Extra weapons go on number keys 1-%d.\n", MAX_WEAPON_SLOTS ) );
++			return false;
++		}
++
++		// Same item again just moves it; otherwise take the first free spot.
++		int iChosen = -1;
++		for ( int i = 0; i < MOD_MAX_EXTRA_WEAPONS && iChosen < 0; ++i )
++		{
++			if ( m_ModExtraEquips[iClass][i].m_iDef == equip.m_iDef )
++				iChosen = i;
++		}
++		for ( int i = 0; i < MOD_MAX_EXTRA_WEAPONS && iChosen < 0; ++i )
++		{
++			if ( m_ModExtraEquips[iClass][i].m_iDef == INVALID_ITEM_DEF_INDEX )
++				iChosen = i;
++		}
++		if ( iChosen < 0 )
++		{
++			ClientPrint( this, HUD_PRINTCONSOLE, CFmtStr( "%s already has %d extra weapons. Remove one with mod_unequip first.\n", g_aPlayerClassNames_NonLocalized[iClass], (int)MOD_MAX_EXTRA_WEAPONS ) );
++			return false;
++		}
++
++		ModEquip_t extra = equip;
++		extra.m_nExtraKey = iExtraKey;
++		if ( !Mod_SetExtra( iClass, iChosen, extra ) )
++			return false;
++
++		Mod_SaveEquips();
++		Mod_PrecacheItemModels( pDef );
++		ClientPrint( this, HUD_PRINTCONSOLE, CFmtStr( "Added %s for %s as an extra weapon on key %d (press it again to cycle).\n", pDef->GetDefinitionName(), g_aPlayerClassNames_NonLocalized[iClass], iExtraKey ) );
++		Mod_ApplyLoadoutChange( iClass );
++		return true;
++	}
 +
 +	// Taunts fill the eight taunt slots the same way cosmetics fill theirs.
 +	const bool bTaunt = IsTauntSlot( iSlot ) || pDef->GetTauntData() != NULL;
@@ -1969,7 +2582,9 @@ index c030951..c179b2a 100644
 +		"           sheen <1-7>  killstreaker <2002-2008>  quality <name>  style <number>\n"
 +		"  Example: mod_equip Rocket Launcher australium killstreak 3 sheen 2 killstreaker 2004\n"
 +		"  Taunts: mod_equip <taunt> puts it in a taunt slot (play with: taunt <slot>),\n"
-+		"          mod_taunt <taunt> plays one right now.\n" );
++		"          mod_taunt <taunt> plays one right now.\n"
++		"  Extra weapons: mod_equip <weapon> extra <key 1-6> carries it on top of your loadout,\n"
++		"          on that number key (press the key again to cycle). Any number per key.\n" );
 +}
 +
 +// Parses option words after the item name. Returns false (after printing why) on a bad option.
@@ -1985,7 +2600,8 @@ index c030951..c179b2a 100644
 +		if ( !V_stricmp( pszOpt, "strange" ) )			{ equip.m_nQuality = AE_STRANGE; continue; }
 +
 +		int *pnTarget = NULL;
-+		if ( !V_stricmp( pszOpt, "unusual" ) )			pnTarget = &equip.m_nUnusual;
++		if ( !V_stricmp( pszOpt, "extra" ) )			pnTarget = &equip.m_nExtraKey;	// MOD: extra weapon on this key
++		else if ( !V_stricmp( pszOpt, "unusual" ) )		pnTarget = &equip.m_nUnusual;
 +		else if ( !V_stricmp( pszOpt, "killstreak" ) )	pnTarget = &equip.m_nKillstreakTier;
 +		else if ( !V_stricmp( pszOpt, "sheen" ) )		pnTarget = &equip.m_nSheen;
 +		else if ( !V_stricmp( pszOpt, "killstreaker" ) )pnTarget = &equip.m_nKillstreaker;
@@ -2189,8 +2805,12 @@ index c030951..c179b2a 100644
 +		if ( !V_stricmp( args.ArgS(), "all" ) )
 +		{
 +			for ( int iClass = 0; iClass < TF_CLASS_COUNT_ALL; ++iClass )
++			{
 +				for ( int iSlot = 0; iSlot < CLASS_LOADOUT_POSITION_COUNT; ++iSlot )
 +					pPlayer->Mod_UnequipItem( iClass, iSlot );
++				for ( int i = 0; i < CTFPlayer::MOD_MAX_EXTRA_WEAPONS; ++i )
++					pPlayer->Mod_UnequipExtra( iClass, i );
++			}
 +
 +			ClientPrint( pPlayer, HUD_PRINTCONSOLE, "Unequipped everything added with mod_equip.\n" );
 +			return true;
@@ -2214,6 +2834,14 @@ index c030951..c179b2a 100644
 +					bFound |= pPlayer->Mod_UnequipItem( iClass, iSlot );
 +				}
 +			}
++			for ( int i = 0; i < CTFPlayer::MOD_MAX_EXTRA_WEAPONS; ++i )
++			{
++				CEconItemView *pItem = pPlayer->Mod_GetExtraItem( iClass, i );
++				if ( pItem && pItem->GetItemDefIndex() == iDefIndex )
++				{
++					bFound |= pPlayer->Mod_UnequipExtra( iClass, i );
++				}
++			}
 +		}
 +		ClientPrint( pPlayer, HUD_PRINTCONSOLE, bFound ? CFmtStr( "Unequipped \"%s\".\n", args.ArgS() ).Get() : CFmtStr( "\"%s\" isn't equipped.\n", args.ArgS() ).Get() );
 +		return true;
@@ -2222,7 +2850,7 @@ index c030951..c179b2a 100644
 +	return false;
 +}
 diff --git a/src/game/server/tf/tf_player.h b/src/game/server/tf/tf_player.h
-index d2affa2..0fb121b 100644
+index d2affa2..7ebfee7 100644
 --- a/src/game/server/tf/tf_player.h
 +++ b/src/game/server/tf/tf_player.h
 @@ -618,7 +618,12 @@ public:
@@ -2239,7 +2867,7 @@ index d2affa2..0fb121b 100644
  	CBaseEntity *GetEntityForLoadoutSlot( int iLoadoutSlot, bool bForceCheckWearable = false );			//Gets whatever entity is associated with the loadout slot (wearable or weapon)
  	CTFWearable *GetEquippedWearableForLoadoutSlot( int iLoadoutSlot );
  
-@@ -1015,6 +1020,43 @@ public:
+@@ -1015,6 +1020,55 @@ public:
  	CEconItemView	*ItemTesting_GetTestItem( int iClass, int iSlot );
  	void				ItemTesting_DeleteItems();
  
@@ -2259,9 +2887,14 @@ index d2affa2..0fb121b 100644
 +		int						m_nKillstreakTier;	// 0..3
 +		int						m_nSheen;		// 1..7, 0 = none
 +		int						m_nKillstreaker;	// 2002..2008, 0 = none
++		int						m_nExtraKey;		// 1..6 = added as an extra weapon on that number key, 0 = normal slot
 +
-+		void Clear() { m_iDef = INVALID_ITEM_DEF_INDEX; m_nQuality = -1; m_nStyle = -1; m_bAustralium = m_bFestive = false; m_nUnusual = m_nKillstreakTier = m_nSheen = m_nKillstreaker = 0; }
++		void Clear() { m_iDef = INVALID_ITEM_DEF_INDEX; m_nQuality = -1; m_nStyle = -1; m_bAustralium = m_bFestive = false; m_nUnusual = m_nKillstreakTier = m_nSheen = m_nKillstreaker = m_nExtraKey = 0; }
 +	};
++
++	// MOD: extra weapons are carried on top of the normal loadout, any number per number key
++	// (press the key again to cycle). Up to this many per class.
++	enum { MOD_MAX_EXTRA_WEAPONS = 12 };
 +
 +	bool				Mod_EquipItem( const ModEquip_t &equip );
 +	bool				Mod_PlayTaunt( const ModEquip_t &equip );
@@ -2269,14 +2902,21 @@ index d2affa2..0fb121b 100644
 +	CEconItemView		*Mod_GetItem( int iClass, int iSlot );
 +	CEconItemView		*Mod_GetItemByID( itemid_t ulItemID );
 +	void				Mod_ApplyLoadoutChange( int iClass );
++	bool				Mod_UnequipExtra( int iClass, int iIndex );
++	CEconItemView		*Mod_GetExtraItem( int iClass, int iIndex );
++	bool				Mod_IsCurrentExtraWeapon( CBaseCombatWeapon *pWeapon );
++	void				Mod_GiveExtraWeapons( void );
 +
 +private:
 +	bool				Mod_SetItem( int iClass, int iSlot, const ModEquip_t &equip );
++	bool				Mod_SetExtra( int iClass, int iIndex, const ModEquip_t &equip );
 +	void				Mod_RestoreSavedEquips( void );
 +	void				Mod_SaveEquips( void );
 +
 +	ModEquip_t				m_ModEquips[ TF_CLASS_COUNT_ALL ][ CLASS_LOADOUT_POSITION_COUNT ];
 +	CEconItemView			m_ModEquippedItems[ TF_CLASS_COUNT_ALL ][ CLASS_LOADOUT_POSITION_COUNT ];
++	ModEquip_t				m_ModExtraEquips[ TF_CLASS_COUNT_ALL ][ MOD_MAX_EXTRA_WEAPONS ];
++	CEconItemView			m_ModExtraItems[ TF_CLASS_COUNT_ALL ][ MOD_MAX_EXTRA_WEAPONS ];
 +	bool					m_bModEquipsRestored;
 +	CEconItemView			m_ModTauntItem;		// taunt played directly with mod_taunt
 +
@@ -2564,7 +3204,7 @@ index d71126b..57ee626 100644
  
  #endif	//TF_PROJECTILE_ROCKET_H
 diff --git a/src/game/shared/econ/econ_entity.cpp b/src/game/shared/econ/econ_entity.cpp
-index 8538310..16e3d19 100644
+index 8538310..0ba4f97 100644
 --- a/src/game/shared/econ/econ_entity.cpp
 +++ b/src/game/shared/econ/econ_entity.cpp
 @@ -832,6 +832,7 @@ void C_ViewmodelAttachmentModel::SetOuter( CEconEntity *pOuter )
@@ -2575,7 +3215,7 @@ index 8538310..16e3d19 100644
  
  	CEconItemView *pItem = pOuter->GetAttributeContainer()->GetItem();
  	if ( pItem->IsValid() )
-@@ -857,7 +858,7 @@ int C_ViewmodelAttachmentModel::InternalDrawModel( int flags )
+@@ -857,13 +858,29 @@ int C_ViewmodelAttachmentModel::InternalDrawModel( int flags )
  {
  #ifdef TF_CLIENT_DLL
  	CMatRenderContextPtr pRenderContext( materials );
@@ -2584,11 +3224,43 @@ index 8538310..16e3d19 100644
  	{
  		pRenderContext->CullMode( MATERIAL_CULLMODE_CW );
  	}
+ #endif
++	// MOD: tint the weapon model (not the arms it's drawn with)
++	Vector vecTint;
++	float flOldColor[3];
++	bool bTint = m_hOuter && m_hOuter->Mod_GetTint( vecTint );
++	if ( bTint )
++	{
++		render->GetColorModulation( flOldColor );
++		float flColor[3] = { flOldColor[0] * vecTint.x, flOldColor[1] * vecTint.y, flOldColor[2] * vecTint.z };
++		render->SetColorModulation( flColor );
++	}
++
+ 	int r = BaseClass::InternalDrawModel( flags );
+ 
++	if ( bTint )
++	{
++		render->SetColorModulation( flOldColor );
++	}
++
+ #ifdef TF_CLIENT_DLL
+ 	pRenderContext->CullMode( MATERIAL_CULLMODE_CCW );
+ #endif
 diff --git a/src/game/shared/econ/econ_entity.h b/src/game/shared/econ/econ_entity.h
-index 5e5139f..eeb0fa4 100644
+index 5e5139f..7823aff 100644
 --- a/src/game/shared/econ/econ_entity.h
 +++ b/src/game/shared/econ/econ_entity.h
-@@ -243,9 +243,13 @@ public:
+@@ -124,6 +124,9 @@ public:
+ 	C_BaseAnimating			*GetViewmodelAttachment( void ) { return m_hViewmodelAttachment.Get(); }
+ 	virtual void			ViewModelAttachmentBlending( CStudioHdr *hdr, Vector pos[], Quaternion q[], float currentTime, int boneMask ) {}
+ 
++	// MOD: colour tint for this item's models (0-1 per channel). False = no tint.
++	virtual bool			Mod_GetTint( Vector &vecTint ) { return false; }
++
+ 	void					SetWaitingToLoad( bool bWaiting );
+ 
+ 	virtual bool			ValidateEntityAttachedToPlayer( bool &bShouldRetry );
+@@ -243,9 +246,13 @@ public:
  
  	virtual int GetSkin( void );
  
@@ -2603,10 +3275,10 @@ index 5e5139f..eeb0fa4 100644
  #endif // !defined( DOTA_DLL )
  #endif // defined( CLIENT_DLL )
 diff --git a/src/game/shared/econ/econ_item_schema.cpp b/src/game/shared/econ/econ_item_schema.cpp
-index 50bbea3..615c7c4 100644
+index 50bbea3..16889c3 100644
 --- a/src/game/shared/econ/econ_item_schema.cpp
 +++ b/src/game/shared/econ/econ_item_schema.cpp
-@@ -4615,6 +4615,130 @@ EEquipType_t CEconItemSchema::GetEquipTypeFromClassIndex( int iClass ) const
+@@ -4615,6 +4615,182 @@ EEquipType_t CEconItemSchema::GetEquipTypeFromClassIndex( int iClass ) const
  	return EEquipType_t::EQUIP_TYPE_INVALID;
  }
  
@@ -2635,6 +3307,11 @@ index 50bbea3..615c7c4 100644
 +// keeps the model, sounds, animations and visuals) and strips its attributes,
 +// base-item flag and set membership. Every other key you give replaces the
 +// copied key of the same name entirely (blocks are replaced, not merged).
++//
++// Exception: attributes the weapon type needs just to work (the flamethrower's
++// flame_* physics, "extinguish restores health", viewmodel/inspect settings) are
++// kept from the copied item and merged under your "static_attrs". Your own value
++// for the same attribute wins.
 +//-----------------------------------------------------------------------------
 +#define MOD_ITEMS_FILE "scripts/items/items_mod.txt"
 +
@@ -2661,6 +3338,29 @@ index 50bbea3..615c7c4 100644
 +}
 +
 +void MergeDefinitionPrefab( KeyValues *pKVWriteItem, KeyValues *pKVSourceItem );
++
++static bool Mod_IsBaseMechanicAttribute( const char *pszName )
++{
++	static const char *s_pszKeep[] =
++	{
++		"extinguish restores health",
++		"min_viewmodel_offset",
++		"inspect_viewmodel_offset",
++		"weapon_allow_inspect",
++		"weapon_uses_stattrak_module",
++		"weapon_stattrak_module_scale",
++	};
++
++	if ( !V_strnicmp( pszName, "flame_", 6 ) )
++		return true;
++
++	for ( int i = 0; i < ARRAYSIZE( s_pszKeep ); ++i )
++	{
++		if ( !V_stricmp( pszName, s_pszKeep[i] ) )
++			return true;
++	}
++	return false;
++}
 +
 +static void Mod_MergeCustomItems( KeyValues *pKVRawDefinition )
 +{
@@ -2690,6 +3390,7 @@ index 50bbea3..615c7c4 100644
 +		FOR_EACH_TRUE_SUBKEY( pModItems, pModItem )
 +		{
 +			KeyValues *pNewItem = new KeyValues( pModItem->GetName() );
++			KeyValues *pKeepAttrs = NULL;
 +
 +			const char *pszCopyFrom = pModItem->GetString( "mod_copy_from", NULL );
 +			if ( pszCopyFrom && *pszCopyFrom )
@@ -2698,6 +3399,18 @@ index 50bbea3..615c7c4 100644
 +				if ( pSource )
 +				{
 +					MergeDefinitionPrefab( pNewItem, pSource );
++
++					// Hold on to the attributes this kind of weapon needs to work.
++					KeyValues *pSourceAttrs = pNewItem->FindKey( "static_attrs" );
++					if ( pSourceAttrs )
++					{
++						pKeepAttrs = new KeyValues( "static_attrs" );
++						FOR_EACH_SUBKEY( pSourceAttrs, pAttr )
++						{
++							if ( Mod_IsBaseMechanicAttribute( pAttr->GetName() ) )
++								pKeepAttrs->AddSubKey( pAttr->MakeCopy() );
++						}
++					}
 +
 +					// Don't inherit identity or stats from the source item.
 +					Mod_RemoveAllKeysNamed( pNewItem, "prefab" );
@@ -2723,6 +3436,17 @@ index 50bbea3..615c7c4 100644
 +				pNewItem->AddSubKey( pKey->MakeCopy() );
 +			}
 +
++			if ( pKeepAttrs )
++			{
++				KeyValues *pDestAttrs = pNewItem->FindKey( "static_attrs", true );
++				FOR_EACH_SUBKEY( pKeepAttrs, pAttr )
++				{
++					if ( !pDestAttrs->FindKey( pAttr->GetName() ) )
++						pDestAttrs->AddSubKey( pAttr->MakeCopy() );
++				}
++				pKeepAttrs->deleteThis();
++			}
++
 +			Mod_RemoveAllKeysNamed( pItems, pModItem->GetName() );
 +			pItems->AddSubKey( pNewItem );
 +			++nItems;
@@ -2737,7 +3461,7 @@ index 50bbea3..615c7c4 100644
  //-----------------------------------------------------------------------------
  // Purpose:	Initializes the schema
  // Input:	pKVRawDefinition - The raw KeyValues representation of the schema
-@@ -4642,6 +4766,12 @@ bool CEconItemSchema::BInitSchema( KeyValues *pKVRawDefinition, CUtlVector<CUtlS
+@@ -4642,6 +4818,12 @@ bool CEconItemSchema::BInitSchema( KeyValues *pKVRawDefinition, CUtlVector<CUtlS
  		SCHEMA_INIT_SUBSTEP( BInitDefinitionPrefabs( pKVPrefabs, pVecErrors ) );
  	}
  
@@ -2750,6 +3474,23 @@ index 50bbea3..615c7c4 100644
  	// Initialize the game info block
  	KeyValues *pKVGameInfo = pKVRawDefinition->FindKey( "game_info" );
  	SCHEMA_INIT_CHECK( NULL != pKVGameInfo, "Required key \"game_info\" missing.\n" );
+diff --git a/src/game/shared/tf/tf_player_shared.cpp b/src/game/shared/tf/tf_player_shared.cpp
+index 97be022..ce6bc16 100644
+--- a/src/game/shared/tf/tf_player_shared.cpp
++++ b/src/game/shared/tf/tf_player_shared.cpp
+@@ -11953,6 +11953,12 @@ CBaseEntity *CTFPlayer::GetEntityForLoadoutSlot( int iLoadoutSlot, bool bForceCh
+ 			if ( !pItemDef )
+ 				continue;
+ 
++			// MOD: extra weapons ride along on top of the loadout; they never stand in for a slot.
++			int iModExtraWeapon = 0;
++			CALL_ATTRIB_HOOK_INT_ON_OTHER( GetWeapon(i), iModExtraWeapon, mod_extra_weapon );
++			if ( iModExtraWeapon > 0 )
++				continue;
++
+ 			if ( pItemDef->GetLoadoutSlot( iClass ) == iLoadoutSlot )
+ 				return GetWeapon(i);
+ 		}
 diff --git a/src/game/shared/tf/tf_shareddefs.cpp b/src/game/shared/tf/tf_shareddefs.cpp
 index bd54279..96cb8d6 100644
 --- a/src/game/shared/tf/tf_shareddefs.cpp
@@ -2975,8 +3716,188 @@ index 3032593..65237c0 100644
  #endif
  };
  
+diff --git a/src/game/shared/tf/tf_weapon_flamethrower.cpp b/src/game/shared/tf/tf_weapon_flamethrower.cpp
+index 65810b2..bdab47d 100644
+--- a/src/game/shared/tf/tf_weapon_flamethrower.cpp
++++ b/src/game/shared/tf/tf_weapon_flamethrower.cpp
+@@ -16,6 +16,8 @@
+ #if defined( CLIENT_DLL )
+ 
+ 	#include "c_tf_player.h"
++	#include "c_tf_projectile_rocket.h"		// MOD: auto reflect
++	#include "c_tf_projectile_energy_ball.h"	// MOD: auto reflect
+ 	#include "vstdlib/random.h"
+ 	#include "engine/IEngineSound.h"
+ 	#include "prediction.h"
+@@ -35,6 +37,8 @@
+ 	#include "tf_weaponbase_grenadeproj.h"
+ 	#include "tf_weapon_compound_bow.h"
+ 	#include "tf_projectile_arrow.h"
++	#include "tf_projectile_rocket.h"		// MOD: auto reflect
++	#include "tf_projectile_energy_ball.h"	// MOD: auto reflect
+ 	#include "NextBot/NextBotManager.h"
+ 	#include "halloween/merasmus/merasmus_trick_or_treat_prop.h"
+ 	#include "tf_logic_robot_destruction.h"
+@@ -558,6 +562,10 @@ void CTFFlameThrower::ItemPostFrame()
+ 	{
+ 		SecondaryAttack();
+ 	}
++	else if ( Mod_AutoReflectRockets() )	// MOD: airblast incoming rockets by itself
++	{
++		iAmmo = pOwner->GetAmmoCount( m_iPrimaryAmmoType );
++	}
+ 
+ 	// Fixes an exploit where the airblast effect repeats while +attack is active
+ 	if ( m_bFiredBothAttacks )
+@@ -1048,6 +1056,118 @@ void CTFFlameThrower::FireAirBlast( int iAmmoPerShot )
+ 	pOwner->RemoveAmmo( iAmmoPerShot, m_iPrimaryAmmoType );
+ }
+ 
++//-----------------------------------------------------------------------------
++// Purpose: MOD: "mod auto reflect rockets". When an enemy rocket is about to hit
++// us and an airblast is ready, airblast on our own and send it where we're
++// aiming. Runs on the server and in client prediction, so the airblast shows
++// on the player's own screen too; the server decides what actually happens.
++//-----------------------------------------------------------------------------
++ConVar tf_mod_autoreflect_range( "tf_mod_autoreflect_range", "220", FCVAR_REPLICATED | FCVAR_NOTIFY, "Auto-reflect flamethrower: how close (units) an incoming rocket gets before it's airblasted." );
++
++static bool Mod_IsReflectableRocket( CBaseEntity *pEntity )
++{
++	return dynamic_cast< CTFProjectile_Rocket * >( pEntity ) != NULL			// rockets, incl. Direct Hit, Air Strike, sentry rockets
++		|| dynamic_cast< CTFProjectile_EnergyBall * >( pEntity ) != NULL;	// Cow Mangler
++}
++
++bool CTFFlameThrower::Mod_AutoReflectRockets( void )
++{
++	int iAutoReflect = 0;
++	CALL_ATTRIB_HOOK_INT( iAutoReflect, mod_auto_reflect_rockets );
++	if ( !iAutoReflect )
++		return false;
++
++	CTFPlayer *pOwner = GetTFPlayerOwner();
++	if ( !pOwner || !pOwner->IsAlive() || pOwner->GetActiveWeapon() != this )
++		return false;
++
++	if ( m_flNextSecondaryAttack > gpGlobals->curtime || m_flChargeBeginTime > 0 )
++		return false;
++
++	if ( pOwner->GetWaterLevel() == WL_Eyes || !CanAttack() || !CanAirBlast() || !CanAirBlastDeflectProjectile() )
++		return false;
++
++	float flMultAmmoPerShot = 1.0f;
++	CALL_ATTRIB_HOOK_FLOAT( flMultAmmoPerShot, mult_airblast_cost );
++	int iAmmoPerShot = tf_flamethrower_burstammo.GetInt() * flMultAmmoPerShot;
++	if ( pOwner->GetAmmoCount( m_iPrimaryAmmoType ) < iAmmoPerShot )
++		return false;
++
++#ifdef GAME_DLL
++	if ( TFGameRules() && TFGameRules()->IsTruceActive() && pOwner->IsTruceValidForEnt() )
++		return false;
++#endif
++
++	// Find enemy rockets close by and heading at us.
++	const float flRange = tf_mod_autoreflect_range.GetFloat();
++	const Vector vecCenter = pOwner->WorldSpaceCenter();
++	const int iEnemyTeam = GetEnemyTeam( pOwner->GetTeamNumber() );
++
++	CBaseEntity *pList[64];
++#ifdef CLIENT_DLL
++	int nCount = UTIL_EntitiesInSphere( pList, ARRAYSIZE( pList ), vecCenter, flRange, 0 );
++#else
++	int nCount = UTIL_EntitiesInSphere( pList, ARRAYSIZE( pList ), vecCenter, flRange, FL_GRENADE );
++#endif
++
++	CUtlVector< CBaseEntity * > vecIncoming;
++	for ( int i = 0; i < nCount; ++i )
++	{
++		CBaseEntity *pEntity = pList[i];
++		if ( !pEntity || pEntity->GetTeamNumber() != iEnemyTeam || !Mod_IsReflectableRocket( pEntity ) )
++			continue;
++
++		Vector vecVel;
++#ifdef CLIENT_DLL
++		pEntity->EstimateAbsVelocity( vecVel );
++#else
++		vecVel = pEntity->GetAbsVelocity();
++#endif
++		if ( vecVel.NormalizeInPlace() < 1.f )
++			continue;
++
++		// Heading our way, and its path passes within ~body size of us?
++		const Vector vecToMe = vecCenter - pEntity->WorldSpaceCenter();
++		const float flAlong = DotProduct( vecToMe, vecVel );
++		if ( flAlong <= 0.f )
++			continue;
++
++		if ( ( vecToMe - vecVel * flAlong ).LengthSqr() > 100.f * 100.f )
++			continue;
++
++		trace_t tr;
++		UTIL_TraceLine( pOwner->EyePosition(), pEntity->WorldSpaceCenter(), MASK_SOLID_BRUSHONLY, pOwner, COLLISION_GROUP_NONE, &tr );
++		if ( tr.fraction < 1.f )
++			continue;
++
++		vecIncoming.AddToTail( pEntity );
++	}
++
++	if ( !vecIncoming.Count() )
++		return false;
++
++#ifdef GAME_DLL
++	// Send each one where we're aiming, wherever it came from.
++	Vector vecForward;
++	AngleVectors( pOwner->EyeAngles(), &vecForward );
++	bool bDeflected = false;
++	FOR_EACH_VEC( vecIncoming, i )
++	{
++		bDeflected |= DeflectEntity( vecIncoming[i], pOwner, vecForward );
++	}
++	if ( bDeflected )
++	{
++		pOwner->SpeakConceptIfAllowed( MP_CONCEPT_DEFLECTED, "victim:0" );
++		PlayDeflectionSound( false );
++	}
++#endif
++
++	// The airblast itself: animation, sound, ammo, cooldown (and it still pushes
++	// whatever is in front of us, like a normal airblast).
++	FireAirBlast( iAmmoPerShot );
++	return true;
++}
++
+ //-----------------------------------------------------------------------------
+ // Purpose: 
+ //-----------------------------------------------------------------------------
+diff --git a/src/game/shared/tf/tf_weapon_flamethrower.h b/src/game/shared/tf/tf_weapon_flamethrower.h
+index 96f7344..158f88c 100644
+--- a/src/game/shared/tf/tf_weapon_flamethrower.h
++++ b/src/game/shared/tf/tf_weapon_flamethrower.h
+@@ -87,6 +87,7 @@ public:
+ 	bool			CanAirBlastPutOutTeammate() const;
+ 
+ 	void			FireAirBlast( int iAmmoPerShot );
++	bool			Mod_AutoReflectRockets( void );	// MOD: "mod auto reflect rockets"
+ 
+ 	float			GetSpinUpTime( void ) const;
+ 	virtual bool	IsFiring( void ) const OVERRIDE { return m_iWeaponState == FT_STATE_FIRING; }
+diff --git a/src/game/shared/tf/tf_weapon_invis.cpp b/src/game/shared/tf/tf_weapon_invis.cpp
+index 3333739..e959472 100644
+--- a/src/game/shared/tf/tf_weapon_invis.cpp
++++ b/src/game/shared/tf/tf_weapon_invis.cpp
+@@ -339,7 +339,10 @@ void CTFWeaponInvis::SetCloakRates( void )
+ 
+ 	float fCloakRegenRate = tf_spy_cloak_regen_rate.GetFloat();
+ 	float fCloakRegenFactor = 1.0f;
+-	CALL_ATTRIB_HOOK_FLOAT( fCloakRegenFactor, mult_cloak_meter_regen_rate );
++	// MOD: ask the owner (like the consume rate above), so a regen penalty on another
++	// weapon such as the Shadow Shank knife counts too. The watch's own value still
++	// counts once, through the owner.
++	CALL_ATTRIB_HOOK_FLOAT_ON_OTHER( pOwner, fCloakRegenFactor, mult_cloak_meter_regen_rate );
+ 	pOwner->m_Shared.SetCloakRegenRate( fCloakRegenRate * fCloakRegenFactor );
+ }
+ 
 diff --git a/src/game/shared/tf/tf_weaponbase.cpp b/src/game/shared/tf/tf_weaponbase.cpp
-index 638cc6f..ee1110d 100644
+index 638cc6f..4900052 100644
 --- a/src/game/shared/tf/tf_weaponbase.cpp
 +++ b/src/game/shared/tf/tf_weaponbase.cpp
 @@ -202,6 +202,7 @@ BEGIN_NETWORK_TABLE( CTFWeaponBase, DT_TFWeaponBase )
@@ -3003,7 +3924,14 @@ index 638cc6f..ee1110d 100644
  #endif
  END_PREDICTION_DATA()
  
-@@ -340,6 +343,7 @@ CTFWeaponBase::CTFWeaponBase()
+@@ -334,12 +337,14 @@ CTFWeaponBase::CTFWeaponBase()
+ #ifdef CLIENT_DLL
+ 	m_iCachedModelIndex = 0;
+ 	m_iEjectBrassAttachpoint = -2;
++	m_nModTint = -1;	// MOD
+ 
+ 	m_bInitViewmodelOffset = false;
+ 	m_vecViewmodelOffset = vec3_origin;
  #endif // CLIENT_DLL
  
  	m_bBeingRepurposedForTaunt = false;
@@ -3011,7 +3939,7 @@ index 638cc6f..ee1110d 100644
  
  	m_nKillComboClass = 0;
  	ClearKillComboCount();
-@@ -549,6 +553,20 @@ int CTFWeaponBase::GetWeaponID( void ) const
+@@ -549,6 +554,40 @@ int CTFWeaponBase::GetWeaponID( void ) const
  	return TF_WEAPON_NONE; 
  }
  
@@ -3021,6 +3949,12 @@ index 638cc6f..ee1110d 100644
 +// -----------------------------------------------------------------------------
 +int CTFWeaponBase::GetSlot( void ) const
 +{
++	// MOD: extra weapons sit on their own number key.
++	int iExtraKey = 0;
++	CALL_ATTRIB_HOOK_INT( iExtraKey, mod_extra_weapon );
++	if ( iExtraKey > 0 && iExtraKey <= MAX_WEAPON_SLOTS )
++		return iExtraKey - 1;
++
 +	int iKey = 0;
 +	CALL_ATTRIB_HOOK_INT( iKey, mod_weapon_bucket );
 +	if ( iKey > 0 )
@@ -3029,13 +3963,39 @@ index 638cc6f..ee1110d 100644
 +	return BaseClass::GetSlot();
 +}
 +
++// -----------------------------------------------------------------------------
++// Purpose: MOD: order within a number key, so several weapons on one key can be
++// cycled through. Extra weapons get 5, 6, 7... (after the normal weapons).
++// -----------------------------------------------------------------------------
++int CTFWeaponBase::GetPosition( void ) const
++{
++	int iPosition = 0;
++	CALL_ATTRIB_HOOK_INT( iPosition, mod_weapon_position );
++	if ( iPosition > 0 )
++		return Min( iPosition, MAX_WEAPON_POSITIONS - 1 );
++
++	return BaseClass::GetPosition();
++}
++
  // -----------------------------------------------------------------------------
  // Purpose:
  // -----------------------------------------------------------------------------
-@@ -665,6 +683,17 @@ const char *CTFWeaponBase::GetViewModel( int iViewModel ) const
+@@ -665,6 +704,29 @@ const char *CTFWeaponBase::GetViewModel( int iViewModel ) const
  	const CEconItemView *pItem = GetAttributeContainer()->GetItem();
  	if ( pPlayer && pItem->IsValid() && pItem->GetStaticData()->ShouldAttachToHands() )
  	{
++		// MOD: "mod viewmodel arms model" - a custom first-person arms model, for weapons
++		// with their own animations (e.g. an arms model that $includemodel's the class's
++		// normal arms and adds new sequences).
++		CAttribute_String strArmsModel;
++		CALL_ATTRIB_HOOK_STRING( strArmsModel, mod_viewmodel_arms_model );
++		const char *pszArmsModel = strArmsModel.value().c_str();
++		if ( pszArmsModel && pszArmsModel[0] )
++		{
++			m_strModArmsModel = pszArmsModel;
++			return m_strModArmsModel.Get();
++		}
++
 +		// MOD: "mod viewmodel arms class" shows another class's first-person arms (and their
 +		// animations) for this weapon, e.g. the Spy's arms for Heavy's Bear Arms revolver.
 +		int iArmsClass = 0;
@@ -3050,7 +4010,7 @@ index 638cc6f..ee1110d 100644
  		// Should always be valid, because players without classes shouldn't be carrying items
  		const char *pszHandModel = pPlayer->GetPlayerClass()->GetHandModelName( iHandModelIndex );
  		Assert( pszHandModel );
-@@ -781,6 +810,116 @@ poseparamtable_t *CTFWeaponBase::GetItemPoseParamList( int &iPoseParamCount )
+@@ -781,6 +843,116 @@ poseparamtable_t *CTFWeaponBase::GetItemPoseParamList( int &iPoseParamCount )
  // Purpose: 
  //-----------------------------------------------------------------------------
  bool CTFWeaponBase::SendWeaponAnim( int iActivity )
@@ -3167,7 +4127,24 @@ index 638cc6f..ee1110d 100644
  {
  	CTFPlayer *pPlayer = GetTFPlayerOwner();
  	if ( !pPlayer )
-@@ -1153,6 +1292,16 @@ void CTFWeaponBase::UpdateOnRemove( void )
+@@ -828,6 +1000,16 @@ void CTFWeaponBase::Equip( CBaseCombatCharacter *pOwner )
+ 	// If we attach to our hands, we need to update our viewmodel when we get a new owner.
+ 	UpdateHands();
+ 
++#ifdef GAME_DLL
++	// MOD: make sure a custom first-person arms model is loaded before it's used.
++	CAttribute_String strModArmsModel;
++	CALL_ATTRIB_HOOK_STRING( strModArmsModel, mod_viewmodel_arms_model );
++	if ( strModArmsModel.value().c_str()[0] )
++	{
++		CBaseEntity::PrecacheModel( strModArmsModel.value().c_str() );
++	}
++#endif
++
+ 	CEconItemView *pItem = GetAttributeContainer()->GetItem();
+ 	if ( pItem->IsValid() )
+ 	{
+@@ -1153,6 +1335,21 @@ void CTFWeaponBase::UpdateOnRemove( void )
  {
  	RemoveExtraWearables();
  
@@ -3179,12 +4156,17 @@ index 638cc6f..ee1110d 100644
 +		m_hModDualAttachment->Release();
 +		m_hModDualAttachment = NULL;
 +	}
++	if ( m_hModDualWorldModel )
++	{
++		m_hModDualWorldModel->Release();
++		m_hModDualWorldModel = NULL;
++	}
 +#endif
 +
  	BaseClass::UpdateOnRemove();
  }
  
-@@ -1220,7 +1369,12 @@ bool CTFWeaponBase::Holster( CBaseCombatWeapon *pSwitchingTo )
+@@ -1220,7 +1417,12 @@ bool CTFWeaponBase::Holster( CBaseCombatWeapon *pSwitchingTo )
  #endif // GAME_DLL
  	m_iConsecutiveShots = 0;
  
@@ -3198,7 +4180,7 @@ index 638cc6f..ee1110d 100644
  }
  
  //-----------------------------------------------------------------------------
-@@ -1240,6 +1394,7 @@ bool CTFWeaponBase::Deploy( void )
+@@ -1240,6 +1442,7 @@ bool CTFWeaponBase::Deploy( void )
  #endif
  
  	m_iReloadMode.Set( TF_RELOAD_START );
@@ -3206,7 +4188,7 @@ index 638cc6f..ee1110d 100644
  
  	float flOriginalPrimaryAttack = m_flNextPrimaryAttack;
  	float flOriginalSecondaryAttack = m_flNextSecondaryAttack;
-@@ -3086,6 +3241,12 @@ C_BaseAnimating *CTFWeaponBase::GetAppropriateWorldOrViewModel()
+@@ -3086,6 +3289,12 @@ C_BaseAnimating *CTFWeaponBase::GetAppropriateWorldOrViewModel()
  		const CEconItemView *pItem = GetAttributeContainer()->GetItem();
  		if ( pItem->IsValid() && pItem->GetStaticData()->ShouldAttachToHands() )
  		{
@@ -3219,7 +4201,7 @@ index 638cc6f..ee1110d 100644
  			C_BaseAnimating *pVMAttach = GetViewmodelAttachment();
  			if ( pVMAttach != NULL )
  			{
-@@ -3395,9 +3556,82 @@ void CTFWeaponBase::UpdateAttachmentModels( void )
+@@ -3395,9 +3604,316 @@ void CTFWeaponBase::UpdateAttachmentModels( void )
  		// Normal weapons use the base class implementation
  		BaseClass::UpdateAttachmentModels();
  	}
@@ -3228,6 +4210,240 @@ index 638cc6f..ee1110d 100644
  #endif
  }
  
++//=============================================================================
++// MOD: dual wield, third person. A client-side copy of the weapon's world model
++// that every client draws in the owner's left hand. Each frame it takes the
++// right-hand gun's bones, mirrors them across the player's body, and moves them
++// from the right hand to the left hand, so the second gun is held the same way.
++//=============================================================================
++class C_ModDualWorldModel : public C_BaseAnimating
++{
++	DECLARE_CLASS( C_ModDualWorldModel, C_BaseAnimating );
++public:
++	void SetWeapon( C_TFWeaponBase *pWeapon ) { m_hWeapon = pWeapon; }
++	bool ShouldShow( void );
++
++	virtual int DrawModel( int flags ) OVERRIDE;
++	virtual int InternalDrawModel( int flags ) OVERRIDE;
++	virtual bool OnInternalDrawModel( ClientModelRenderInfo_t *pInfo ) OVERRIDE;
++	virtual void BuildTransformations( CStudioHdr *pStudioHdr, Vector *pos, Quaternion q[], const matrix3x4_t& cameraTransform, int boneMask, CBoneBitList &boneComputed ) OVERRIDE;
++	virtual void GetRenderBounds( Vector& theMins, Vector& theMaxs ) OVERRIDE;
++	virtual ShadowType_t ShadowCastType() OVERRIDE { return SHADOWS_NONE; }
++	virtual void GetColorModulation( float *color ) OVERRIDE;
++
++private:
++	CHandle<C_TFWeaponBase> m_hWeapon;
++};
++
++bool C_ModDualWorldModel::ShouldShow( void )
++{
++	C_TFWeaponBase *pWeapon = m_hWeapon.Get();
++	if ( !pWeapon || pWeapon->IsDormant() )
++		return false;
++
++	C_TFPlayer *pOwner = ToTFPlayer( pWeapon->GetOwner() );
++	if ( !pOwner || pOwner->IsDormant() || !pOwner->IsAlive() || !pOwner->ShouldDrawThisPlayer() )
++		return false;
++
++	if ( pOwner->GetActiveWeapon() != pWeapon || pWeapon->IsEffectActive( EF_NODRAW ) || !pWeapon->ShouldDraw() )
++		return false;
++
++	// Only while the right-hand gun is showing the same world model as us.
++	if ( pWeapon->GetModelIndex() != GetModelIndex() )
++		return false;
++
++	if ( pOwner->GetPercentInvisible() > 0.f )
++		return false;
++
++	return true;
++}
++
++void C_ModDualWorldModel::GetColorModulation( float *color )
++{
++	BaseClass::GetColorModulation( color );
++
++	Vector vecTint;
++	if ( m_hWeapon.Get() && m_hWeapon->Mod_GetTint( vecTint ) )
++	{
++		color[0] *= vecTint.x;
++		color[1] *= vecTint.y;
++		color[2] *= vecTint.z;
++	}
++}
++
++int C_ModDualWorldModel::DrawModel( int flags )
++{
++	if ( !ShouldShow() )
++		return 0;
++
++	m_nSkin = m_hWeapon->GetSkin();
++	return BaseClass::DrawModel( flags );
++}
++
++int C_ModDualWorldModel::InternalDrawModel( int flags )
++{
++	// The bones are a mirror image, so the faces wind the other way.
++	CMatRenderContextPtr pRenderContext( materials );
++	pRenderContext->CullMode( MATERIAL_CULLMODE_CW );
++	int ret = BaseClass::InternalDrawModel( flags );
++	pRenderContext->CullMode( MATERIAL_CULLMODE_CCW );
++	return ret;
++}
++
++bool C_ModDualWorldModel::OnInternalDrawModel( ClientModelRenderInfo_t *pInfo )
++{
++	// Light it like the player holding it.
++	C_BaseEntity *pOwner = m_hWeapon.Get() ? m_hWeapon->GetOwner() : NULL;
++	if ( pOwner && pInfo )
++	{
++		pInfo->pLightingOrigin = &( pOwner->WorldSpaceCenter() );
++	}
++	return BaseClass::OnInternalDrawModel( pInfo );
++}
++
++void C_ModDualWorldModel::GetRenderBounds( Vector& theMins, Vector& theMaxs )
++{
++	// We sit at the player's feet but draw at their hand.
++	theMins.Init( -64.f, -64.f, -16.f );
++	theMaxs.Init( 64.f, 64.f, 112.f );
++}
++
++void C_ModDualWorldModel::BuildTransformations( CStudioHdr *pStudioHdr, Vector *pos, Quaternion q[], const matrix3x4_t& cameraTransform, int boneMask, CBoneBitList &boneComputed )
++{
++	BaseClass::BuildTransformations( pStudioHdr, pos, q, cameraTransform, boneMask, boneComputed );
++
++	C_TFWeaponBase *pWeapon = m_hWeapon.Get();
++	C_TFPlayer *pOwner = pWeapon ? ToTFPlayer( pWeapon->GetOwner() ) : NULL;
++	if ( !pOwner || !pStudioHdr || pWeapon->GetModelIndex() != GetModelIndex() )
++		return;
++
++	CStudioHdr *pWeaponHdr = pWeapon->GetModelPtr();
++	if ( !pWeaponHdr || pWeaponHdr->numbones() != pStudioHdr->numbones() )
++		return;
++
++	int iHandR = pOwner->LookupBone( "bip_hand_R" );
++	int iHandL = pOwner->LookupBone( "bip_hand_L" );
++	if ( iHandR < 0 || iHandL < 0 )
++		return;
++
++	static matrix3x4_t s_OwnerBones[MAXSTUDIOBONES];
++	static matrix3x4_t s_WeaponBones[MAXSTUDIOBONES];
++	if ( !pOwner->SetupBones( s_OwnerBones, MAXSTUDIOBONES, BONE_USED_BY_ANYTHING, gpGlobals->curtime ) )
++		return;
++	if ( !pWeapon->SetupBones( s_WeaponBones, MAXSTUDIOBONES, BONE_USED_BY_ANYTHING, gpGlobals->curtime ) )
++		return;
++
++	// Mirror across the player's body: reflect along their right/left axis.
++	QAngle angYaw( 0.f, pOwner->GetRenderAngles()[YAW], 0.f );
++	Vector n;
++	AngleVectors( angYaw, NULL, &n, NULL );
++
++	matrix3x4_t matReflect;
++	for ( int r = 0; r < 3; ++r )
++	{
++		for ( int c = 0; c < 3; ++c )
++		{
++			matReflect[r][c] = ( r == c ? 1.f : 0.f ) - 2.f * n[r] * n[c];
++		}
++		matReflect[r][3] = 0.f;
++	}
++
++	Vector vecHandR, vecHandL;
++	MatrixPosition( s_OwnerBones[iHandR], vecHandR );
++	MatrixPosition( s_OwnerBones[iHandL], vecHandL );
++
++	for ( int i = 0; i < pStudioHdr->numbones(); ++i )
++	{
++		matrix3x4_t matBone;
++		ConcatTransforms( matReflect, s_WeaponBones[i], matBone );
++
++		// Same offset from the left hand as the right gun has from the right hand (mirrored).
++		Vector vecPos, vecMirrored;
++		MatrixPosition( s_WeaponBones[i], vecPos );
++		VectorRotate( vecPos - vecHandR, matReflect, vecMirrored );
++		MatrixSetColumn( vecMirrored + vecHandL, 3, matBone );
++
++		MatrixCopy( matBone, GetBoneForWrite( i ) );
++	}
++}
++
++//-----------------------------------------------------------------------------
++// Purpose: MOD: "mod weapon tint" - each custom weapon gets its own colour.
++//-----------------------------------------------------------------------------
++bool CTFWeaponBase::Mod_GetTint( Vector &vecTint )
++{
++	if ( m_nModTint < 0 )
++		return false;
++
++	vecTint.Init( ( ( m_nModTint >> 16 ) & 0xFF ) / 255.f, ( ( m_nModTint >> 8 ) & 0xFF ) / 255.f, ( m_nModTint & 0xFF ) / 255.f );
++	return true;
++}
++
++void CTFWeaponBase::GetColorModulation( float *color )
++{
++	BaseClass::GetColorModulation( color );
++
++	Vector vecTint;
++	if ( Mod_GetTint( vecTint ) )
++	{
++		color[0] *= vecTint.x;
++		color[1] *= vecTint.y;
++		color[2] *= vecTint.z;
++	}
++}
++
++//-----------------------------------------------------------------------------
++// Purpose: MOD: dual wield - create or remove the third-person left-hand gun.
++//-----------------------------------------------------------------------------
++void CTFWeaponBase::Mod_UpdateDualWorldModel( void )
++{
++	C_BaseEntity *pOwner = GetOwner();
++	bool bWant = pOwner && !m_bDisguiseWeapon && Mod_IsDualWield() && GetWorldModelIndex() > 0;
++
++	if ( !bWant )
++	{
++		if ( m_hModDualWorldModel )
++		{
++			m_hModDualWorldModel->Release();
++			m_hModDualWorldModel = NULL;
++		}
++		return;
++	}
++
++	if ( !m_hModDualWorldModel )
++	{
++		const model_t *pModel = modelinfo->GetModel( GetWorldModelIndex() );
++		const char *pszModel = pModel ? modelinfo->GetModelName( pModel ) : NULL;
++		if ( !pszModel || !pszModel[0] )
++			return;
++
++		C_ModDualWorldModel *pEnt = new C_ModDualWorldModel;
++		if ( !pEnt )
++			return;
++
++		pEnt->SetWeapon( this );
++		pEnt->AddEffects( EF_NORECEIVESHADOW | EF_NOSHADOW );
++		if ( !pEnt->InitializeAsClientEntity( pszModel, RENDER_GROUP_OPAQUE_ENTITY ) )
++		{
++			pEnt->Release();
++			return;
++		}
++
++		pEnt->AddSolidFlags( FSOLID_NOT_SOLID );
++		pEnt->SetSequence( 0 );
++		pEnt->SetCycle( 0 );
++		m_hModDualWorldModel = pEnt;
++	}
++
++	if ( m_hModDualWorldModel->GetMoveParent() != pOwner )
++	{
++		m_hModDualWorldModel->SetParent( pOwner );
++		m_hModDualWorldModel->SetLocalOrigin( vec3_origin );
++		m_hModDualWorldModel->SetLocalAngles( vec3_angle );
++		m_hModDualWorldModel->UpdateVisibility();
++	}
++}
++
 +//-----------------------------------------------------------------------------
 +// Purpose: MOD: dual wield. The first-person weapon model is a separate entity
 +// bone-merged onto the viewmodel's hands. Keep a second copy on viewmodel 1.
@@ -3302,7 +4518,21 @@ index 638cc6f..ee1110d 100644
  void CTFWeaponBase::ProcessMuzzleFlashEvent( void )
  {
  	C_BaseAnimating *pAttachEnt = GetAppropriateWorldOrViewModel();
-@@ -4846,6 +5080,15 @@ void CTFWeaponBase::AddViewmodelBob( CBaseViewModel *viewmodel, Vector &origin,
+@@ -3501,6 +4017,13 @@ void CTFWeaponBase::OnDataChanged( DataUpdateType_t type )
+ {
+ 	BaseClass::OnDataChanged( type );
+ 
++	Mod_UpdateDualWorldModel();	// MOD: dual wield third-person pistol
++
++	// MOD: cache the colour tint ("mod weapon tint", packed 0xRRGGBB)
++	int iModTint = 0;
++	CALL_ATTRIB_HOOK_INT( iModTint, mod_weapon_tint );
++	m_nModTint = ( iModTint > 0 ) ? iModTint : -1;
++
+ 	if ( type == DATA_UPDATE_CREATED )
+ 	{
+ 		ListenForGameEvent( "localplayer_changeteam" );
+@@ -4846,6 +5369,15 @@ void CTFWeaponBase::AddViewmodelBob( CBaseViewModel *viewmodel, Vector &origin,
  {
  	// call helper functions to do the calculation
  	BobState_t *pBobState = GetBobState();
@@ -3319,18 +4549,27 @@ index 638cc6f..ee1110d 100644
  	{
  		CalcViewmodelBob();
 diff --git a/src/game/shared/tf/tf_weaponbase.h b/src/game/shared/tf/tf_weaponbase.h
-index 22b82e8..0ea5913 100644
+index 22b82e8..e65ad19 100644
 --- a/src/game/shared/tf/tf_weaponbase.h
 +++ b/src/game/shared/tf/tf_weaponbase.h
-@@ -290,6 +290,7 @@ class CTFWeaponBase : public CBaseCombatWeapon, public IHasOwner, public IHasGen
+@@ -290,6 +290,8 @@ class CTFWeaponBase : public CBaseCombatWeapon, public IHasOwner, public IHasGen
  	// Weapon Data.
  	CTFWeaponInfo const	&GetTFWpnData() const;
  	virtual int GetWeaponID( void ) const;
-+	virtual int GetSlot( void ) const OVERRIDE;	// MOD: honors "mod weapon bucket"
++	virtual int GetSlot( void ) const OVERRIDE;	// MOD: honors "mod weapon bucket" / "mod extra weapon"
++	virtual int GetPosition( void ) const OVERRIDE;	// MOD: honors "mod weapon position"
  	bool IsWeapon( int iWeapon ) const;
  	virtual int	GetDamageType() const { return g_aWeaponDamageTypes[ GetWeaponID() ]; }
  	virtual int GetCustomDamageType() const { return TF_DMG_CUSTOM_NONE; }
-@@ -314,6 +315,14 @@ class CTFWeaponBase : public CBaseCombatWeapon, public IHasOwner, public IHasGen
+@@ -305,6 +307,7 @@ class CTFWeaponBase : public CBaseCombatWeapon, public IHasOwner, public IHasGen
+ 
+ 	// View model.
+ 	virtual const char *GetViewModel( int iViewModel = 0 ) const;
++	mutable CUtlString m_strModArmsModel;	// MOD: "mod viewmodel arms model" (custom arms/animations)
+ 	virtual const char *GetWorldModel( void ) const;
+ 
+ 	virtual Activity ActivityOverride( Activity baseAct, bool *pRequired ) OVERRIDE;
+@@ -314,6 +317,14 @@ class CTFWeaponBase : public CBaseCombatWeapon, public IHasOwner, public IHasGen
  
  	virtual bool SendWeaponAnim( int iActivity ) OVERRIDE;
  
@@ -3345,17 +4584,35 @@ index 22b82e8..0ea5913 100644
  	virtual CBaseEntity	*GetOwnerViaInterface( void ) { return GetOwner(); }
  
  	virtual void Equip( CBaseCombatCharacter *pOwner );
-@@ -587,6 +596,9 @@ class CTFWeaponBase : public CBaseCombatWeapon, public IHasOwner, public IHasGen
+@@ -554,8 +565,10 @@ class CTFWeaponBase : public CBaseCombatWeapon, public IHasOwner, public IHasGen
+ 	float			GetClipScale () const { return m_flClipScale; }
+ 	void			SetClipScale ( float flScale ) { m_flClipScale = flScale; }
+ 
+-	virtual float	GetInitialAfterburnDuration() const { return 0.f; }
+-	virtual float	GetAfterburnRateOnHit() const { return 0.f; }
++	// MOD: "mod afterburn duration" lets any igniting weapon (e.g. a shotgun with
++	// "Set DamageType Ignite") leave a real afterburn. Each later hit adds a quarter.
++	virtual float	GetInitialAfterburnDuration() const { float flTime = 0.f; CALL_ATTRIB_HOOK_FLOAT( flTime, mod_afterburn_duration ); return flTime; }
++	virtual float	GetAfterburnRateOnHit() const { float flTime = 0.f; CALL_ATTRIB_HOOK_FLOAT( flTime, mod_afterburn_duration ); return flTime * 0.25f; }
+ 
+ // Client specific.
+ #else
+@@ -587,6 +600,14 @@ class CTFWeaponBase : public CBaseCombatWeapon, public IHasOwner, public IHasGen
  	BobState_t		*GetBobState();
  	virtual bool	AttachmentModelsShouldBeVisible( void ) OVERRIDE { return (m_iState == WEAPON_IS_ACTIVE) && !IsBeingRepurposedForTaunt(); }
  	virtual void	UpdateAttachmentModels( void ) OVERRIDE;
 +	virtual int		DrawOverriddenViewmodel( C_BaseViewModel *pViewmodel, int flags ) OVERRIDE;	// MOD: dual wield
 +	void			Mod_UpdateDualAttachment( void );
 +	CHandle<C_BaseAnimating> m_hModDualAttachment;	// MOD: left-hand copy of the weapon model
++	void			Mod_UpdateDualWorldModel( void );
++	virtual bool	Mod_GetTint( Vector &vecTint ) OVERRIDE;		// MOD: "mod weapon tint"
++	virtual void	GetColorModulation( float *color ) OVERRIDE;	// MOD: applies the tint to the world model
++	int				m_nModTint;	// MOD: packed 0xRRGGBB, or -1 for none
++	CHandle<C_BaseAnimating> m_hModDualWorldModel;	// MOD: left-hand pistol other players see
  
  	virtual bool ShouldEjectBrass() { return true; }
  
-@@ -785,6 +797,7 @@ private:
+@@ -785,6 +806,7 @@ private:
  	CTFWeaponBase( const CTFWeaponBase & );
  
  	CNetworkVar( bool, m_bBeingRepurposedForTaunt );
