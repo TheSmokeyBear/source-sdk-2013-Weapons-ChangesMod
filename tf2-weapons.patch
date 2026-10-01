@@ -1,80 +1,83 @@
 diff --git a/game/mod_tf/resource/mod_tf_english.txt b/game/mod_tf/resource/mod_tf_english.txt
-index edf73c793d6444785969dfd9650ac46de8de7b91..81803d739f32ae26d52b1d52a6ca54e3ccd0f19e 100644
+index edf73c793d6444785969dfd9650ac46de8de7b91..21fcde91c67b6cee0676cd5fad96fe9d9f70530d 100644
 GIT binary patch
-literal 12676
-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
+literal 13184
+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
 
 delta 59
-zcmZokKENpa|DO^=4nrbC9z!~V5(6(oH3RQNacxm0h7g8)hHQpZphPiTA~v0^7O19{
-F0RXk549frj
+zcmZojKfoyb|DO^=4nrbC9z!~V5(6(oH3RQNacxm0h7g8)hHQpZphPiTA~v0^7O19{
+F0RXk149frj
 
 diff --git a/game/mod_tf/scripts/items/items_mod.txt b/game/mod_tf/scripts/items/items_mod.txt
 new file mode 100644
-index 0000000..4486047
+index 0000000..374c1c0
 --- /dev/null
 +++ b/game/mod_tf/scripts/items/items_mod.txt
-@@ -0,0 +1,1492 @@
+@@ -0,0 +1,1525 @@
 +// =============================================================================
 +// Custom items for this mod. Merged on top of TF2's items_game.txt at load time
 +// (see Mod_MergeCustomItems in src/game/shared/econ/econ_item_schema.cpp).
@@ -288,6 +291,15 @@ index 0000000..4486047
 +			"description_format"	"value_is_additive"
 +			"effect_type"			"neutral"
 +			"hidden"				"1"
++		}
++		"9022"
++		{
++			"name"					"mod medigun portal to patient"	// Reload while healing: teleport beside your patient. Value = UberCharge cost (0.25 = 25%)
++			"attribute_class"		"mod_medigun_portal_to_patient"
++			"description_format"	"value_is_additive"
++			"effect_type"			"positive"
++			"hidden"				"1"
++			"stored_as_integer"		"0"
 +		}
 +	}
 +
@@ -1565,10 +1577,60 @@ index 0000000..4486047
 +				"mod no secondary"			"1"		// no secondary while equipped
 +			}
 +		}
++
++		// Medic secondary: custom model (a portal gun, models/weapons/c_models/c_portalgun).
++		// Same model in first and third person, like TF2's own c_models.
++		"38110"
++		{
++			"mod_copy_from"		"29"	// TF_WEAPON_MEDIGUN
++			"name"				"The Patient Portal"
++			"item_name"			"#Mod_PatientPortal"
++			"item_description"	"#Mod_PatientPortal_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"medic"		"1"
++			}
++			"item_slot"			"secondary"
++			"model_player"		"models/weapons/c_models/c_portalgun/c_portalgun.mdl"
++			"static_attrs"
++			{
++				"min_viewmodel_offset"				"10 0 -9"
++				"mod medigun portal to patient"		"0.25"	// UberCharge cost; cooldown: tf_mod_medigun_portal_cooldown
++				"ubercharge rate bonus"				"1.1"	// +10%
++				"overheal penalty"					"0.6"	// -40% max overheal
++			}
++		}
 +	}
 +}
+diff --git a/src/game/client/tf/tf_gc_client.cpp b/src/game/client/tf/tf_gc_client.cpp
+index 346654b..af53ca1 100644
+--- a/src/game/client/tf/tf_gc_client.cpp
++++ b/src/game/client/tf/tf_gc_client.cpp
+@@ -821,6 +821,10 @@ void CTFGCClientSystem::SDK_SelectItemsToSendToServer( CMsgAuthorizeServerItemRe
+ 		if ( !pItem->IsEquipped() )
+ 			continue;
+ 
++		// MOD: our custom items only exist on this machine - never ask Steam about them.
++		if ( Mod_IsInventoryModItemID( pItem->GetID() ) )
++			continue;
++
+ 		pMsg->add_item_id( pItem->GetID() );
+ 	}
+ }
+@@ -857,6 +861,10 @@ void CTFGCClientSystem::SDK_AddServerInventoryInfo( KeyValues* pKV, CGCClientSha
+ 			if (pItemView->GetID() == INVALID_ITEM_ID || pItemView->GetID() == 0)
+ 				continue;
+ 
++			// MOD: custom items are sent separately (mod_loadout), not as Steam items.
++			if ( Mod_IsInventoryModItemID( pItemView->GetID() ) )
++				continue;
++
+ 			char szSlot[256];
+ 			V_snprintf(szSlot, sizeof(szSlot), "%i", iSlot);
+ 
 diff --git a/src/game/server/tf/tf_player.cpp b/src/game/server/tf/tf_player.cpp
-index c030951..35b3f04 100644
+index c030951..d5cd83c 100644
 --- a/src/game/server/tf/tf_player.cpp
 +++ b/src/game/server/tf/tf_player.cpp
 @@ -1124,6 +1124,20 @@ CTFPlayer::CTFPlayer()
@@ -1771,7 +1833,7 @@ index c030951..35b3f04 100644
  /*
  		// no fall damage in space
  		if (  m_Shared.InCond( TF_COND_SPACE_GRAVITY ) )
-@@ -23148,3 +23248,1077 @@ void CTFPlayer::ScriptStunPlayer( float flTime, float flReductionAmount, int iSt
+@@ -23148,3 +23248,1230 @@ void CTFPlayer::ScriptStunPlayer( float flTime, float flReductionAmount, int iSt
  {
  	m_Shared.StunPlayer( flTime, flReductionAmount, iStunFlags, ScriptToEntClass< CTFPlayer >( hAttacker ) );
  }
@@ -2538,6 +2600,159 @@ index c030951..35b3f04 100644
 +	}
 +}
 +
++//-----------------------------------------------------------------------------
++// MOD: the custom items the player has equipped in the loadout menu. The client sends
++// this when joining, on every map, and whenever the loadout changes:
++//   "mod_loadout" { "items" { "<class>" { "<slot>" "<item index>" } }
++//                   "touched" { "<class>" { "<slot>" "1" } } }
++// Items from the menu replace each other. Items given with mod_equip stay put unless the
++// player changed that same slot in the menu (picking a stock or Steam item there, say).
++//-----------------------------------------------------------------------------
++extern bool AreSlotsConsideredIdentical( EEquipType_t eEquipType, int iBaseSlot, int iTestSlot );	// tf_item_inventory.cpp
++
++void CTFPlayer::Mod_ApplyInventoryLoadout( KeyValues *pKV )
++{
++	if ( !pKV )
++		return;
++
++	if ( !m_bModEquipsRestored )
++	{
++		Mod_RestoreSavedEquips();
++	}
++
++	KeyValues *pItemsKV = pKV->FindKey( "items" );
++	KeyValues *pTouchedKV = pKV->FindKey( "touched" );
++	const int iCurrentClass = GetPlayerClass() ? GetPlayerClass()->GetClassIndex() : TF_CLASS_UNDEFINED;
++	bool bAnyChange = false;
++	bool bCurrentClassChanged = false;
++
++	for ( int iClass = TF_FIRST_NORMAL_CLASS; iClass < TF_LAST_NORMAL_CLASS; ++iClass )
++	{
++		char szClass[16];
++		V_snprintf( szClass, sizeof( szClass ), "%d", iClass );
++		KeyValues *pClassItems = pItemsKV ? pItemsKV->FindKey( szClass ) : NULL;
++		KeyValues *pClassTouched = pTouchedKV ? pTouchedKV->FindKey( szClass ) : NULL;
++
++		bool bClassChanged = false;
++		CUtlVector< item_definition_index_t > vecWantedExtras;
++
++		for ( int iSlot = 0; iSlot < CLASS_LOADOUT_POSITION_COUNT; ++iSlot )
++		{
++			char szSlot[16];
++			V_snprintf( szSlot, sizeof( szSlot ), "%d", iSlot );
++			const int iWanted = pClassItems ? pClassItems->GetInt( szSlot, 0 ) : 0;
++			const bool bTouched = pClassTouched && pClassTouched->GetInt( szSlot, 0 ) != 0;
++
++			// Check the item really belongs in that slot for that class.
++			GameItemDefinition_t *pDef = NULL;
++			if ( iWanted > 0 && iWanted < INVALID_ITEM_DEF_INDEX && Mod_CanEquipDef( iWanted ) )
++			{
++				pDef = static_cast< GameItemDefinition_t * >( GetItemSchema()->GetItemDefinition( iWanted ) );
++				if ( pDef && ( !pDef->CanBeUsedByClass( iClass ) || !AreSlotsConsideredIdentical( pDef->GetEquipType(), pDef->GetLoadoutSlot( iClass ), iSlot ) ) )
++				{
++					pDef = NULL;
++				}
++			}
++
++			// Extra weapons ride on top of the loadout instead of taking the slot.
++			if ( pDef && Mod_GetExtraKeyFromDef( pDef ) > 0 )
++			{
++				if ( !vecWantedExtras.HasElement( (item_definition_index_t)iWanted ) )
++					vecWantedExtras.AddToTail( (item_definition_index_t)iWanted );
++				pDef = NULL;
++			}
++
++			ModEquip_t &current = m_ModEquips[iClass][iSlot];
++			bool bSlotChanged = false;
++			if ( pDef )
++			{
++				if ( current.m_iDef == iWanted && current.m_bFromInventory )
++					continue;	// already wearing it
++
++				ModEquip_t equip;
++				equip.Clear();
++				equip.m_iDef = (item_definition_index_t)iWanted;
++				equip.m_bFromInventory = true;
++				if ( Mod_SetItem( iClass, iSlot, equip ) )
++				{
++					Mod_PrecacheItemModels( pDef );
++					bSlotChanged = true;
++				}
++			}
++			else if ( current.m_iDef != INVALID_ITEM_DEF_INDEX && ( current.m_bFromInventory || bTouched ) )
++			{
++				current.Clear();
++				bSlotChanged = true;
++			}
++
++			if ( !bSlotChanged )
++				continue;
++
++			bClassChanged = true;
++
++			// Taunts work straight away, like the console command; everything else waits for a respawn / resupply.
++			if ( IsTauntSlot( iSlot ) && iClass == iCurrentClass )
++			{
++				CEconItemView *pTauntItem = GetLoadoutItem( iClass, iSlot );
++				m_EquippedLoadoutItemIndices[iSlot] = ( pTauntItem && pTauntItem->IsValid() ) ? pTauntItem->GetItemID() : LOADOUT_SLOT_USE_BASE_ITEM;
++			}
++		}
++
++		// Extra weapons: drop menu ones no longer equipped, then add new ones.
++		for ( int i = 0; i < MOD_MAX_EXTRA_WEAPONS; ++i )
++		{
++			ModEquip_t &extra = m_ModExtraEquips[iClass][i];
++			if ( extra.m_iDef != INVALID_ITEM_DEF_INDEX && extra.m_bFromInventory && !vecWantedExtras.HasElement( extra.m_iDef ) )
++			{
++				extra.Clear();
++				bClassChanged = true;
++			}
++		}
++		FOR_EACH_VEC( vecWantedExtras, w )
++		{
++			int iFree = -1;
++			bool bHave = false;
++			for ( int i = 0; i < MOD_MAX_EXTRA_WEAPONS && !bHave; ++i )
++			{
++				if ( m_ModExtraEquips[iClass][i].m_iDef == vecWantedExtras[w] )
++					bHave = true;
++				else if ( iFree < 0 && m_ModExtraEquips[iClass][i].m_iDef == INVALID_ITEM_DEF_INDEX )
++					iFree = i;
++			}
++			if ( bHave || iFree < 0 )
++				continue;
++
++			GameItemDefinition_t *pDef = static_cast< GameItemDefinition_t * >( GetItemSchema()->GetItemDefinition( vecWantedExtras[w] ) );
++			ModEquip_t extra;
++			extra.Clear();
++			extra.m_iDef = vecWantedExtras[w];
++			extra.m_nExtraKey = Mod_GetExtraKeyFromDef( pDef );
++			extra.m_bFromInventory = true;
++			if ( Mod_SetExtra( iClass, iFree, extra ) )
++			{
++				Mod_PrecacheItemModels( pDef );
++				bClassChanged = true;
++			}
++		}
++
++		if ( bClassChanged )
++		{
++			bAnyChange = true;
++			if ( iClass == iCurrentClass )
++				bCurrentClassChanged = true;
++		}
++	}
++
++	if ( bAnyChange )
++	{
++		Mod_SaveEquips();
++	}
++	if ( bCurrentClassChanged )
++	{
++		Mod_ApplyLoadoutChange( iCurrentClass );
++	}
++}
++
 +static CUtlString Mod_ClassList( GameItemDefinition_t *pDef )
 +{
 +	CUtlString str;
@@ -2850,7 +3065,7 @@ index c030951..35b3f04 100644
 +	return false;
 +}
 diff --git a/src/game/server/tf/tf_player.h b/src/game/server/tf/tf_player.h
-index d2affa2..7ebfee7 100644
+index d2affa2..dbd1e76 100644
 --- a/src/game/server/tf/tf_player.h
 +++ b/src/game/server/tf/tf_player.h
 @@ -618,7 +618,12 @@ public:
@@ -2867,7 +3082,7 @@ index d2affa2..7ebfee7 100644
  	CBaseEntity *GetEntityForLoadoutSlot( int iLoadoutSlot, bool bForceCheckWearable = false );			//Gets whatever entity is associated with the loadout slot (wearable or weapon)
  	CTFWearable *GetEquippedWearableForLoadoutSlot( int iLoadoutSlot );
  
-@@ -1015,6 +1020,55 @@ public:
+@@ -1015,6 +1020,57 @@ public:
  	CEconItemView	*ItemTesting_GetTestItem( int iClass, int iSlot );
  	void				ItemTesting_DeleteItems();
  
@@ -2888,8 +3103,9 @@ index d2affa2..7ebfee7 100644
 +		int						m_nSheen;		// 1..7, 0 = none
 +		int						m_nKillstreaker;	// 2002..2008, 0 = none
 +		int						m_nExtraKey;		// 1..6 = added as an extra weapon on that number key, 0 = normal slot
++		bool					m_bFromInventory;	// equipped in the loadout menu (not with mod_equip)
 +
-+		void Clear() { m_iDef = INVALID_ITEM_DEF_INDEX; m_nQuality = -1; m_nStyle = -1; m_bAustralium = m_bFestive = false; m_nUnusual = m_nKillstreakTier = m_nSheen = m_nKillstreaker = m_nExtraKey = 0; }
++		void Clear() { m_iDef = INVALID_ITEM_DEF_INDEX; m_nQuality = -1; m_nStyle = -1; m_bAustralium = m_bFestive = m_bFromInventory = false; m_nUnusual = m_nKillstreakTier = m_nSheen = m_nKillstreaker = m_nExtraKey = 0; }
 +	};
 +
 +	// MOD: extra weapons are carried on top of the normal loadout, any number per number key
@@ -2906,6 +3122,7 @@ index d2affa2..7ebfee7 100644
 +	CEconItemView		*Mod_GetExtraItem( int iClass, int iIndex );
 +	bool				Mod_IsCurrentExtraWeapon( CBaseCombatWeapon *pWeapon );
 +	void				Mod_GiveExtraWeapons( void );
++	void				Mod_ApplyInventoryLoadout( KeyValues *pKV );	// custom items equipped in the loadout menu
 +
 +private:
 +	bool				Mod_SetItem( int iClass, int iSlot, const ModEquip_t &equip );
@@ -3474,6 +3691,322 @@ index 50bbea3..16889c3 100644
  	// Initialize the game info block
  	KeyValues *pKVGameInfo = pKVRawDefinition->FindKey( "game_info" );
  	SCHEMA_INIT_CHECK( NULL != pKVGameInfo, "Required key \"game_info\" missing.\n" );
+diff --git a/src/game/shared/tf/tf_gamerules.cpp b/src/game/shared/tf/tf_gamerules.cpp
+index b14837f..640ef3b 100644
+--- a/src/game/shared/tf/tf_gamerules.cpp
++++ b/src/game/shared/tf/tf_gamerules.cpp
+@@ -15416,6 +15416,11 @@ void CTFGameRules::ClientCommandKeyValues( edict_t *pEntity, KeyValues *pKeyValu
+ 
+ 			GTFGCClientSystem()->ProcessPlayerInventoryRequest( steamID, pKeyValues );
+ 		}
++		else if ( FStrEq( pszCommand, "mod_loadout" ) )
++		{
++			// MOD: custom items the player equipped in the loadout menu
++			pTFPlayer->Mod_ApplyInventoryLoadout( pKeyValues );
++		}
+ 		else
+ 		{
+ 			BaseClass::ClientCommandKeyValues( pEntity, pKeyValues );
+diff --git a/src/game/shared/tf/tf_item_inventory.cpp b/src/game/shared/tf/tf_item_inventory.cpp
+index a371114..a378f3d 100644
+--- a/src/game/shared/tf/tf_item_inventory.cpp
++++ b/src/game/shared/tf/tf_item_inventory.cpp
+@@ -530,6 +530,16 @@ void CTFInventoryManager::Update( float frametime )
+ 	TM_ZONE_DEFAULT( TELEMETRY_LEVEL0 );
+ 	m_LocalInventory.UpdateWeaponSkinRequest();
+ 
++	// MOD: tell each server you join (and every map) which custom items you have equipped.
++	static bool s_bModWasInGame = false;
++	const bool bInGame = engine->IsInGame();
++	if ( bInGame && !s_bModWasInGame )
++	{
++		m_LocalInventory.Mod_SetLoadoutDirty();
++	}
++	s_bModWasInGame = bInGame;
++	m_LocalInventory.Mod_SendLoadoutIfDirty();
++
+ 	BaseClass::Update( frametime );
+ }
+ 
+@@ -853,6 +863,11 @@ CTFPlayerInventory::CTFPlayerInventory()
+ 
+ 	memset(m_ActivePreset, LOADOUT_SLOT_USE_BASE_ITEM, sizeof(m_ActivePreset));
+ 	memset(m_PresetItems, LOADOUT_SLOT_USE_BASE_ITEM, sizeof(m_PresetItems));
++
++	m_nModItemCount = 0;
++	m_bModLoadoutDirty = true;
++	m_flModNextSendTime = 0.0;
++	memset( m_bModSlotTouched, 0, sizeof( m_bModSlotTouched ) );
+ #endif
+ 
+ 	memset( m_LoadoutItems, LOADOUT_SLOT_USE_BASE_ITEM, sizeof( m_LoadoutItems ) );
+@@ -1540,10 +1555,10 @@ bool CTFPlayerInventory::CanPurchaseItems( int iItemCount ) const
+ //-----------------------------------------------------------------------------
+ // Purpose: 
+ //-----------------------------------------------------------------------------
+-int	CTFPlayerInventory::GetMaxItemCount( void ) const
++static int TF_GetAccountBackpackSize( CGCClientSharedObjectCache *pSOCache )
+ {
+ 	int iMaxItems = DEFAULT_NUM_BACKPACK_SLOTS;
+-	CEconGameAccountClient *pGameAccountClient = GetSOCacheGameAccountClient( m_pSOCache );
++	CEconGameAccountClient *pGameAccountClient = GetSOCacheGameAccountClient( pSOCache );
+ 	if ( pGameAccountClient )
+ 	{
+ 		if ( pGameAccountClient->Obj().trial_account() )
+@@ -1555,6 +1570,32 @@ int	CTFPlayerInventory::GetMaxItemCount( void ) const
+ 	return MIN( iMaxItems, MAX_NUM_BACKPACK_SLOTS );
+ }
+ 
++int	CTFPlayerInventory::GetMaxItemCount( void ) const
++{
++	int iMaxItems = TF_GetAccountBackpackSize( m_pSOCache );
++
++#ifdef CLIENT_DLL
++	// MOD: the custom items get their own backpack pages after your real ones.
++	if ( m_nModItemCount > 0 )
++	{
++		const int nModPages = ( m_nModItemCount + MOD_BACKPACK_SLOTS_PER_PAGE - 1 ) / MOD_BACKPACK_SLOTS_PER_PAGE;
++		iMaxItems += nModPages * MOD_BACKPACK_SLOTS_PER_PAGE;
++	}
++#endif
++
++	return iMaxItems;
++}
++
++#ifdef CLIENT_DLL
++//-----------------------------------------------------------------------------
++// MOD: backpack size from your Steam account, without the custom item pages
++//-----------------------------------------------------------------------------
++int	CTFPlayerInventory::Mod_GetRealMaxItemCount( void ) const
++{
++	return TF_GetAccountBackpackSize( m_pSOCache );
++}
++#endif
++
+ #ifdef CLIENT_DLL
+ //-----------------------------------------------------------------------------
+ // Purpose: Removes any item in a loadout slot. If the slot has a base item,
+@@ -1783,6 +1824,13 @@ void CTFPlayerInventory::PostSOUpdate( const CSteamID & steamIDOwner, GCSDK::ESO
+ //-----------------------------------------------------------------------------
+ void CTFPlayerInventory::SOCacheSubscribed( const CSteamID & steamIDOwner, GCSDK::ESOCacheEvent eEvent )
+ {
++	// MOD: put this mod's custom items into your item cache first, so they're read in with
++	// your real items below and show up in the backpack and loadout menus.
++	if ( InventoryManager()->GetLocalInventory() == this && steamIDOwner == m_OwnerID )
++	{
++		Mod_AddCustomItemsToCache( GCClientSystem()->GetSOCache( steamIDOwner ) );
++	}
++
+ 	BaseClass::SOCacheSubscribed( steamIDOwner, eEvent );
+ 
+ 	UpdateRealTFLoadoutItems();
+@@ -1790,6 +1838,136 @@ void CTFPlayerInventory::SOCacheSubscribed( const CSteamID & steamIDOwner, GCSDK
+ 
+ 	VerifyChangedLoadoutsAreValid();
+ 	UpdateCachedServerLoadoutItems();
++
++	Mod_SetLoadoutDirty();	// MOD
++}
++
++//-----------------------------------------------------------------------------
++// MOD: adds one made-up item per custom item (scripts/items/items_mod.txt) to your
++// item cache on this machine only. They sit on their own pages at the end of your
++// backpack. Calling this again (when Steam re-sends your inventory) just refreshes them.
++//-----------------------------------------------------------------------------
++void CTFPlayerInventory::Mod_AddCustomItemsToCache( GCSDK::CGCClientSharedObjectCache *pSOCache )
++{
++	if ( !pSOCache )
++		return;
++
++	CGCClientSharedObjectTypeCache *pTypeCache = pSOCache->CreateTypeCache( CEconItem::k_nTypeID );
++	if ( !pTypeCache )
++		return;
++
++	const int iFirstPosition = TF_GetAccountBackpackSize( pSOCache ) + 1;
++	int nAdded = 0;
++
++	for ( int iDef = MOD_ITEM_DEF_FIRST; iDef <= MOD_ITEM_DEF_LAST; ++iDef )
++	{
++		CTFItemDefinition *pDef = ItemSystem()->GetStaticDataForItemByDefIndex( (item_definition_index_t)iDef );
++		if ( !pDef || pDef->IsHidden() )
++			continue;
++
++		// Only things a class can actually use.
++		bool bUsable = false;
++		for ( int iClass = TF_FIRST_NORMAL_CLASS; iClass < TF_LAST_NORMAL_CLASS && !bUsable; ++iClass )
++		{
++			const int iSlot = pDef->GetLoadoutSlot( iClass );
++			bUsable = pDef->CanBeUsedByClass( iClass ) && iSlot >= 0 && iSlot < CLASS_LOADOUT_POSITION_COUNT;
++		}
++		if ( !bUsable )
++			continue;
++
++		const int iPosition = iFirstPosition + nAdded;
++		if ( iPosition > (int)kBackendPositionMask_Position )
++			break;
++		++nAdded;
++
++		const itemid_t ulItemID = MOD_INVENTORY_ITEMID_BASE + iDef;
++		CEconItem soIndex;
++		soIndex.SetItemID( ulItemID );
++		CEconItem *pItem = (CEconItem *)pTypeCache->FindSharedObject( soIndex );
++		if ( !pItem )
++		{
++			pItem = new CEconItem;
++			pItem->SetItemID( ulItemID );
++			pTypeCache->AddObject( pItem );
++		}
++
++		int iQuality = pDef->GetQuality();
++		if ( iQuality <= AE_NORMAL || iQuality >= AE_MAX_TYPES )
++		{
++			iQuality = AE_UNIQUE;
++		}
++
++		pItem->SetAccountID( pSOCache->GetOwner().GetAccountID() );
++		pItem->SetDefinitionIndex( iDef );
++		pItem->SetItemLevel( Max( 1, (int)pDef->GetMinLevel() ) );
++		pItem->SetQuality( iQuality );
++		pItem->SetInventoryToken( kBackendPosition_NewFormat | (uint32)iPosition );	// acknowledged, in the backpack at iPosition
++	}
++
++	m_nModItemCount = nAdded;
++}
++
++//-----------------------------------------------------------------------------
++// MOD: something was changed in the loadout menu
++//-----------------------------------------------------------------------------
++void CTFPlayerInventory::Mod_OnLoadoutSlotChanged( int iClass, int iSlot )
++{
++	if ( iClass >= 0 && iClass < TF_CLASS_COUNT && iSlot >= 0 && iSlot < CLASS_LOADOUT_POSITION_COUNT )
++	{
++		m_bModSlotTouched[iClass][iSlot] = true;
++	}
++	m_bModLoadoutDirty = true;
++}
++
++//-----------------------------------------------------------------------------
++// MOD: tells the server which custom items you have equipped in each class's loadout
++// (and which slots you changed in the menu, so it can drop console mod_equip items there).
++//-----------------------------------------------------------------------------
++void CTFPlayerInventory::Mod_SendLoadoutIfDirty( void )
++{
++	if ( !m_bModLoadoutDirty || !m_pSOCache || !RetrievedInventoryFromSteam() )
++		return;
++
++	if ( !engine->IsInGame() || Plat_FloatTime() < m_flModNextSendTime )
++		return;
++
++	m_flModNextSendTime = Plat_FloatTime() + 0.25;
++	m_bModLoadoutDirty = false;
++
++	KeyValues *pKV = new KeyValues( "mod_loadout" );
++	KeyValues *pItemsKV = pKV->FindKey( "items", true );
++	KeyValues *pTouchedKV = pKV->FindKey( "touched", true );
++
++	for ( int iClass = TF_FIRST_NORMAL_CLASS; iClass < TF_LAST_NORMAL_CLASS; ++iClass )
++	{
++		char szClass[16];
++		V_snprintf( szClass, sizeof( szClass ), "%d", iClass );
++
++		for ( int iSlot = 0; iSlot < CLASS_LOADOUT_POSITION_COUNT; ++iSlot )
++		{
++			char szSlot[16];
++			V_snprintf( szSlot, sizeof( szSlot ), "%d", iSlot );
++
++			const itemid_t ulItemID = m_LoadoutItems[iClass][iSlot];
++			if ( Mod_IsInventoryModItemID( ulItemID ) )
++			{
++				CEconItemView *pItem = GetInventoryItemByItemID( ulItemID );
++				if ( pItem && pItem->GetStaticData() )
++				{
++					pItemsKV->FindKey( szClass, true )->SetInt( szSlot, pItem->GetItemDefIndex() );
++				}
++			}
++
++			if ( m_bModSlotTouched[iClass][iSlot] )
++			{
++				pTouchedKV->FindKey( szClass, true )->SetInt( szSlot, 1 );
++			}
++		}
++	}
++
++	memset( m_bModSlotTouched, 0, sizeof( m_bModSlotTouched ) );
++
++	engine->ServerCmdKeyValues( pKV );
+ }
+ 
+ //-----------------------------------------------------------------------------
+@@ -1916,10 +2094,11 @@ void CTFInventoryManager::UpdateInventoryEquippedState(CPlayerInventory *pInvent
+ 	BaseClass::UpdateInventoryEquippedState(pInventory, ulItemID, unClass, unSlot);
+ 
+ 	CTFPlayerInventory* pTFInventory = dynamic_cast<CTFPlayerInventory*>(pInventory);
+-	if (pTFInventory) 
++	if (pTFInventory)
+ 	{
+ 		pTFInventory->EquipLocal(ulItemID, unClass, unSlot);
+ 		pTFInventory->SaveLocalLoadout();
++		pTFInventory->Mod_OnLoadoutSlotChanged( unClass, unSlot );	// MOD
+ 	}
+ }
+ 
+@@ -2114,6 +2293,7 @@ bool CTFPlayerInventory::EquipLocalPreset(equipped_class_t unClass, equipped_pre
+ 	{
+ 		itemid_t uItemId = m_PresetItems[unPreset][unClass][iSlot];
+ 		EquipLocal(uItemId, unClass, iSlot);
++		Mod_OnLoadoutSlotChanged( unClass, iSlot );	// MOD
+ 	}
+ 
+ 	SaveLocalLoadout();
+diff --git a/src/game/shared/tf/tf_item_inventory.h b/src/game/shared/tf/tf_item_inventory.h
+index b7544eb..bbbfa20 100644
+--- a/src/game/shared/tf/tf_item_inventory.h
++++ b/src/game/shared/tf/tf_item_inventory.h
+@@ -28,6 +28,18 @@ namespace vgui
+ 
+ struct baseitemcriteria_t;
+ 
++// MOD: this mod's custom items (scripts/items/items_mod.txt, indexes 38000-39999) are added to
++// your backpack on your own machine with these made-up item IDs (one per item, always the same,
++// so your saved loadout remembers them). They are never real Steam items and are never sent to Steam.
++#define MOD_ITEM_DEF_FIRST			38000
++#define MOD_ITEM_DEF_LAST			39999
++#define MOD_INVENTORY_ITEMID_BASE	( ( 1ull << 62 ) | ( 1ull << 40 ) )
++#define MOD_BACKPACK_SLOTS_PER_PAGE	50	// same as BACKPACK_SLOTS_PER_PAGE in backpack_panel.h
++inline bool Mod_IsInventoryModItemID( uint64 ulItemID )
++{
++	return ulItemID >= MOD_INVENTORY_ITEMID_BASE && ulItemID <= MOD_INVENTORY_ITEMID_BASE + MOD_ITEM_DEF_LAST;
++}
++
+ //===============================================================================================================
+ //-----------------------------------------------------------------------------
+ // Purpose: A single TF player's inventory. 
+@@ -78,6 +90,12 @@ public:
+ 	bool				EquipLocalPreset(equipped_class_t unClass, equipped_preset_t unPreset);
+ 	int					GetActiveLocalPreset(equipped_class_t unClass) { return m_ActivePreset[unClass]; }
+ 
++	// MOD: custom items in the backpack / loadout menus
++	void				Mod_AddCustomItemsToCache( GCSDK::CGCClientSharedObjectCache *pSOCache );
++	void				Mod_OnLoadoutSlotChanged( int iClass, int iSlot );
++	void				Mod_SetLoadoutDirty( void ) { m_bModLoadoutDirty = true; }
++	void				Mod_SendLoadoutIfDirty( void );
++	int					Mod_GetRealMaxItemCount( void ) const;
+ #endif
+ 	void				EquipLocal(uint64 ulItemID, equipped_class_t unClass, equipped_slot_t unSlot);
+ 	void				UnequipLocal(uint64 ulItemID);
+@@ -145,6 +163,12 @@ protected:
+ 	itemid_t		m_RealTFLoadoutItems[ TF_CLASS_COUNT ][ CLASS_LOADOUT_POSITION_COUNT ];
+ #endif
+ 
++	// MOD: custom items in the menus
++	int				m_nModItemCount;		// how many custom items were added to the backpack
++	bool			m_bModLoadoutDirty;		// tell the server what's equipped
++	double			m_flModNextSendTime;
++	bool			m_bModSlotTouched[ TF_CLASS_COUNT ][ CLASS_LOADOUT_POSITION_COUNT ];	// changed in the menu since the last send
++
+ #endif // CLIENT_DLL
+ 	itemid_t		m_LoadoutItems[ TF_CLASS_COUNT ][ CLASS_LOADOUT_POSITION_COUNT ];
+ 	bool			m_bLoadoutChanged[ TF_CLASS_COUNT ];
 diff --git a/src/game/shared/tf/tf_player_shared.cpp b/src/game/shared/tf/tf_player_shared.cpp
 index 97be022..ce6bc16 100644
 --- a/src/game/shared/tf/tf_player_shared.cpp
@@ -3896,6 +4429,172 @@ index 3333739..e959472 100644
  	pOwner->m_Shared.SetCloakRegenRate( fCloakRegenRate * fCloakRegenFactor );
  }
  
+diff --git a/src/game/shared/tf/tf_weapon_medigun.cpp b/src/game/shared/tf/tf_weapon_medigun.cpp
+index 4caa185..264caaf 100644
+--- a/src/game/shared/tf/tf_weapon_medigun.cpp
++++ b/src/game/shared/tf/tf_weapon_medigun.cpp
+@@ -222,6 +222,9 @@ COMPILE_TIME_ASSERT( ARRAYSIZE( g_pszMedigunHealSounds ) == MEDIGUN_NUM_CHARGE_T
+ CWeaponMedigun::CWeaponMedigun( void )
+ {
+ 	WeaponReset();
++#ifdef GAME_DLL
++	m_flModNextPortalTime = 0.f;	// MOD
++#endif
+ 
+ 	SetPredictionEligible( true );
+ }
+@@ -346,6 +349,12 @@ void CWeaponMedigun::Precache()
+ 	PrecacheScriptSound( "WeaponMedigun.NoTarget" );
+ 	PrecacheScriptSound( "Weapon_Quick_Fix.Healing" );
+ 	PrecacheScriptSound( "WeaponMedigun.Charged" );
++	// MOD: portal to patient
++	PrecacheScriptSound( "Building_Teleporter.Send" );
++	PrecacheScriptSound( "Building_Teleporter.Receive" );
++	PrecacheScriptSound( "Player.DenyWeaponSelection" );
++	PrecacheParticleSystem( "teleported_red" );
++	PrecacheParticleSystem( "teleported_blue" );
+ 	PrecacheParticleSystem( "medicgun_invulnstatus_fullcharge_blue" );
+ 	PrecacheParticleSystem( "medicgun_invulnstatus_fullcharge_red" );
+ 	PrecacheParticleSystem( "medicgun_beam_red_invun" );
+@@ -832,6 +841,114 @@ medigun_charge_types CWeaponMedigun::GetChargeType( void ) const
+ 	return (medigun_charge_types)iTmp;
+ }
+ 
++#ifdef GAME_DLL
++//-----------------------------------------------------------------------------
++// MOD: "mod medigun portal to patient" (value = how much UberCharge it costs, 0.25 = 25%).
++// Press reload while healing someone to step out of a portal right next to them.
++//-----------------------------------------------------------------------------
++ConVar tf_mod_medigun_portal_cooldown( "tf_mod_medigun_portal_cooldown", "3", FCVAR_NOTIFY, "Seconds between portal jumps for mediguns with \"mod medigun portal to patient\"." );
++
++static bool Mod_FindPortalSpot( CTFPlayer *pMedic, CTFPlayer *pPatient, Vector &vecOut )
++{
++	const Vector vecMins = pMedic->GetPlayerMins();
++	const Vector vecMaxs = pMedic->GetPlayerMaxs();
++	const Vector vecPatient = pPatient->GetAbsOrigin() + Vector( 0, 0, 4 );
++
++	QAngle angFlat( 0.f, pPatient->EyeAngles().y, 0.f );
++	Vector vecForward, vecRight;
++	AngleVectors( angFlat, &vecForward, &vecRight, NULL );
++
++	const float flGap = ( vecMaxs.x - vecMins.x ) + 8.f;	// a body width apart
++	const Vector vecOffsets[] =
++	{
++		-vecForward * flGap,							// behind them
++		-vecRight * flGap,								// left
++		vecRight * flGap,								// right
++		( -vecForward - vecRight ) * ( flGap * 0.75f ),
++		( -vecForward + vecRight ) * ( flGap * 0.75f ),
++		vecForward * flGap,								// in front
++		Vector( 0, 0, ( vecMaxs.z - vecMins.z ) + 4.f ),	// on their head, as a last resort
++	};
++
++	CTraceFilterSkipTwoEntities filter( pMedic, pPatient, COLLISION_GROUP_PLAYER_MOVEMENT );
++	for ( int i = 0; i < ARRAYSIZE( vecOffsets ); ++i )
++	{
++		// Must be reachable from the patient (no portalling through walls) ...
++		const Vector vecTry = vecPatient + vecOffsets[i];
++		trace_t tr;
++		UTIL_TraceHull( vecPatient, vecTry, vecMins, vecMaxs, MASK_PLAYERSOLID, &filter, &tr );
++		if ( tr.startsolid || tr.fraction < 1.f )
++			continue;
++
++		// ... and have room to stand.
++		UTIL_TraceHull( vecTry, vecTry, vecMins, vecMaxs, MASK_PLAYERSOLID, &filter, &tr );
++		if ( tr.startsolid || tr.allsolid )
++			continue;
++
++		vecOut = vecTry;
++		return true;
++	}
++
++	return false;
++}
++
++void CWeaponMedigun::Mod_TryPortalToPatient( void )
++{
++	float flCost = 0.f;
++	CALL_ATTRIB_HOOK_FLOAT( flCost, mod_medigun_portal_to_patient );
++	if ( flCost <= 0.f )
++		return;
++
++	CTFPlayer *pOwner = ToTFPlayer( GetOwner() );
++	if ( !pOwner || !pOwner->IsAlive() )
++		return;
++
++	if ( gpGlobals->curtime < m_flModNextPortalTime )
++		return;
++
++	const char *pszProblem = NULL;
++	char szCost[64];
++	V_snprintf( szCost, sizeof( szCost ), "Portal needs %d%% UberCharge.", RoundFloatToInt( flCost * 100.f ) );
++	CTFPlayer *pPatient = ToTFPlayer( m_hHealingTarget );
++	Vector vecDest;
++	if ( !pPatient || !pPatient->IsAlive() )
++		pszProblem = "Heal a teammate first, then press Reload to portal to them.";
++	else if ( IsReleasingCharge() )
++		pszProblem = "Can't portal during an UberCharge.";
++	else if ( m_flChargeLevel < flCost )
++		pszProblem = szCost;
++	else if ( pOwner->HasTheFlag() )
++		pszProblem = "Can't portal while carrying the intelligence.";
++	else if ( pOwner->GetAbsOrigin().DistToSqr( pPatient->GetAbsOrigin() ) < Square( 150.f ) )
++		pszProblem = "You're already next to your patient.";
++	else if ( !Mod_FindPortalSpot( pOwner, pPatient, vecDest ) )
++		pszProblem = "No room to portal next to your patient.";
++
++	if ( pszProblem )
++	{
++		ClientPrint( pOwner, HUD_PRINTCENTER, pszProblem );
++		pOwner->EmitSound( "Player.DenyWeaponSelection" );
++		m_flModNextPortalTime = gpGlobals->curtime + 0.5f;	// don't spam
++		return;
++	}
++
++	const char *pszParticle = ( pOwner->GetTeamNumber() == TF_TEAM_BLUE ) ? "teleported_blue" : "teleported_red";
++
++	// Portal out ...
++	DispatchParticleEffect( pszParticle, pOwner->GetAbsOrigin(), vec3_angle );
++	pOwner->EmitSound( "Building_Teleporter.Send" );
++
++	// ... and in, keeping where you're looking.
++	pOwner->Teleport( &vecDest, NULL, &vec3_origin );
++	DispatchParticleEffect( pszParticle, vecDest, vec3_angle );
++	pOwner->EmitSound( "Building_Teleporter.Receive" );
++	pOwner->TeleportEffect();	// the usual teleporter sparkle trail
++
++	m_flChargeLevel = Max( 0.f, m_flChargeLevel - flCost );
++	m_flModNextPortalTime = gpGlobals->curtime + tf_mod_medigun_portal_cooldown.GetFloat();
++}
++#endif // GAME_DLL
++
+ //-----------------------------------------------------------------------------
+ // Purpose:
+ //-----------------------------------------------------------------------------
+@@ -1619,6 +1736,7 @@ void CWeaponMedigun::ItemPostFrame( void )
+ 	{
+ #ifdef GAME_DLL
+ 		CycleResistType();
++		Mod_TryPortalToPatient();	// MOD
+ #endif
+ 		m_bReloadDown = true;
+ 	}
+diff --git a/src/game/shared/tf/tf_weapon_medigun.h b/src/game/shared/tf/tf_weapon_medigun.h
+index 5b4fae8..e9f7f5b 100644
+--- a/src/game/shared/tf/tf_weapon_medigun.h
++++ b/src/game/shared/tf/tf_weapon_medigun.h
+@@ -193,6 +193,11 @@ protected:
+ 	bool					m_bAttack2Down;
+ 	bool					m_bAttack3Down;
+ 	bool					m_bReloadDown;
++#ifdef GAME_DLL
++	// MOD: "mod medigun portal to patient" - press reload while healing to appear beside your patient
++	void					Mod_TryPortalToPatient( void );
++	float					m_flModNextPortalTime;
++#endif
+ 	float					m_flEndResistCharge;
+ 	
+ 	struct targetdetachtimes_t
 diff --git a/src/game/shared/tf/tf_weaponbase.cpp b/src/game/shared/tf/tf_weaponbase.cpp
 index 638cc6f..4900052 100644
 --- a/src/game/shared/tf/tf_weaponbase.cpp
