@@ -1,27 +1,74 @@
 diff --git a/game/mod_tf/resource/mod_tf_english.txt b/game/mod_tf/resource/mod_tf_english.txt
-index edf73c793d6444785969dfd9650ac46de8de7b91..cb4a0fa31725630550a58c92a8edce3a58ec02e2 100644
+index edf73c793d6444785969dfd9650ac46de8de7b91..f24d6191b374c8564a01083ca4a8cf70b49f07ca 100644
 GIT binary patch
-literal 1118
-zcma)+PfHt76vfZhMZUvhpimdaZc3p$Ma6|;(QFDrm`q|4OdK(jwrTOJxBZ=WGb9la
-z8D8Fd_n!Oj-23wHZ=sn=J!q^#9sOYyx>!q=>|>3PB-Uw0%{0|QlZ-CZQ>}Xt56D{k
-zJx)EHsjo||bfZR3*f@eQd+V>zcWjsF67p?K0$C%qO+qut5tHuNXT<8}NFDqf@+G2N
-z=|o>SRrs^7TJvn*fSw~s`p9pU^LRwRz;4PO+U;{6e61ld8vSDJ!-wm+%+kKjv+t<J
-zEG@~gBEu2B+uDj9RLX4b;@<DGPi3Q=dw4H&O$Jrw+;t=viF;xXzRaCj8?n1Hu5!iM
-zr;<GFui?JJBKS8mHB$Grgc<k5GcjbJpqXP6{pjiz`89XPEkQVk=#*_|bZHa4L1SCn
-z9O$z?=>ysd)Krh07VN*#dvdl}K1SwDk67+s%d9c2E^TSwwtmT>y`1L=KQb@Q+f}rj
-zd0NNRZH_!kNrQDhW+gJ}BJF|kTX6mU4P8v<ZZ#!-8uT~%2{ztZyaU(MYSWJXWlb$=
-z<Ky+ZJlD>~uezPO%^XarBx-dg6*uQ?iCK8c9glm7>>K=eGK}$546;{GPt3uAzR*?o
-RbO>V3ihqlap6Teb{sXcYw}Sux
+literal 11658
+zcmb7~TW=i45rzBJ0rDRf1OmOpf_by#yy-$hf+UOPGA0595O@_SEiWOLqM5*d-O2g-
+zY<ZU39kT>N+MSu6p1Pc>Q&qG7{cWjC%3e7yAInntbNN&GPyK(Xyq%rB(dWl<q^l$S
+z+o&ri<+NOvli3|hWv5(}&suY?v-7)rqobX&Sw56^<*tm&v|Q;<p2fOvW`9fNAG-fW
+z*G4)&zh<PB7dp#5BV9SE&mEOxeNObe$Frv)H_v*f)rWf8D}A2Lo`fDZy8l3TAL$wK
+z+@*V~MpfVY>%L~!59OtHzt&T{|5DkO3<uRJQ=K14ULTM2X>HI9osRU0?T#e#oxbyJ
+zPm;3VRL6I^!`3;_*$bV;_IuI~i{ZONeV*vbneMT*9+!XW{I-sH?w(d4gYC$@6WMTh
+z`czlAmwUb~>*c%h7hOHjs?&0*Z`b<#x31f_^Ok<Dv&i~P|IV~7tjn6XHk!M-Xwz5|
+z_b=L!eO}dPe5tlUb~FjQfv1ns9Xm~>>8R|_B*HS5>9Nl4XbqUf2K?`9fuH*t?P;f}
+zR*cK7Ry#6`RdkB0qkGp|y<*+4OJBEBJqwA5!oc5vhf`@|eUarrN65|@EOAvm@8dn4
+z+meky2x~yce%%!m84tVF3PcVo4s`yse9_V0bo@kq$Lm}LVI%FmC!ad{vF_e1#{a5o
+zE6wW9vXl|NU-$m3Rl_|-Ry<>V=N411bsw?tp{$mt!s2)OjHtqoNWZ23FZD-6I~vG8
+zME9a6db=%pf-H4XEq7Zr#|Fd<);O(NgPUo2RIiegj0<A<M(6n?p0M;?wO|iftt4xW
+zUT?J%h#Lv@;9-)|Xic_S%s-pjiTp5@pDiUmy_KF9(gWSD^aRHd>+l|$5I>PAhRkzZ
+zeL7^^`G{%tT5t3kYj4{u>!tOMPCJqU+dPttXZnoXcU2=NXY=nH*|0R(mMr0X0^jAZ
+z^nFLlx6*VzC*8;cCxxgX7dzUGm;LHt(8k%E{7)MBw<Z5Xe{hHMQzi<YbR>WCdkhaY
+zzK?L@1*Cu0^KueDZ6r27V`DNNSSPxO`kd9Dc4Qw{>)vWNXYE7neOax(U;W{#;auOz
+z7dgp)Xe1x&{v&x8w73=m)jeixqvD5-)Vnj^5u1U+Pm<isf30sH>(e+s6?&+!GO{l#
+zYcA%@arGIzai+hVt=Xr|Ezczv6&U&ASW=Nc0vYfu=%;pri}3JaQs(7GW+IZ>hzK&{
+z9_iS5|6!Cbm*tN1@2kg<cs|-k+Le4eshGji_!w((?pB|~7d25-XIZUQ8m)-fOWBDm
+z%y%+=)*mY!jo#>PtOAO{50}+)Fgdj&x}cNu`&9aH2gmqms8e&;YWbL0z@Fi&;72-x
+z3)w8=tJRKXFDshNM`X}TS!+5&L&P_JBc=n3_=?IXr%R86si?p<tYwbL$lqh(dHDyv
+zin_>EMNZC^Q(w#G$Flg9KB@WKu~8#tr0wzRw(g}aq{aeE#}zwKBVd0Ri|29mMBhO!
+zQG^sZJzD;y2O!2Sgi1Pyhbp+`(qmnEKjR!MT-3VOoE!CQ$exq4<=G8oO{ybTRTF6+
+zJ@X$`L(8hH+YGu<<-4jmg=~iYQ~_id&}*BT6<}L%f2I7Llf7kJcm}^kT#l=arYURp
+z*mkIKhMYr1ModN=4!OuxCmM1NjGZMlX&HD^I^gI1`aeBM1~EPEWv8gqm?#)MR1YAY
+zXa(=Aadzg+FM4vu2P+-^eWShLLV60<_%Ev0_hwjlSPyn>vGkLyPH*Uri%f7RUG@}B
+z;QwFERS@PJn$x6Z<rmuFTz@bM-5%)8NZ(`Q9m$Ezj#}5jBTaJLZ3c$GmiriZCMS2x
+zyU+C`_t+qjDir3(<jWOxyshPjoU^aJ$PU-l=4U!Gnm8X%^fjWu{WX>Y2RUt8&K>-Y
+z4&;s(!Yy$QUNf0=MV)o46+A+%1ODN3Y88+~79uYhyF>|*Zm!Jf&~h!6<fJ0^>t*lp
+zEy%o*oVG{QLdSXrbqJZ;d`_3Zj3kStmVL>9jxDOV7uC<$3fpI5p~t_}8=gE2b05z;
+zs79}9p2*ezE8@t-`X9f#uE9##nC)?GRM3mHKeZ%tlN=gahJ7v_kr7V87I^F|Wz8PP
+zvRj}vkTB0gOjF5(*^J(@s?qCuGs8nGnrF4~Mjo2TYLV+ab;9F0JGLD8TAGoYncE&}
+zp9~&*4EaoQq1|2e2$9450z?u?WNcS1?vvoQ+)QA#!;UYtH~t=You@o3IeWD>9VQuI
+z$?OjHV;1b*XP8;C%DEGJ<!aegb(f1V7M33sBw+IMSvJgNWA<w`xnC)oOQ=p_j_n!+
+z6oVg_lnj!~YpY_lMGaon2xN{43zH$?<cuGB3<<WW2rXGQ->!BhzRWSrMehDRi;X(=
+zV`bTlls(4VlAd@96u5$oiW{rC_Kvw7J#%D}PttBb6{V}C<-Yf`x{sNHd+?0>J=WW)
+z+Jmw|HfjR*<ad?5!S%GW&X&t$npMsG7tyjK%bm+|#Ed<HEs3;T*Uz3U=BdnMQfIBm
+z+n~CyAGwI0`bz)j_;Izvk7HTK91HfD^kFl0&2SJqwwk=FI}9@zCNF-E<BEz-)pK|9
+zHNAVz6D@acOVat7k}G_Co<UWQKR2}_b{(?2E7)UMggVFXV9Bl=Gf~XR-tws5Rd{}6
+z_TSZ>F-ywG-{V!-85#ZV(=kgQflheZY{ks{|E=>(BBxc$!arB5;1l-(KkFNHS4N*6
+z8`Hfo8DLIwB<b-B_+$?2_X}hyPZfuEa6}S5@@zAs%UXw>pJ^8+(1#VRWW~t54{O7I
+zZDfqaFj1cknaeRwK4G3Y|L!~H2IdmK`@;t0>zr0CTSo>)EAk~+z@nLWU+c0p71Kof
+zFhh$@j7ax{jz|HKlVp}!>+mzVk*W*b$u5UFKKM$>drZA0d1JCV#ERK4dM0zqP^l74
+zfwY_t+Aemd+9cjGk0r%zB0|=>o$Gw9bRcAqyXHMH&yUpCztk1{QiKfV*?vxsmd&Y8
+zh(%BH;*Bu+P`8}c8Z<YXT~n>l#tZdv;K<lwh6V<}?o?0C)!u6z7LPcf);9(+QQc#1
+z@IQ16<URU9S0GrNUmMUnxN~;Z8o7x|%egIAf3I~o{N?P4M|x(a?_rPD*7Udjt%cu!
+zKa$L32k;Lo5z+UrkU_E?+nOfAi*?lBb+<bYzcss+AL92_e>7cYuU3AlZs#-Py4BvE
+zdmuAX#_s@lM@NO=xS$dtUSK`$&P77Y=FhbQcCtPhB=y+)ZIvwQJu*$a<@c|7@GyFy
+z(Ie>)x_Bm)MNrGyFZ3L$ah~GZEa!(FV{g=WvbD`@Mh#YuNXuB6Ut}#J=6%g?k$ss!
+zVfFkhnLS(Nz<;j!K!B@Z^8F|6OpYXCbMu|`PItT^Uwx5P?-CiF`&;>lZ|3LDBjA=P
+zCABAYW3Y(3O|w{F9qWK5^Lx(fZFjs?u|a(T;&v3HbmUp2uXm@&>_UEVhM^;fUX$Mx
+z;bA;L-12@bCwa@W)NAZSK5+F0t7oQG>s_w>Q9Ci+Cc8%^8ox(#)Oz-olegv5VY*FK
+z#;@bB^26C=z001jr7KyRY5cT)<5yhSjJ@9BOzcUfxT)URm3&#|WVaUCF`Wg|WMHQ3
+zL?BXw4rW-c9N{5%CS1?ix19zD=d+U$My(RRsms{8$DEsz=>F`Q%pGqD&}EqKp()XL
+zEd=$ncq!XbQSH_psd$YjXF^ypR(#u8v-lP{)-LYWdg7VnqH7}$GR25r!yzlx<j@aO
+je^HO)ANvhIkr|?5#v1XC(Vduk&-33k{<XgE{<ZuM?9j_T
 
-delta 13
-Ucmcb|ae#5cF1A_*UWQr*03#y<{{R30
+delta 59
+zcmeB*KENpa|DO^=4nrbC9z!~V5(6(oH3RQNacxm0h7g8)hHQpZphPiTA~v0^7O19{
+F0RXi%49Nfh
 
 diff --git a/game/mod_tf/scripts/items/items_mod.txt b/game/mod_tf/scripts/items/items_mod.txt
 new file mode 100644
-index 0000000..681a3c9
+index 0000000..843ce25
 --- /dev/null
 +++ b/game/mod_tf/scripts/items/items_mod.txt
-@@ -0,0 +1,137 @@
+@@ -0,0 +1,1275 @@
 +// =============================================================================
 +// Custom items for this mod. Merged on top of TF2's items_game.txt at load time
 +// (see Mod_MergeCustomItems in src/game/shared/econ/econ_item_schema.cpp).
@@ -91,6 +138,42 @@ index 0000000..681a3c9
 +			"hidden"				"1"
 +			"stored_as_integer"		"0"
 +		}
++		"9006"
++		{
++			"name"					"mod damage taken while active"
++			"attribute_class"		"mult_dmgtaken_active"
++			"description_format"	"value_is_percentage"
++			"effect_type"			"positive"
++			"hidden"				"1"
++			"stored_as_integer"		"0"
++		}
++		"9007"
++		{
++			"name"					"mod knockback taken while active"
++			"attribute_class"		"mod_knockback_taken_active"
++			"description_format"	"value_is_percentage"
++			"effect_type"			"positive"
++			"hidden"				"1"
++			"stored_as_integer"		"0"
++		}
++		"9008"
++		{
++			"name"					"mod viewmodel arms class"
++			"attribute_class"		"mod_viewmodel_arms_class"
++			"description_format"	"value_is_additive"
++			"effect_type"			"neutral"
++			"hidden"				"1"
++			"stored_as_integer"		"0"
++		}
++		"9009"
++		{
++			"name"					"mod dual wield"
++			"attribute_class"		"mod_dual_wield"
++			"description_format"	"value_is_additive"
++			"effect_type"			"positive"
++			"hidden"				"1"
++			"stored_as_integer"		"0"
++		}
 +	}
 +
 +	"items"
@@ -134,10 +217,12 @@ index 0000000..681a3c9
 +			"static_attrs"
 +			{
 +				"mod weapon bucket"		"2"		// number key 2, like Heavy's other secondaries
++				"mod viewmodel arms class"	"8"	// first-person: use the Spy's arms (class 8) and his revolver animations
 +			}
 +		}
 +
-+		// Scout melee: Sandman look, plain bat (no ball), tiny damage, huge knockback.
++		// Scout melee: Sandman look, plain bat (no ball), tiny damage, huge knockback,
++		// and while held: 75% less damage taken, 25% less knockback taken.
 +		"38002"
 +		{
 +			"mod_copy_from"		"44"	// The Sandman
@@ -155,12 +240,1112 @@ index 0000000..681a3c9
 +			{
 +				"mod damage multiplier"			"0.25"	// 35 -> ~9 damage
 +				"mod melee airblast knockback"	"2"		// 2x Pyro airblast push
++				"mod damage taken while active"		"0.25"	// takes 75% less damage while held
++				"mod knockback taken while active"	"0.75"	// takes 25% less knockback while held
++			}
++		}
++	
++		// ===================== SCOUT =====================
++		"38003"
++		{
++			"mod_copy_from"		"1103"
++			"name"				"The Peppershaker"
++			"item_name"			"#Mod_Item_38003"
++			"item_description"	"#Mod_Item_38003_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"scout"	"1"
++			}
++			"item_slot"			"primary"
++			"static_attrs"
++			{
++				"fire rate bonus"	"0.6"
++				"clip size bonus"	"1.5"
++				"damage penalty"	"0.6"
++				"spread penalty"	"1.4"
++			}
++		}
++		"38004"
++		{
++			"mod_copy_from"		"45"
++			"name"				"The Long Haul"
++			"item_name"			"#Mod_Item_38004"
++			"item_description"	"#Mod_Item_38004_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"scout"	"1"
++			}
++			"item_slot"			"primary"
++			"static_attrs"
++			{
++				"weapon spread bonus"	"0.6"
++				"damage bonus"	"1.15"
++				"clip size penalty"	"0.5"
++				"fire rate penalty"	"1.15"
++			}
++		}
++		"38005"
++		{
++			"mod_copy_from"		"23"
++			"name"				"The Stinger"
++			"item_name"			"#Mod_Item_38005"
++			"item_description"	"#Mod_Item_38005_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"scout"	"1"
++			}
++			"item_slot"			"secondary"
++			"static_attrs"
++			{
++				"speed_boost_on_hit"	"2"
++				"damage penalty"	"0.75"
++				"maxammo secondary reduced"	"0.5"
++			}
++		}
++		"38006"
++		{
++			"mod_copy_from"		"209"
++			"name"				"The Hare Trigger"
++			"item_name"			"#Mod_Item_38006"
++			"item_description"	"#Mod_Item_38006_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"scout"	"1"
++			}
++			"item_slot"			"secondary"
++			"static_attrs"
++			{
++				"fire rate bonus"	"0.7"
++				"clip size bonus"	"1.5"
++				"damage penalty"	"0.75"
++				"spread penalty"	"1.3"
++			}
++		}
++		"38007"
++		{
++			"mod_copy_from"		"325"
++			"name"				"The Rally Bat"
++			"item_name"			"#Mod_Item_38007"
++			"item_description"	"#Mod_Item_38007_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"scout"	"1"
++			}
++			"item_slot"			"melee"
++			"static_attrs"
++			{
++				"mod mini-crit airborne"	"1"
++				"damage penalty"	"0.85"
++				"mult_dmgtaken_active"	"1.15"
++			}
++		}
++		"38008"
++		{
++			"mod_copy_from"		"450"
++			"name"				"The Homerun Hitter"
++			"item_name"			"#Mod_Item_38008"
++			"item_description"	"#Mod_Item_38008_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"scout"	"1"
++			}
++			"item_slot"			"melee"
++			"static_attrs"
++			{
++				"damage bonus"	"1.35"
++				"fire rate penalty"	"1.4"
++				"max health additive penalty"	"-10"
++			}
++		}
++
++		// ===================== SOLDIER =====================
++		"38009"
++		{
++			"mod_copy_from"		"228"
++			"name"				"The Siege Engine"
++			"item_name"			"#Mod_Item_38009"
++			"item_description"	"#Mod_Item_38009_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"soldier"	"1"
++			}
++			"item_slot"			"primary"
++			"static_attrs"
++			{
++				"Blast radius increased"	"1.25"
++				"dmg bonus vs buildings"	"1.5"
++				"Projectile speed decreased"	"0.75"
++				"clip size penalty"	"0.75"
++			}
++		}
++		"38010"
++		{
++			"mod_copy_from"		"414"
++			"name"				"The Skyhammer"
++			"item_name"			"#Mod_Item_38010"
++			"item_description"	"#Mod_Item_38010_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"soldier"	"1"
++			}
++			"item_slot"			"primary"
++			"static_attrs"
++			{
++				"self dmg push force increased"	"1.2"
++				"increased air control"	"1.5"
++				"Blast radius decreased"	"0.8"
++				"clip size penalty"	"0.75"
++			}
++		}
++		"38011"
++		{
++			"mod_copy_from"		"415"
++			"name"				"The Trench Sweeper"
++			"item_name"			"#Mod_Item_38011"
++			"item_description"	"#Mod_Item_38011_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"soldier"	"1"
++			}
++			"item_slot"			"secondary"
++			"static_attrs"
++			{
++				"bullets per shot bonus"	"1.3"
++				"spread penalty"	"1.3"
++				"clip size penalty"	"0.66"
++			}
++		}
++		"38012"
++		{
++			"mod_copy_from"		"10"
++			"name"				"The Rapid Ranger"
++			"item_name"			"#Mod_Item_38012"
++			"item_description"	"#Mod_Item_38012_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"soldier"	"1"
++			}
++			"item_slot"			"secondary"
++			"static_attrs"
++			{
++				"fire rate bonus"	"0.8"
++				"Reload time decreased"	"0.7"
++				"damage penalty"	"0.8"
++				"maxammo secondary reduced"	"0.75"
++			}
++		}
++		"38013"
++		{
++			"mod_copy_from"		"154"
++			"name"				"The Entrenching Tool"
++			"item_name"			"#Mod_Item_38013"
++			"item_description"	"#Mod_Item_38013_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"soldier"	"1"
++			}
++			"item_slot"			"melee"
++			"static_attrs"
++			{
++				"heal on kill"	"50"
++				"speed_boost_on_kill"	"3"
++				"damage penalty"	"0.8"
++			}
++		}
++		"38014"
++		{
++			"mod_copy_from"		"128"
++			"name"				"The Last Stand"
++			"item_name"			"#Mod_Item_38014"
++			"item_description"	"#Mod_Item_38014_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"soldier"	"1"
++			}
++			"item_slot"			"melee"
++			"static_attrs"
++			{
++				"dmg taken from crit reduced"	"0.5"
++				"dmg taken from blast reduced"	"0.8"
++				"damage penalty"	"0.75"
++				"move speed penalty"	"0.9"
++			}
++		}
++
++		// ===================== PYRO =====================
++		"38015"
++		{
++			"mod_copy_from"		"40"
++			"name"				"The Inferno Lance"
++			"item_name"			"#Mod_Item_38015"
++			"item_description"	"#Mod_Item_38015_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"pyro"	"1"
++			}
++			"item_slot"			"primary"
++			"static_attrs"
++			{
++				"flame life bonus"	"1.3"
++				"airblast cost increased"	"1.5"
++				"flame ammopersec increased"	"1.3"
++			}
++		}
++		"38016"
++		{
++			"mod_copy_from"		"215"
++			"name"				"The Bellows"
++			"item_name"			"#Mod_Item_38016"
++			"item_description"	"#Mod_Item_38016_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"pyro"	"1"
++			}
++			"item_slot"			"primary"
++			"static_attrs"
++			{
++				"airblast cost decreased"	"0.7"
++				"airblast pushback scale"	"1.3"
++				"damage penalty"	"0.8"
++				"afterburn duration penalty"	"0.5"
++			}
++		}
++		"38017"
++		{
++			"mod_copy_from"		"12"
++			"name"				"The Ember Slug"
++			"item_name"			"#Mod_Item_38017"
++			"item_description"	"#Mod_Item_38017_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"pyro"	"1"
++			}
++			"item_slot"			"secondary"
++			"static_attrs"
++			{
++				"Set DamageType Ignite"	"1"
++				"damage penalty"	"0.75"
++				"clip size penalty"	"0.5"
++			}
++		}
++		"38018"
++		{
++			"mod_copy_from"		"39"
++			"name"				"The Warning Shot"
++			"item_name"			"#Mod_Item_38018"
++			"item_description"	"#Mod_Item_38018_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"pyro"	"1"
++			}
++			"item_slot"			"secondary"
++			"static_attrs"
++			{
++				"Projectile speed increased"	"1.5"
++				"mark for death"	"1"
++				"damage penalty"	"0.7"
++			}
++		}
++		"38019"
++		{
++			"mod_copy_from"		"38"
++			"name"				"The Firebreak"
++			"item_name"			"#Mod_Item_38019"
++			"item_description"	"#Mod_Item_38019_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"pyro"	"1"
++			}
++			"item_slot"			"melee"
++			"static_attrs"
++			{
++				"dmg taken from fire reduced on active"	"0.5"
++				"damage bonus vs burning"	"1.25"
++				"dmg penalty vs nonburning"	"0.75"
++			}
++		}
++		"38020"
++		{
++			"mod_copy_from"		"214"
++			"name"				"The Kindling Cleaver"
++			"item_name"			"#Mod_Item_38020"
++			"item_description"	"#Mod_Item_38020_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"pyro"	"1"
++			}
++			"item_slot"			"melee"
++			"static_attrs"
++			{
++				"minicrit vs burning player"	"1"
++				"single wep deploy time decreased"	"0.6"
++				"damage penalty"	"0.85"
++				"dmg taken from fire increased"	"1.25"
++			}
++		}
++
++		// ===================== DEMOMAN =====================
++		"38021"
++		{
++			"mod_copy_from"		"308"
++			"name"				"The Cannonball"
++			"item_name"			"#Mod_Item_38021"
++			"item_description"	"#Mod_Item_38021_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"demoman"	"1"
++			}
++			"item_slot"			"primary"
++			"static_attrs"
++			{
++				"damage bonus"	"1.2"
++				"Blast radius increased"	"1.15"
++				"clip size penalty"	"0.5"
++				"Projectile speed decreased"	"0.8"
++			}
++		}
++		"38022"
++		{
++			"mod_copy_from"		"1151"
++			"name"				"The Bounce House"
++			"item_name"			"#Mod_Item_38022"
++			"item_description"	"#Mod_Item_38022_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"demoman"	"1"
++			}
++			"item_slot"			"primary"
++			"static_attrs"
++			{
++				"Projectile speed increased"	"1.25"
++				"clip size bonus"	"1.5"
++				"damage penalty"	"0.8"
++				"Blast radius decreased"	"0.85"
++			}
++		}
++		"38023"
++		{
++			"mod_copy_from"		"1150"
++			"name"				"The Quickset Charges"
++			"item_name"			"#Mod_Item_38023"
++			"item_description"	"#Mod_Item_38023_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"demoman"	"1"
++			}
++			"item_slot"			"secondary"
++			"static_attrs"
++			{
++				"sticky arm time bonus"	"-0.3"
++				"Projectile speed increased"	"1.25"
++				"max pipebombs decreased"	"-4"
++				"maxammo secondary reduced"	"0.6"
++			}
++		}
++		"38024"
++		{
++			"mod_copy_from"		"130"
++			"name"				"The Bulk Charges"
++			"item_name"			"#Mod_Item_38024"
++			"item_description"	"#Mod_Item_38024_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"demoman"	"1"
++			}
++			"item_slot"			"secondary"
++			"static_attrs"
++			{
++				"max pipebombs increased"	"2"
++				"Blast radius increased"	"1.15"
++				"Reload time increased"	"1.25"
++				"Projectile speed decreased"	"0.8"
++			}
++		}
++		"38025"
++		{
++			"mod_copy_from"		"609"
++			"name"				"The Liquid Courage"
++			"item_name"			"#Mod_Item_38025"
++			"item_description"	"#Mod_Item_38025_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"demoman"	"1"
++			}
++			"item_slot"			"melee"
++			"static_attrs"
++			{
++				"heal on kill"	"50"
++				"dmg taken from blast reduced"	"0.85"
++				"damage penalty"	"0.85"
++				"health from healers reduced"	"0.8"
++			}
++		}
++		"38026"
++		{
++			"mod_copy_from"		"191"
++			"name"				"The Last Call"
++			"item_name"			"#Mod_Item_38026"
++			"item_description"	"#Mod_Item_38026_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"demoman"	"1"
++			}
++			"item_slot"			"melee"
++			"static_attrs"
++			{
++				"damage bonus"	"1.25"
++				"critboost on kill"	"3"
++				"fire rate penalty"	"1.3"
++				"dmg from melee increased"	"1.2"
++			}
++		}
++
++		// ===================== HEAVY =====================
++		"38027"
++		{
++			"mod_copy_from"		"312"
++			"name"				"The Brass Storm"
++			"item_name"			"#Mod_Item_38027"
++			"item_description"	"#Mod_Item_38027_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"heavy"	"1"
++			}
++			"item_slot"			"primary"
++			"static_attrs"
++			{
++				"fire rate bonus"	"0.85"
++				"maxammo primary increased"	"1.5"
++				"spread penalty"	"1.3"
++				"minigun spinup time increased"	"1.25"
++			}
++		}
++		"38028"
++		{
++			"mod_copy_from"		"298"
++			"name"				"The Bulwark"
++			"item_name"			"#Mod_Item_38028"
++			"item_description"	"#Mod_Item_38028_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"heavy"	"1"
++			}
++			"item_slot"			"primary"
++			"static_attrs"
++			{
++				"dmg taken from bullets reduced"	"0.8"
++				"dmg taken from crit reduced"	"0.7"
++				"damage penalty"	"0.85"
++				"move speed penalty"	"0.9"
++			}
++		}
++		"38029"
++		{
++			"mod_copy_from"		"425"
++			"name"				"The Ironside"
++			"item_name"			"#Mod_Item_38029"
++			"item_description"	"#Mod_Item_38029_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"heavy"	"1"
++			}
++			"item_slot"			"secondary"
++			"static_attrs"
++			{
++				"Reload time decreased"	"0.6"
++				"maxammo secondary increased"	"1.5"
++				"damage penalty"	"0.85"
++				"spread penalty"	"1.2"
++			}
++		}
++		"38030"
++		{
++			"mod_copy_from"		"11"
++			"name"				"The Doorbreaker"
++			"item_name"			"#Mod_Item_38030"
++			"item_description"	"#Mod_Item_38030_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"heavy"	"1"
++			}
++			"item_slot"			"secondary"
++			"static_attrs"
++			{
++				"damage bonus"	"1.2"
++				"dmg bonus vs buildings"	"1.5"
++				"fire rate penalty"	"1.25"
++				"maxammo secondary reduced"	"0.5"
++			}
++		}
++		"38031"
++		{
++			"mod_copy_from"		"331"
++			"name"				"The Iron Knuckles"
++			"item_name"			"#Mod_Item_38031"
++			"item_description"	"#Mod_Item_38031_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"heavy"	"1"
++			}
++			"item_slot"			"melee"
++			"static_attrs"
++			{
++				"heal on hit for slowfire"	"15"
++				"dmg taken from blast reduced"	"0.8"
++				"damage penalty"	"0.9"
++				"fire rate penalty"	"1.2"
++			}
++		}
++		"38032"
++		{
++			"mod_copy_from"		"239"
++			"name"				"The Hasty Mitts"
++			"item_name"			"#Mod_Item_38032"
++			"item_description"	"#Mod_Item_38032_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"heavy"	"1"
++			}
++			"item_slot"			"melee"
++			"static_attrs"
++			{
++				"mult_player_movespeed_active"	"1.15"
++				"increased jump height from weapon"	"1.25"
++				"damage penalty"	"0.6"
++				"mult_dmgtaken_active"	"1.2"
++				"fire rate penalty"	"1.15"
++			}
++		}
++
++		// ===================== ENGINEER =====================
++		"38033"
++		{
++			"mod_copy_from"		"9"
++			"name"				"The Scrapper's Shotgun"
++			"item_name"			"#Mod_Item_38033"
++			"item_description"	"#Mod_Item_38033_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"engineer"	"1"
++			}
++			"item_slot"			"primary"
++			"static_attrs"
++			{
++				"maxammo metal increased"	"1.5"
++				"Construction rate increased"	"1.15"
++				"damage penalty"	"0.85"
++				"clip size penalty"	"0.66"
++			}
++		}
++		"38034"
++		{
++			"mod_copy_from"		"1153"
++			"name"				"The Overclock"
++			"item_name"			"#Mod_Item_38034"
++			"item_description"	"#Mod_Item_38034_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"engineer"	"1"
++			}
++			"item_slot"			"primary"
++			"static_attrs"
++			{
++				"engy sentry fire rate increased"	"0.85"
++				"damage penalty"	"0.75"
++				"maxammo primary reduced"	"0.5"
++			}
++		}
++		"38035"
++		{
++			"mod_copy_from"		"22"
++			"name"				"The Tinker's Pistol"
++			"item_name"			"#Mod_Item_38035"
++			"item_description"	"#Mod_Item_38035_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"engineer"	"1"
++			}
++			"item_slot"			"secondary"
++			"static_attrs"
++			{
++				"damage bonus bullet vs sentry target"	"1.3"
++				"fire rate bonus"	"0.85"
++				"maxammo secondary reduced"	"0.5"
++			}
++		}
++		"38036"
++		{
++			"mod_copy_from"		"209"
++			"name"				"The Survey Sidearm"
++			"item_name"			"#Mod_Item_38036"
++			"item_description"	"#Mod_Item_38036_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"engineer"	"1"
++			}
++			"item_slot"			"secondary"
++			"static_attrs"
++			{
++				"weapon spread bonus"	"0.5"
++				"damage bonus"	"1.2"
++				"fire rate penalty"	"1.5"
++				"clip size penalty"	"0.5"
++			}
++		}
++		"38037"
++		{
++			"mod_copy_from"		"329"
++			"name"				"The Rapid Ratchet"
++			"item_name"			"#Mod_Item_38037"
++			"item_description"	"#Mod_Item_38037_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"engineer"	"1"
++			}
++			"item_slot"			"melee"
++			"static_attrs"
++			{
++				"Construction rate increased"	"1.4"
++				"Repair rate increased"	"1.25"
++				"maxammo metal reduced"	"0.8"
++				"max health additive penalty"	"-15"
++			}
++		}
++		"38038"
++		{
++			"mod_copy_from"		"155"
++			"name"				"The Fortress Wrench"
++			"item_name"			"#Mod_Item_38038"
++			"item_description"	"#Mod_Item_38038_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"engineer"	"1"
++			}
++			"item_slot"			"melee"
++			"static_attrs"
++			{
++				"engy building health bonus"	"1.3"
++				"Construction rate decreased"	"0.75"
++				"max health additive penalty"	"-20"
++			}
++		}
++
++		// ===================== MEDIC =====================
++		"38039"
++		{
++			"mod_copy_from"		"412"
++			"name"				"The Vampire Vial"
++			"item_name"			"#Mod_Item_38039"
++			"item_description"	"#Mod_Item_38039_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"medic"	"1"
++			}
++			"item_slot"			"primary"
++			"static_attrs"
++			{
++				"heal on hit for rapidfire"	"2"
++				"clip size bonus"	"1.25"
++				"max health additive penalty"	"-20"
++				"damage penalty"	"0.85"
++			}
++		}
++		"38040"
++		{
++			"mod_copy_from"		"204"
++			"name"				"The Antidote Shot"
++			"item_name"			"#Mod_Item_38040"
++			"item_description"	"#Mod_Item_38040_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"medic"	"1"
++			}
++			"item_slot"			"primary"
++			"static_attrs"
++			{
++				"mad milk syringes"	"1"
++				"damage penalty"	"0.8"
++				"clip size penalty"	"0.75"
++			}
++		}
++		"38041"
++		{
++			"mod_copy_from"		"35"
++			"name"				"The Overdose Beam"
++			"item_name"			"#Mod_Item_38041"
++			"item_description"	"#Mod_Item_38041_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"medic"	"1"
++			}
++			"item_slot"			"secondary"
++			"static_attrs"
++			{
++				"ubercharge rate bonus"	"1.15"
++				"uber duration bonus"	"2"
++				"heal rate penalty"	"0.8"
++				"overheal decay penalty"	"0.5"
++			}
++		}
++		"38042"
++		{
++			"mod_copy_from"		"411"
++			"name"				"The Field Medic Beam"
++			"item_name"			"#Mod_Item_38042"
++			"item_description"	"#Mod_Item_38042_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"medic"	"1"
++			}
++			"item_slot"			"secondary"
++			"static_attrs"
++			{
++				"heal rate bonus"	"1.3"
++				"ubercharge rate penalty"	"0.75"
++			}
++		}
++		"38043"
++		{
++			"mod_copy_from"		"173"
++			"name"				"The Triage Saw"
++			"item_name"			"#Mod_Item_38043"
++			"item_description"	"#Mod_Item_38043_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"medic"	"1"
++			}
++			"item_slot"			"melee"
++			"static_attrs"
++			{
++				"add uber charge on hit"	"0.1"
++				"single wep deploy time decreased"	"0.6"
++				"damage penalty"	"0.8"
++			}
++		}
++		"38044"
++		{
++			"mod_copy_from"		"304"
++			"name"				"The Scalpel of Sacrifice"
++			"item_name"			"#Mod_Item_38044"
++			"item_description"	"#Mod_Item_38044_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"medic"	"1"
++			}
++			"item_slot"			"melee"
++			"static_attrs"
++			{
++				"damage bonus"	"1.25"
++				"speed_boost_on_hit"	"2"
++				"max health additive penalty"	"-20"
++			}
++		}
++
++		// ===================== SNIPER =====================
++		"38045"
++		{
++			"mod_copy_from"		"851"
++			"name"				"The Overwatch"
++			"item_name"			"#Mod_Item_38045"
++			"item_description"	"#Mod_Item_38045_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"sniper"	"1"
++			}
++			"item_slot"			"primary"
++			"static_attrs"
++			{
++				"SRifle Charge rate increased"	"1.5"
++				"damage penalty"	"0.85"
++				"sniper aiming movespeed decreased"	"0.6"
++			}
++		}
++		"38046"
++		{
++			"mod_copy_from"		"526"
++			"name"				"The Deadeye"
++			"item_name"			"#Mod_Item_38046"
++			"item_description"	"#Mod_Item_38046_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"sniper"	"1"
++			}
++			"item_slot"			"primary"
++			"static_attrs"
++			{
++				"mark for death"	"1"
++				"sniper full charge damage bonus"	"1.1"
++				"SRifle Charge rate decreased"	"0.8"
++				"maxammo primary reduced"	"0.6"
++			}
++		}
++		"38047"
++		{
++			"mod_copy_from"		"203"
++			"name"				"The Undergrowth"
++			"item_name"			"#Mod_Item_38047"
++			"item_description"	"#Mod_Item_38047_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"sniper"	"1"
++			}
++			"item_slot"			"secondary"
++			"static_attrs"
++			{
++				"clip size bonus"	"1.4"
++				"fire rate bonus"	"0.9"
++				"damage penalty"	"0.8"
++				"spread penalty"	"1.25"
++			}
++		}
++		"38048"
++		{
++			"mod_copy_from"		"16"
++			"name"				"The Bleeder"
++			"item_name"			"#Mod_Item_38048"
++			"item_description"	"#Mod_Item_38048_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"sniper"	"1"
++			}
++			"item_slot"			"secondary"
++			"static_attrs"
++			{
++				"bleeding duration"	"3"
++				"damage penalty"	"0.75"
++				"clip size penalty"	"0.6"
++			}
++		}
++		"38049"
++		{
++			"mod_copy_from"		"232"
++			"name"				"The Croc Tooth"
++			"item_name"			"#Mod_Item_38049"
++			"item_description"	"#Mod_Item_38049_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"sniper"	"1"
++			}
++			"item_slot"			"melee"
++			"static_attrs"
++			{
++				"heal on kill"	"40"
++				"speed_boost_on_kill"	"3"
++				"damage penalty"	"0.8"
++			}
++		}
++		"38050"
++		{
++			"mod_copy_from"		"401"
++			"name"				"The Outback Cleaver"
++			"item_name"			"#Mod_Item_38050"
++			"item_description"	"#Mod_Item_38050_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"sniper"	"1"
++			}
++			"item_slot"			"melee"
++			"static_attrs"
++			{
++				"damage bonus"	"1.25"
++				"crit vs wet players"	"1"
++				"fire rate penalty"	"1.25"
++				"dmg from melee increased"	"1.2"
++			}
++		}
++
++		// ===================== SPY =====================
++		"38051"
++		{
++			"mod_copy_from"		"224"
++			"name"				"The Envoy"
++			"item_name"			"#Mod_Item_38051"
++			"item_description"	"#Mod_Item_38051_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"spy"	"1"
++			}
++			"item_slot"			"secondary"
++			"static_attrs"
++			{
++				"mark for death"	"1"
++				"weapon spread bonus"	"0.7"
++				"damage penalty"	"0.85"
++				"clip size penalty"	"0.66"
++			}
++		}
++		"38052"
++		{
++			"mod_copy_from"		"460"
++			"name"				"The Pocket Thunder"
++			"item_name"			"#Mod_Item_38052"
++			"item_description"	"#Mod_Item_38052_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"spy"	"1"
++			}
++			"item_slot"			"secondary"
++			"static_attrs"
++			{
++				"damage bonus"	"1.25"
++				"clip size penalty"	"0.5"
++				"Reload time increased"	"1.3"
++			}
++		}
++		"38053"
++		{
++			"mod_copy_from"		"225"
++			"name"				"The Shadow Shank"
++			"item_name"			"#Mod_Item_38053"
++			"item_description"	"#Mod_Item_38053_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"spy"	"1"
++			}
++			"item_slot"			"melee"
++			"static_attrs"
++			{
++				"silent killer"	"1"
++				"add cloak on hit"	"15"
++				"cloak regen rate decreased"	"0.7"
++			}
++		}
++		"38054"
++		{
++			"mod_copy_from"		"356"
++			"name"				"The Quick Blade"
++			"item_name"			"#Mod_Item_38054"
++			"item_description"	"#Mod_Item_38054_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"spy"	"1"
++			}
++			"item_slot"			"melee"
++			"static_attrs"
++			{
++				"single wep deploy time decreased"	"0.5"
++				"speed_boost_on_kill"	"3"
++				"mult_dmgtaken_active"	"1.2"
++			}
++		}
++		"38055"
++		{
++			"mod_copy_from"		"212"
++			"name"				"The Shroud Watch"
++			"item_name"			"#Mod_Item_38055"
++			"item_description"	"#Mod_Item_38055_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"spy"	"1"
++			}
++			"item_slot"			"pda2"
++			"static_attrs"
++			{
++				"cloak consume rate decreased"	"0.7"
++				"cloak regen rate decreased"	"0.7"
++			}
++		}
++		"38056"
++		{
++			"mod_copy_from"		"736"
++			"name"				"The Overload Sapper"
++			"item_name"			"#Mod_Item_38056"
++			"item_description"	"#Mod_Item_38056_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"spy"	"1"
++			}
++			"item_slot"			"building"
++			"static_attrs"
++			{
++				"sapper damage bonus"	"1.3"
++				"sapper health penalty"	"0.6"
++			}
++		}
++
++		// ===================== EXTRA =====================
++		// Scout / Engineer secondary: two stock pistols, one in each hand.
++		// Shots alternate right, left, right, ... Each gun fires at the stock
++		// pistol's rate, so together they shoot twice as fast. Both reload at once.
++		"38057"
++		{
++			"mod_copy_from"		"23"	// TF_WEAPON_PISTOL_SCOUT (stock Pistol)
++			"name"				"Dual-Wielding"
++			"item_name"			"#Mod_DualWielding"
++			"item_description"	"#Mod_DualWielding_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"scout"		"1"
++				"engineer"	"1"
++			}
++			"item_slot"			"secondary"
++			"static_attrs"
++			{
++				"mod dual wield"				"1"		// second, mirrored pistol in the left hand
++				"clip size bonus"				"2"		// 12 per gun -> 24
++				"fire rate bonus"				"0.5"	// two guns taking turns = twice the shots
++				"maxammo secondary increased"	"2"		// ammo for both guns
 +			}
 +		}
 +	}
 +}
 diff --git a/src/game/server/tf/tf_player.cpp b/src/game/server/tf/tf_player.cpp
-index c030951..038b01b 100644
+index c030951..c179b2a 100644
 --- a/src/game/server/tf/tf_player.cpp
 +++ b/src/game/server/tf/tf_player.cpp
 @@ -1124,6 +1124,16 @@ CTFPlayer::CTFPlayer()
@@ -168,19 +1353,41 @@ index c030951..038b01b 100644
  
  	m_bAlreadyUsedExtendFreezeThisDeath = false;
 +
-+	// MOD: no custom items equipped yet (saved ones are restored on first use).
++	// MOD: no console-equipped items yet (saved ones are restored on first use).
 +	for ( int iClass = 0; iClass < TF_CLASS_COUNT_ALL; ++iClass )
 +	{
 +		for ( int iSlot = 0; iSlot < CLASS_LOADOUT_POSITION_COUNT; ++iSlot )
 +		{
-+			m_ModEquippedDefs[iClass][iSlot] = INVALID_ITEM_DEF_INDEX;
++			m_ModEquips[iClass][iSlot].Clear();
 +		}
 +	}
 +	m_bModEquipsRestored = false;
  }
  
  //-----------------------------------------------------------------------------
-@@ -4895,6 +4905,14 @@ CEconItemView *CTFPlayer::GetLoadoutItem( int iClass, int iSlot, bool bReportWhi
+@@ -3353,6 +3363,10 @@ void CTFPlayer::ApplyAbsVelocityImpulse( const Vector &vecImpulse )
+ 		flImpulseScale *= 2.f;
+ 	}
+ 
++	// MOD: "mod knockback taken while active" - the held weapon scales every push this player takes
++	// (damage knockback, airblast, melee knockback all end up here).
++	CALL_ATTRIB_HOOK_FLOAT_ON_OTHER( GetActiveTFWeapon(), flImpulseScale, mod_knockback_taken_active );
++
+ 	// take extra force if you have a parachute deployed in x-y directions
+ 	if ( m_Shared.InCond( TF_COND_PARACHUTE_ACTIVE ) )
+ 	{
+@@ -4432,8 +4446,9 @@ bool CTFPlayer::ItemIsAllowed( CEconItemView *pItem )
+ 	}
+ 
+ 	// Holiday Restriction
++	// MOD: items handed out with mod_equip (fake IDs at 1<<62 and up) ignore holiday restrictions.
+ 	CEconItemDefinition* pData = pItem->GetStaticData();
+-	if ( TFGameRules() && pData && pData->GetHolidayRestriction() )
++	if ( TFGameRules() && pData && pData->GetHolidayRestriction() && pItem->GetItemID() < ( 1ull << 62 ) )
+ 	{
+ 		int iHolidayRestriction = UTIL_GetHolidayForString( pData->GetHolidayRestriction() );
+ 		if ( iHolidayRestriction != kHoliday_None && !TFGameRules()->IsHolidayActive( iHolidayRestriction ) )
+@@ -4895,6 +4910,14 @@ CEconItemView *CTFPlayer::GetLoadoutItem( int iClass, int iSlot, bool bReportWhi
  			return pItem;
  	}
  
@@ -195,7 +1402,7 @@ index c030951..038b01b 100644
  	if ( TFGameRules()->IsInTraining() || TFGameRules()->IsInItemTestingMode() )
  	{
  		CTFInventoryManager *pInventoryManager = TFInventoryManager();
-@@ -7188,12 +7206,18 @@ static void DebugEconItemView( const char *pszDescStr, CEconItemView *pEconItemV
+@@ -7188,12 +7211,18 @@ static void DebugEconItemView( const char *pszDescStr, CEconItemView *pEconItemV
  }
  #endif
  
@@ -214,28 +1421,42 @@ index c030951..038b01b 100644
  	if ( FStrEq( pcmd, "addcond" ) )
  	{
  		if ( sv_cheats->GetBool() && args.ArgC() >= 2 )
-@@ -23148,3 +23172,316 @@ void CTFPlayer::ScriptStunPlayer( float flTime, float flReductionAmount, int iSt
+@@ -23148,3 +23177,799 @@ void CTFPlayer::ScriptStunPlayer( float flTime, float flReductionAmount, int iSt
  {
  	m_Shared.StunPlayer( flTime, flReductionAmount, iStunFlags, ScriptToEntClass< CTFPlayer >( hAttacker ) );
  }
 +
 +//=============================================================================
 +//
-+// MOD: Custom items (scripts/items/items_mod.txt)
++// MOD: Console-equipped items
 +//
-+// Items in the mod index range aren't in anyone's Steam inventory, so players
-+// equip them from the console:
-+//    mod_items                 list custom items
-+//    mod_equip <name|index>    equip one (e.g. mod_equip "Bear Arms")
-+//    mod_unequip <name|index|all>
++// Nothing here touches the Steam inventory: these are local copies that only
++// exist in this mod, for as long as the server runs.
++//
++//    mod_items                     list this mod's custom items
++//    mod_find <words>              search every TF2 item by name
++//    mod_equip <item> [options]    item = index (1071) or name ("Gold Frying Pan")
++//        options: australium  festive  strange  unusual <effect id>
++//                 killstreak <1-3>  sheen <1-7>  killstreaker <2002-2008>
++//                 quality <name or number>  style <number>
++//    mod_unequip <item | all>
 +//
 +//=============================================================================
-+#define MOD_ITEM_INDEX_MIN	38000
-+#define MOD_ITEM_INDEX_MAX	39999
++ConVar tf_mod_allow_all_items( "tf_mod_allow_all_items", "1", FCVAR_NOTIFY, "1 = players can mod_equip any item in TF2's item list. 0 = only this mod's custom items." );
++
++#define MOD_ITEM_INDEX_MIN		38000
++#define MOD_ITEM_INDEX_MAX		39999
++#define MOD_FAKE_ITEMID_BASE	( 1ull << 62 )
++#define MOD_FIND_MAX_RESULTS	60
 +
 +static bool Mod_IsModItemIndex( int iDefIndex )
 +{
 +	return iDefIndex >= MOD_ITEM_INDEX_MIN && iDefIndex <= MOD_ITEM_INDEX_MAX;
++}
++
++static bool Mod_CanEquipDef( int iDefIndex )
++{
++	return Mod_IsModItemIndex( iDefIndex ) || tf_mod_allow_all_items.GetBool();
 +}
 +
 +static const char *Mod_SlotName( int iSlot )
@@ -245,38 +1466,159 @@ index c030951..038b01b 100644
 +	case LOADOUT_POSITION_PRIMARY:		return "primary";
 +	case LOADOUT_POSITION_SECONDARY:	return "secondary";
 +	case LOADOUT_POSITION_MELEE:		return "melee";
-+	default:							return "other";
++	case LOADOUT_POSITION_BUILDING:		return "building";
++	case LOADOUT_POSITION_PDA:			return "pda";
++	case LOADOUT_POSITION_PDA2:			return "pda2";
++	case LOADOUT_POSITION_HEAD:
++	case LOADOUT_POSITION_MISC:
++	case LOADOUT_POSITION_MISC2:		return "cosmetic";
++	case LOADOUT_POSITION_ACTION:		return "action";
++	default:							return IsTauntSlot( iSlot ) ? "taunt" : "other";
 +	}
 +}
 +
-+// Accepts a definition index or a definition "name" (case-insensitive).
++static bool Mod_IsNumber( const char *psz )
++{
++	if ( !psz || !*psz )
++		return false;
++	for ( ; *psz; ++psz )
++	{
++		if ( *psz < '0' || *psz > '9' )
++			return false;
++	}
++	return true;
++}
++
++// Lower-cases a name and drops "The ", "Upgradeable ", "TF_WEAPON_" and anything that isn't a
++// letter or digit, so "Rocket Launcher", "rocketlauncher" and "TF_WEAPON_ROCKETLAUNCHER" all match.
++static void Mod_NormalizeName( const char *pszIn, char *pszOut, int nOutSize )
++{
++	const char *p = pszIn ? pszIn : "";
++	for ( bool bStripped = true; bStripped; )
++	{
++		bStripped = false;
++		static const char *s_Prefixes[] = { "the ", "upgradeable ", "tf_weapon_", "taunt: " };
++		for ( int i = 0; i < ARRAYSIZE( s_Prefixes ); ++i )
++		{
++			const int nLen = V_strlen( s_Prefixes[i] );
++			if ( !V_strnicmp( p, s_Prefixes[i], nLen ) )
++			{
++				p += nLen;
++				bStripped = true;
++			}
++		}
++	}
++
++	int n = 0;
++	for ( ; *p && n < nOutSize - 1; ++p )
++	{
++		const char c = *p;
++		if ( ( c >= '0' && c <= '9' ) || ( c >= 'a' && c <= 'z' ) )
++			pszOut[n++] = c;
++		else if ( c >= 'A' && c <= 'Z' )
++			pszOut[n++] = c - 'A' + 'a';
++	}
++	pszOut[n] = 0;
++}
++
++// Accepts a definition index or an item name ("Gold Frying Pan", "The Sandman", "Rocket Launcher").
++// An exact name wins; otherwise a loose match, preferring the "Upgradeable" copy of stock weapons
++// because that's the one with Strange/Australium styles.
 +static item_definition_index_t Mod_FindItemDef( const char *pszNameOrIndex )
 +{
 +	if ( !pszNameOrIndex || !*pszNameOrIndex )
 +		return INVALID_ITEM_DEF_INDEX;
 +
-+	const int iIndex = V_atoi( pszNameOrIndex );
-+	if ( iIndex > 0 && Mod_IsModItemIndex( iIndex ) && GetItemSchema()->GetItemDefinition( iIndex ) )
-+		return (item_definition_index_t)iIndex;
++	if ( Mod_IsNumber( pszNameOrIndex ) )
++	{
++		const int iIndex = V_atoi( pszNameOrIndex );
++		return GetItemSchema()->GetItemDefinition( iIndex ) ? (item_definition_index_t)iIndex : INVALID_ITEM_DEF_INDEX;
++	}
 +
 +	const CEconItemSchema::ItemDefinitionMap_t &mapDefs = GetItemSchema()->GetItemDefinitionMap();
 +	FOR_EACH_MAP_FAST( mapDefs, i )
 +	{
-+		if ( !Mod_IsModItemIndex( mapDefs.Key( i ) ) )
-+			continue;
-+
 +		if ( !V_stricmp( mapDefs[i]->GetDefinitionName(), pszNameOrIndex ) )
 +			return mapDefs.Key( i );
 +	}
 +
-+	return INVALID_ITEM_DEF_INDEX;
++	char szWanted[256], szName[256];
++	Mod_NormalizeName( pszNameOrIndex, szWanted, sizeof( szWanted ) );
++	if ( !szWanted[0] )
++		return INVALID_ITEM_DEF_INDEX;
++
++	// Common nicknames.
++	static const struct { const char *pszAlias; const char *pszName; } s_Aliases[] =
++	{
++		{ "goldenfryingpan",	"Gold Frying Pan" },
++		{ "goldenpan",			"Gold Frying Pan" },
++		{ "goldpan",			"Gold Frying Pan" },
++		{ "australiumfryingpan","Gold Frying Pan" },
++	};
++	for ( int i = 0; i < ARRAYSIZE( s_Aliases ); ++i )
++	{
++		if ( !V_strcmp( szWanted, s_Aliases[i].pszAlias ) )
++			return Mod_FindItemDef( s_Aliases[i].pszName );
++	}
++
++	item_definition_index_t iMatch = INVALID_ITEM_DEF_INDEX;
++	FOR_EACH_MAP_FAST( mapDefs, i )
++	{
++		Mod_NormalizeName( mapDefs[i]->GetDefinitionName(), szName, sizeof( szName ) );
++		if ( V_strcmp( szName, szWanted ) )
++			continue;
++
++		if ( !V_strnicmp( mapDefs[i]->GetDefinitionName(), "Upgradeable ", 12 ) )
++			return mapDefs.Key( i );
++		if ( iMatch == INVALID_ITEM_DEF_INDEX )
++			iMatch = mapDefs.Key( i );
++	}
++
++	return iMatch;
++}
++
++static int Mod_QualityFromString( const char *psz )
++{
++	if ( Mod_IsNumber( psz ) )
++		return V_atoi( psz );
++
++	static const struct { const char *pszName; int iQuality; } s_Qualities[] =
++	{
++		{ "normal",		AE_UNIQUE },	// normal quality items are treated as unique here
++		{ "unique",		AE_UNIQUE },
++		{ "genuine",	AE_RARITY1 },
++		{ "vintage",	AE_VINTAGE },
++		{ "unusual",	AE_UNUSUAL },
++		{ "community",	AE_COMMUNITY },
++		{ "valve",		AE_DEVELOPER },
++		{ "selfmade",	AE_SELFMADE },
++		{ "strange",	AE_STRANGE },
++		{ "haunted",	AE_HAUNTED },
++		{ "collectors",	AE_COLLECTORS },
++		{ "decorated",	AE_PAINTKITWEAPON },
++	};
++	for ( int i = 0; i < ARRAYSIZE( s_Qualities ); ++i )
++	{
++		if ( !V_stricmp( psz, s_Qualities[i].pszName ) )
++			return s_Qualities[i].iQuality;
++	}
++	return -1;
++}
++
++static void Mod_SetRuntimeAttr( CEconItemView &item, const char *pszAttrName, float flValue )
++{
++	const CEconItemAttributeDefinition *pAttrDef = GetItemSchema()->GetAttributeDefinitionByName( pszAttrName );
++	if ( pAttrDef )
++	{
++		item.GetAttributeList()->SetRuntimeAttributeValue( pAttrDef, flValue );
++	}
 +}
 +
 +// Equips are remembered per Steam account for as long as the server runs,
 +// so they survive map changes and reconnects.
 +struct ModEquipSave_t
 +{
-+	item_definition_index_t m_Defs[ TF_CLASS_COUNT_ALL ][ CLASS_LOADOUT_POSITION_COUNT ];
++	CTFPlayer::ModEquip_t m_Equips[ TF_CLASS_COUNT_ALL ][ CLASS_LOADOUT_POSITION_COUNT ];
 +};
 +static CUtlMap< uint32, ModEquipSave_t > s_ModEquipSaves( DefLessFunc( uint32 ) );
 +
@@ -287,7 +1629,7 @@ index c030951..038b01b 100644
 +		return;
 +
 +	ModEquipSave_t save;
-+	V_memcpy( save.m_Defs, m_ModEquippedDefs, sizeof( save.m_Defs ) );
++	V_memcpy( save.m_Equips, m_ModEquips, sizeof( save.m_Equips ) );
 +	s_ModEquipSaves.InsertOrReplace( steamID.GetAccountID(), save );
 +}
 +
@@ -308,29 +1650,74 @@ index c030951..038b01b 100644
 +	{
 +		for ( int iSlot = 0; iSlot < CLASS_LOADOUT_POSITION_COUNT; ++iSlot )
 +		{
-+			if ( save.m_Defs[iClass][iSlot] != INVALID_ITEM_DEF_INDEX )
++			if ( save.m_Equips[iClass][iSlot].m_iDef != INVALID_ITEM_DEF_INDEX )
 +			{
-+				Mod_SetItem( iClass, iSlot, save.m_Defs[iClass][iSlot] );
++				Mod_SetItem( iClass, iSlot, save.m_Equips[iClass][iSlot] );
 +			}
 +		}
 +	}
 +}
 +
-+bool CTFPlayer::Mod_SetItem( int iClass, int iSlot, item_definition_index_t iDefIndex )
++static CUtlString Mod_ClassList( GameItemDefinition_t *pDef );
++
++// Fake, never-reused item IDs well outside the range of real Steam item IDs.
++static itemid_t s_ulNextModItemID = MOD_FAKE_ITEMID_BASE;
++
++static void Mod_PrecacheItemModels( const GameItemDefinition_t *pDef )
 +{
-+	// Fake, never-reused item IDs well outside the range of real Steam item IDs.
-+	static itemid_t s_ulNextModItemID = ( 1ull << 62 );
++	CUtlVector< const char * > vecModels;
++	pDef->GeneratePrecacheModelStrings( false, &vecModels );
++	FOR_EACH_VEC( vecModels, i )
++	{
++		if ( vecModels[i] && *vecModels[i] )
++			CBaseEntity::PrecacheModel( vecModels[i] );
++	}
++}
++
++bool CTFPlayer::Mod_SetItem( int iClass, int iSlot, const ModEquip_t &equip )
++{
++
++	// Pick the quality: explicit, else Unusual/Strange if asked for, else Unique.
++	// (Normal quality would make the game match items by type instead of by ID.)
++	int iQuality = equip.m_nQuality;
++	if ( iQuality < 0 || iQuality == AE_NORMAL )
++	{
++		iQuality = equip.m_nUnusual ? AE_UNUSUAL : AE_UNIQUE;
++	}
 +
 +	CEconItemView &item = m_ModEquippedItems[iClass][iSlot];
-+	item.Init( iDefIndex, AE_UNIQUE, AE_USE_SCRIPT_VALUE, false );
++	item.Init( equip.m_iDef, iQuality, AE_USE_SCRIPT_VALUE, false );
 +	if ( !item.GetStaticData() )
 +	{
-+		m_ModEquippedDefs[iClass][iSlot] = INVALID_ITEM_DEF_INDEX;
++		m_ModEquips[iClass][iSlot].Clear();
 +		return false;
 +	}
 +	item.SetItemID( s_ulNextModItemID++ );
 +
-+	m_ModEquippedDefs[iClass][iSlot] = iDefIndex;
++	if ( equip.m_bAustralium )
++	{
++		Mod_SetRuntimeAttr( item, "is australium item", 1.f );
++		Mod_SetRuntimeAttr( item, "item style override", 1.f );
++	}
++	if ( equip.m_nStyle >= 0 )
++		Mod_SetRuntimeAttr( item, "item style override", (float)equip.m_nStyle );
++	if ( equip.m_bFestive )
++		Mod_SetRuntimeAttr( item, "is_festivized", 1.f );
++	if ( equip.m_nUnusual > 0 )
++	{
++		// Taunts use their own unusual attribute.
++		Mod_SetRuntimeAttr( item, IsTauntSlot( iSlot ) ? "taunt attach particle index" : "attach particle effect", (float)equip.m_nUnusual );
++	}
++	if ( equip.m_nKillstreakTier > 0 )
++		Mod_SetRuntimeAttr( item, "killstreak tier", (float)equip.m_nKillstreakTier );
++	if ( equip.m_nSheen > 0 )
++		Mod_SetRuntimeAttr( item, "killstreak idleeffect", (float)equip.m_nSheen );
++	if ( equip.m_nKillstreaker > 0 )
++		Mod_SetRuntimeAttr( item, "killstreak effect", (float)equip.m_nKillstreaker );
++	if ( iQuality == AE_STRANGE )
++		Mod_SetRuntimeAttr( item, "kill eater", 0.f );
++
++	m_ModEquips[iClass][iSlot] = equip;
 +	return true;
 +}
 +
@@ -344,7 +1731,7 @@ index c030951..038b01b 100644
 +	if ( iClass < 0 || iClass >= TF_CLASS_COUNT_ALL || iSlot < 0 || iSlot >= CLASS_LOADOUT_POSITION_COUNT )
 +		return NULL;
 +
-+	if ( m_ModEquippedDefs[iClass][iSlot] == INVALID_ITEM_DEF_INDEX )
++	if ( m_ModEquips[iClass][iSlot].m_iDef == INVALID_ITEM_DEF_INDEX )
 +		return NULL;
 +
 +	CEconItemView *pItem = &m_ModEquippedItems[iClass][iSlot];
@@ -353,7 +1740,7 @@ index c030951..038b01b 100644
 +
 +CEconItemView *CTFPlayer::Mod_GetItemByID( itemid_t ulItemID )
 +{
-+	if ( ulItemID == INVALID_ITEM_ID || ulItemID == 0 )
++	if ( ulItemID < MOD_FAKE_ITEMID_BASE || ulItemID == INVALID_ITEM_ID )
 +		return NULL;
 +
 +	for ( int iClass = 0; iClass < TF_CLASS_COUNT_ALL; ++iClass )
@@ -368,11 +1755,22 @@ index c030951..038b01b 100644
 +	return NULL;
 +}
 +
-+bool CTFPlayer::Mod_EquipItem( item_definition_index_t iDefIndex )
++bool CTFPlayer::Mod_EquipItem( const ModEquip_t &equip )
 +{
-+	GameItemDefinition_t *pDef = static_cast< GameItemDefinition_t * >( GetItemSchema()->GetItemDefinition( iDefIndex ) );
++	if ( !m_bModEquipsRestored )
++	{
++		Mod_RestoreSavedEquips();
++	}
++
++	GameItemDefinition_t *pDef = static_cast< GameItemDefinition_t * >( GetItemSchema()->GetItemDefinition( equip.m_iDef ) );
 +	if ( !pDef )
 +		return false;
++
++	if ( !Mod_CanEquipDef( equip.m_iDef ) )
++	{
++		ClientPrint( this, HUD_PRINTCONSOLE, "This server only allows the mod's custom items (tf_mod_allow_all_items is 0).\n" );
++		return false;
++	}
 +
 +	// Equip for the class we're playing if it can use the item, otherwise the first class that can.
 +	int iClass = GetPlayerClass() ? GetPlayerClass()->GetClassIndex() : TF_CLASS_UNDEFINED;
@@ -389,18 +1787,68 @@ index c030951..038b01b 100644
 +		}
 +	}
 +	if ( iClass == TF_CLASS_UNDEFINED )
++	{
++		ClientPrint( this, HUD_PRINTCONSOLE, CFmtStr( "\"%s\" isn't something a class can hold or wear (tools, crates, etc.).\n", pDef->GetDefinitionName() ) );
 +		return false;
++	}
 +
-+	const int iSlot = pDef->GetLoadoutSlot( iClass );
++	int iSlot = pDef->GetLoadoutSlot( iClass );
 +	if ( iSlot < 0 || iSlot >= CLASS_LOADOUT_POSITION_COUNT )
 +		return false;
 +
-+	if ( !m_bModEquipsRestored )
++	// Taunts fill the eight taunt slots the same way cosmetics fill theirs.
++	const bool bTaunt = IsTauntSlot( iSlot ) || pDef->GetTauntData() != NULL;
++	if ( bTaunt )
 +	{
-+		Mod_RestoreSavedEquips();
++		int iChosen = -1;
++		for ( int i = LOADOUT_POSITION_TAUNT; i <= LOADOUT_POSITION_TAUNT8 && iChosen < 0; ++i )
++		{
++			if ( m_ModEquips[iClass][i].m_iDef == equip.m_iDef )
++				iChosen = i;
++		}
++		for ( int i = LOADOUT_POSITION_TAUNT; i <= LOADOUT_POSITION_TAUNT8 && iChosen < 0; ++i )
++		{
++			if ( m_ModEquips[iClass][i].m_iDef == INVALID_ITEM_DEF_INDEX )
++				iChosen = i;
++		}
++		iSlot = ( iChosen >= 0 ) ? iChosen : LOADOUT_POSITION_TAUNT8;
++
++		if ( !Mod_SetItem( iClass, iSlot, equip ) )
++			return false;
++		Mod_SaveEquips();
++
++		// Taunts need no entity, so make it usable right away for the current class.
++		if ( GetPlayerClass() && GetPlayerClass()->GetClassIndex() == iClass )
++		{
++			m_EquippedLoadoutItemIndices[iSlot] = m_ModEquippedItems[iClass][iSlot].GetItemID();
++		}
++		Mod_PrecacheItemModels( pDef );
++
++		const int iTauntNumber = iSlot - LOADOUT_POSITION_TAUNT + 1;
++		ClientPrint( this, HUD_PRINTCONSOLE, CFmtStr( "Equipped %s for %s as taunt %d. Play it with: taunt %d\n", pDef->GetDefinitionName(), g_aPlayerClassNames_NonLocalized[iClass], iTauntNumber, iTauntNumber ) );
++		return true;
 +	}
 +
-+	if ( !Mod_SetItem( iClass, iSlot, iDefIndex ) )
++	// Cosmetics share three slots: reuse the slot already holding this item, else the first
++	// free one, else replace the last.
++	if ( IsWearableSlot( iSlot ) )
++	{
++		static const int s_CosmeticSlots[] = { LOADOUT_POSITION_HEAD, LOADOUT_POSITION_MISC, LOADOUT_POSITION_MISC2 };
++		int iChosen = -1;
++		for ( int i = 0; i < ARRAYSIZE( s_CosmeticSlots ) && iChosen < 0; ++i )
++		{
++			if ( m_ModEquips[iClass][ s_CosmeticSlots[i] ].m_iDef == equip.m_iDef )
++				iChosen = s_CosmeticSlots[i];
++		}
++		for ( int i = 0; i < ARRAYSIZE( s_CosmeticSlots ) && iChosen < 0; ++i )
++		{
++			if ( m_ModEquips[iClass][ s_CosmeticSlots[i] ].m_iDef == INVALID_ITEM_DEF_INDEX )
++				iChosen = s_CosmeticSlots[i];
++		}
++		iSlot = ( iChosen >= 0 ) ? iChosen : LOADOUT_POSITION_MISC2;
++	}
++
++	if ( !Mod_SetItem( iClass, iSlot, equip ) )
 +		return false;
 +
 +	Mod_SaveEquips();
@@ -415,10 +1863,49 @@ index c030951..038b01b 100644
 +	if ( !Mod_GetItem( iClass, iSlot ) )
 +		return false;
 +
-+	m_ModEquippedDefs[iClass][iSlot] = INVALID_ITEM_DEF_INDEX;
++	m_ModEquips[iClass][iSlot].Clear();
 +	Mod_SaveEquips();
 +	Mod_ApplyLoadoutChange( iClass );
 +	return true;
++}
++
++// Plays any taunt straight away, without equipping it.
++bool CTFPlayer::Mod_PlayTaunt( const ModEquip_t &equip )
++{
++	GameItemDefinition_t *pDef = static_cast< GameItemDefinition_t * >( GetItemSchema()->GetItemDefinition( equip.m_iDef ) );
++	if ( !pDef || !pDef->GetTauntData() )
++	{
++		ClientPrint( this, HUD_PRINTCONSOLE, "That item isn't a taunt.\n" );
++		return false;
++	}
++
++	if ( !Mod_CanEquipDef( equip.m_iDef ) )
++	{
++		ClientPrint( this, HUD_PRINTCONSOLE, "This server only allows the mod's custom items (tf_mod_allow_all_items is 0).\n" );
++		return false;
++	}
++
++	const int iClass = GetPlayerClass() ? GetPlayerClass()->GetClassIndex() : TF_CLASS_UNDEFINED;
++	if ( !pDef->CanBeUsedByClass( iClass ) )
++	{
++		ClientPrint( this, HUD_PRINTCONSOLE, CFmtStr( "%s can't do %s. Classes that can: %s\n", g_aPlayerClassNames_NonLocalized[ Max( iClass, 0 ) ], pDef->GetDefinitionName(), Mod_ClassList( pDef ).Get() ) );
++		return false;
++	}
++
++	if ( m_flTauntNextStartTime >= gpGlobals->curtime || !IsAllowedToTaunt() )
++		return false;
++
++	m_ModTauntItem.Init( equip.m_iDef, equip.m_nUnusual ? AE_UNUSUAL : AE_UNIQUE, AE_USE_SCRIPT_VALUE, false );
++	if ( !m_ModTauntItem.GetStaticData() )
++		return false;
++	m_ModTauntItem.SetItemID( s_ulNextModItemID++ );
++	if ( equip.m_nUnusual > 0 )
++		Mod_SetRuntimeAttr( m_ModTauntItem, "taunt attach particle index", (float)equip.m_nUnusual );
++
++	Mod_PrecacheItemModels( pDef );
++
++	m_nActiveTauntSlot = LOADOUT_POSITION_INVALID;
++	return PlayTauntSceneFromItem( &m_ModTauntItem );
 +}
 +
 +void CTFPlayer::Mod_ApplyLoadoutChange( int iClass )
@@ -438,6 +1925,134 @@ index c030951..038b01b 100644
 +	}
 +}
 +
++static CUtlString Mod_ClassList( GameItemDefinition_t *pDef )
++{
++	CUtlString str;
++	int nClasses = 0;
++	for ( int iClass = TF_FIRST_NORMAL_CLASS; iClass < TF_LAST_NORMAL_CLASS; ++iClass )
++	{
++		if ( pDef->CanBeUsedByClass( iClass ) )
++			++nClasses;
++	}
++	if ( nClasses == TF_LAST_NORMAL_CLASS - TF_FIRST_NORMAL_CLASS )
++		return CUtlString( "all classes" );
++
++	for ( int iClass = TF_FIRST_NORMAL_CLASS; iClass < TF_LAST_NORMAL_CLASS; ++iClass )
++	{
++		if ( !pDef->CanBeUsedByClass( iClass ) )
++			continue;
++		if ( !str.IsEmpty() )
++			str += ", ";
++		str += g_aPlayerClassNames_NonLocalized[iClass];
++	}
++	return str;
++}
++
++static void Mod_PrintItemLine( CTFPlayer *pPlayer, int iDefIndex, GameItemDefinition_t *pDef )
++{
++	int iFirstClass = TF_CLASS_UNDEFINED;
++	for ( int iClass = TF_FIRST_NORMAL_CLASS; iClass < TF_LAST_NORMAL_CLASS && iFirstClass == TF_CLASS_UNDEFINED; ++iClass )
++	{
++		if ( pDef->CanBeUsedByClass( iClass ) )
++			iFirstClass = iClass;
++	}
++	const char *pszSlot = ( iFirstClass != TF_CLASS_UNDEFINED ) ? Mod_SlotName( pDef->GetLoadoutSlot( iFirstClass ) ) : "-";
++	ClientPrint( pPlayer, HUD_PRINTCONSOLE, CFmtStr( "  %5d  %-40s  %s, %s\n", iDefIndex, pDef->GetDefinitionName(), Mod_ClassList( pDef ).Get(), pszSlot ) );
++}
++
++static void Mod_PrintEquipHelp( CTFPlayer *pPlayer )
++{
++	ClientPrint( pPlayer, HUD_PRINTCONSOLE,
++		"Usage: mod_equip <item> [options]\n"
++		"  <item>  item index (e.g. 1071) or name (e.g. Gold Frying Pan). Find items with mod_find <words>.\n"
++		"  options: australium  festive  strange  unusual <effect id>  killstreak <1-3>\n"
++		"           sheen <1-7>  killstreaker <2002-2008>  quality <name>  style <number>\n"
++		"  Example: mod_equip Rocket Launcher australium killstreak 3 sheen 2 killstreaker 2004\n"
++		"  Taunts: mod_equip <taunt> puts it in a taunt slot (play with: taunt <slot>),\n"
++		"          mod_taunt <taunt> plays one right now.\n" );
++}
++
++// Parses option words after the item name. Returns false (after printing why) on a bad option.
++static bool Mod_ParseEquipOptions( CTFPlayer *pPlayer, const CCommand &args, int iFirstArg, CTFPlayer::ModEquip_t &equip )
++{
++	for ( int i = iFirstArg; i < args.ArgC(); ++i )
++	{
++		const char *pszOpt = args[i];
++		const char *pszValue = ( i + 1 < args.ArgC() ) ? args[i + 1] : NULL;
++
++		if ( !V_stricmp( pszOpt, "australium" ) )		{ equip.m_bAustralium = true; continue; }
++		if ( !V_stricmp( pszOpt, "festive" ) )			{ equip.m_bFestive = true; continue; }
++		if ( !V_stricmp( pszOpt, "strange" ) )			{ equip.m_nQuality = AE_STRANGE; continue; }
++
++		int *pnTarget = NULL;
++		if ( !V_stricmp( pszOpt, "unusual" ) )			pnTarget = &equip.m_nUnusual;
++		else if ( !V_stricmp( pszOpt, "killstreak" ) )	pnTarget = &equip.m_nKillstreakTier;
++		else if ( !V_stricmp( pszOpt, "sheen" ) )		pnTarget = &equip.m_nSheen;
++		else if ( !V_stricmp( pszOpt, "killstreaker" ) )pnTarget = &equip.m_nKillstreaker;
++		else if ( !V_stricmp( pszOpt, "style" ) )		pnTarget = &equip.m_nStyle;
++
++		if ( pnTarget )
++		{
++			if ( !Mod_IsNumber( pszValue ) )
++			{
++				ClientPrint( pPlayer, HUD_PRINTCONSOLE, CFmtStr( "\"%s\" needs a number after it.\n", pszOpt ) );
++				return false;
++			}
++			*pnTarget = V_atoi( pszValue );
++			++i;
++			continue;
++		}
++
++		if ( !V_stricmp( pszOpt, "quality" ) )
++		{
++			const int iQuality = pszValue ? Mod_QualityFromString( pszValue ) : -1;
++			if ( iQuality < 0 )
++			{
++				ClientPrint( pPlayer, HUD_PRINTCONSOLE, "quality must be one of: unique genuine vintage unusual community valve selfmade strange haunted collectors decorated\n" );
++				return false;
++			}
++			equip.m_nQuality = iQuality;
++			++i;
++			continue;
++		}
++
++		ClientPrint( pPlayer, HUD_PRINTCONSOLE, CFmtStr( "Unknown option \"%s\".\n", pszOpt ) );
++		Mod_PrintEquipHelp( pPlayer );
++		return false;
++	}
++
++	equip.m_nKillstreakTier = clamp( equip.m_nKillstreakTier, 0, 3 );
++	if ( ( equip.m_nSheen || equip.m_nKillstreaker ) && equip.m_nKillstreakTier < 2 )
++	{
++		equip.m_nKillstreakTier = equip.m_nKillstreaker ? 3 : 2;	// sheens need Specialized, killstreakers need Professional
++	}
++	return true;
++}
++
++// Finds the item named by args[1..n] (longest match wins, so names don't need quotes).
++// Returns the index of the first option word, or -1 if no item matched.
++static int Mod_ParseItemFromArgs( const CCommand &args, item_definition_index_t &iDefOut )
++{
++	for ( int nLast = args.ArgC() - 1; nLast >= 1; --nLast )
++	{
++		CUtlString strName;
++		for ( int i = 1; i <= nLast; ++i )
++		{
++			if ( i > 1 )
++				strName += " ";
++			strName += args[i];
++		}
++
++		const item_definition_index_t iDef = Mod_FindItemDef( strName.Get() );
++		if ( iDef != INVALID_ITEM_DEF_INDEX )
++		{
++			iDefOut = iDef;
++			return nLast + 1;
++		}
++	}
++	return -1;
++}
++
 +// Returns true if the command was one of ours.
 +static bool Mod_HandleClientCommand( CTFPlayer *pPlayer, const CCommand &args )
 +{
@@ -445,94 +2060,169 @@ index c030951..038b01b 100644
 +
 +	if ( FStrEq( pcmd, "mod_items" ) )
 +	{
-+		ClientPrint( pPlayer, HUD_PRINTCONSOLE, "Custom items (use: mod_equip <name or index>):\n" );
++		ClientPrint( pPlayer, HUD_PRINTCONSOLE, "This mod's custom items (mod_equip <name or index>):\n" );
 +		const CEconItemSchema::ItemDefinitionMap_t &mapDefs = GetItemSchema()->GetItemDefinitionMap();
 +		FOR_EACH_MAP_FAST( mapDefs, i )
 +		{
-+			const int iDefIndex = mapDefs.Key( i );
-+			if ( !Mod_IsModItemIndex( iDefIndex ) )
-+				continue;
-+
-+			GameItemDefinition_t *pDef = static_cast< GameItemDefinition_t * >( mapDefs[i] );
-+			CUtlString strClasses;
-+			for ( int iClass = TF_FIRST_NORMAL_CLASS; iClass < TF_LAST_NORMAL_CLASS; ++iClass )
++			if ( Mod_IsModItemIndex( mapDefs.Key( i ) ) )
 +			{
-+				if ( !pDef->CanBeUsedByClass( iClass ) )
-+					continue;
-+
-+				if ( !strClasses.IsEmpty() )
-+					strClasses += ", ";
-+				strClasses += CFmtStr( "%s %s", g_aPlayerClassNames_NonLocalized[iClass], Mod_SlotName( pDef->GetLoadoutSlot( iClass ) ) ).Get();
++				Mod_PrintItemLine( pPlayer, mapDefs.Key( i ), static_cast< GameItemDefinition_t * >( mapDefs[i] ) );
 +			}
-+
-+			const int iMyClass = pPlayer->GetPlayerClass() ? pPlayer->GetPlayerClass()->GetClassIndex() : TF_CLASS_UNDEFINED;
-+			CEconItemView *pMine = pPlayer->Mod_GetItem( iMyClass, pDef->GetLoadoutSlot( iMyClass ) );
-+			const bool bEquipped = pMine && pMine->GetItemDefIndex() == iDefIndex;
-+
-+			ClientPrint( pPlayer, HUD_PRINTCONSOLE, CFmtStr( "  %d  \"%s\"  [%s]%s\n", iDefIndex, pDef->GetDefinitionName(), strClasses.Get(), bEquipped ? "  (equipped)" : "" ) );
++		}
++		if ( tf_mod_allow_all_items.GetBool() )
++		{
++			ClientPrint( pPlayer, HUD_PRINTCONSOLE, "Every TF2 item can be equipped too - search with mod_find <words>.\n" );
 +		}
 +		return true;
 +	}
 +
-+	if ( FStrEq( pcmd, "mod_equip" ) || FStrEq( pcmd, "mod_unequip" ) )
++	if ( FStrEq( pcmd, "mod_find" ) )
 +	{
-+		const bool bEquip = FStrEq( pcmd, "mod_equip" );
 +		if ( args.ArgC() < 2 )
 +		{
-+			ClientPrint( pPlayer, HUD_PRINTCONSOLE, bEquip ? "Usage: mod_equip <name or index>   (see mod_items)\n" : "Usage: mod_unequip <name, index or all>\n" );
++			ClientPrint( pPlayer, HUD_PRINTCONSOLE, "Usage: mod_find <words>   e.g. mod_find frying pan\n" );
 +			return true;
 +		}
 +
-+		// Allow names with spaces whether or not they were quoted.
-+		const char *pszArg = ( args.ArgC() == 2 ) ? args[1] : args.ArgS();
++		CUtlString strWanted;
++		for ( int i = 1; i < args.ArgC(); ++i )
++		{
++			if ( i > 1 )
++				strWanted += " ";
++			strWanted += args[i];
++		}
++		const char *pszWanted = strWanted.Get();
 +
-+		if ( !bEquip && !V_stricmp( pszArg, "all" ) )
++		char szWanted[256], szName[256];
++		Mod_NormalizeName( pszWanted, szWanted, sizeof( szWanted ) );
++
++		int nFound = 0, nShown = 0;
++		const CEconItemSchema::ItemDefinitionMap_t &mapDefs = GetItemSchema()->GetItemDefinitionMap();
++		FOR_EACH_MAP_FAST( mapDefs, i )
++		{
++			GameItemDefinition_t *pDef = static_cast< GameItemDefinition_t * >( mapDefs[i] );
++			Mod_NormalizeName( pDef->GetDefinitionName(), szName, sizeof( szName ) );
++			if ( !szWanted[0] || !V_strstr( szName, szWanted ) )
++				continue;
++
++			// Skip tools, crates and other things no class can use.
++			bool bUsable = false;
++			for ( int iClass = TF_FIRST_NORMAL_CLASS; iClass < TF_LAST_NORMAL_CLASS && !bUsable; ++iClass )
++				bUsable = pDef->CanBeUsedByClass( iClass );
++			if ( !bUsable || !Mod_CanEquipDef( mapDefs.Key( i ) ) )
++				continue;
++
++			++nFound;
++			if ( nShown < MOD_FIND_MAX_RESULTS )
++			{
++				Mod_PrintItemLine( pPlayer, mapDefs.Key( i ), pDef );
++				++nShown;
++			}
++		}
++
++		if ( nFound > nShown )
++			ClientPrint( pPlayer, HUD_PRINTCONSOLE, CFmtStr( "...and %d more. Add more words to narrow it down.\n", nFound - nShown ) );
++		else if ( !nFound )
++			ClientPrint( pPlayer, HUD_PRINTCONSOLE, CFmtStr( "No items matching \"%s\".\n", pszWanted ) );
++		return true;
++	}
++
++	if ( FStrEq( pcmd, "mod_equip" ) )
++	{
++		if ( args.ArgC() < 2 )
++		{
++			Mod_PrintEquipHelp( pPlayer );
++			return true;
++		}
++
++		CTFPlayer::ModEquip_t equip;
++		equip.Clear();
++
++		const int iFirstOption = Mod_ParseItemFromArgs( args, equip.m_iDef );
++		if ( iFirstOption < 0 )
++		{
++			ClientPrint( pPlayer, HUD_PRINTCONSOLE, CFmtStr( "No item called \"%s\". Try mod_find <words>.\n", args.ArgS() ) );
++			return true;
++		}
++
++		if ( !Mod_ParseEquipOptions( pPlayer, args, iFirstOption, equip ) )
++			return true;
++
++		if ( !pPlayer->Mod_EquipItem( equip ) )
++		{
++			ClientPrint( pPlayer, HUD_PRINTCONSOLE, CFmtStr( "Couldn't equip \"%s\".\n", args.ArgS() ) );
++		}
++		return true;
++	}
++
++	if ( FStrEq( pcmd, "mod_taunt" ) )
++	{
++		if ( args.ArgC() < 2 )
++		{
++			ClientPrint( pPlayer, HUD_PRINTCONSOLE, "Usage: mod_taunt <taunt name or index> [unusual <effect id>]   e.g. mod_taunt Kazotsky Kick\n" );
++			return true;
++		}
++
++		CTFPlayer::ModEquip_t equip;
++		equip.Clear();
++		const int iFirstOption = Mod_ParseItemFromArgs( args, equip.m_iDef );
++		if ( iFirstOption < 0 )
++		{
++			ClientPrint( pPlayer, HUD_PRINTCONSOLE, CFmtStr( "No taunt called \"%s\". Try mod_find taunt.\n", args.ArgS() ) );
++			return true;
++		}
++		if ( Mod_ParseEquipOptions( pPlayer, args, iFirstOption, equip ) )
++		{
++			pPlayer->Mod_PlayTaunt( equip );
++		}
++		return true;
++	}
++
++	if ( FStrEq( pcmd, "mod_unequip" ) )
++	{
++		if ( args.ArgC() < 2 )
++		{
++			ClientPrint( pPlayer, HUD_PRINTCONSOLE, "Usage: mod_unequip <name, index or all>\n" );
++			return true;
++		}
++
++		if ( !V_stricmp( args.ArgS(), "all" ) )
 +		{
 +			for ( int iClass = 0; iClass < TF_CLASS_COUNT_ALL; ++iClass )
 +				for ( int iSlot = 0; iSlot < CLASS_LOADOUT_POSITION_COUNT; ++iSlot )
 +					pPlayer->Mod_UnequipItem( iClass, iSlot );
 +
-+			ClientPrint( pPlayer, HUD_PRINTCONSOLE, "Unequipped all custom items.\n" );
++			ClientPrint( pPlayer, HUD_PRINTCONSOLE, "Unequipped everything added with mod_equip.\n" );
 +			return true;
 +		}
 +
-+		const item_definition_index_t iDefIndex = Mod_FindItemDef( pszArg );
-+		if ( iDefIndex == INVALID_ITEM_DEF_INDEX )
++		item_definition_index_t iDefIndex = INVALID_ITEM_DEF_INDEX;
++		if ( Mod_ParseItemFromArgs( args, iDefIndex ) < 0 )
 +		{
-+			ClientPrint( pPlayer, HUD_PRINTCONSOLE, CFmtStr( "No custom item called \"%s\". Type mod_items for the list.\n", pszArg ) );
++			ClientPrint( pPlayer, HUD_PRINTCONSOLE, CFmtStr( "No item called \"%s\".\n", args.ArgS() ) );
 +			return true;
 +		}
 +
-+		if ( bEquip )
++		bool bFound = false;
++		for ( int iClass = 0; iClass < TF_CLASS_COUNT_ALL; ++iClass )
 +		{
-+			if ( !pPlayer->Mod_EquipItem( iDefIndex ) )
++			for ( int iSlot = 0; iSlot < CLASS_LOADOUT_POSITION_COUNT; ++iSlot )
 +			{
-+				ClientPrint( pPlayer, HUD_PRINTCONSOLE, CFmtStr( "Couldn't equip \"%s\".\n", pszArg ) );
-+			}
-+		}
-+		else
-+		{
-+			bool bFound = false;
-+			for ( int iClass = 0; iClass < TF_CLASS_COUNT_ALL; ++iClass )
-+			{
-+				for ( int iSlot = 0; iSlot < CLASS_LOADOUT_POSITION_COUNT; ++iSlot )
++				CEconItemView *pItem = pPlayer->Mod_GetItem( iClass, iSlot );
++				if ( pItem && pItem->GetItemDefIndex() == iDefIndex )
 +				{
-+					CEconItemView *pItem = pPlayer->Mod_GetItem( iClass, iSlot );
-+					if ( pItem && pItem->GetItemDefIndex() == iDefIndex )
-+					{
-+						bFound |= pPlayer->Mod_UnequipItem( iClass, iSlot );
-+					}
++					bFound |= pPlayer->Mod_UnequipItem( iClass, iSlot );
 +				}
 +			}
-+			ClientPrint( pPlayer, HUD_PRINTCONSOLE, bFound ? CFmtStr( "Unequipped \"%s\".\n", pszArg ).Get() : CFmtStr( "\"%s\" isn't equipped.\n", pszArg ).Get() );
 +		}
++		ClientPrint( pPlayer, HUD_PRINTCONSOLE, bFound ? CFmtStr( "Unequipped \"%s\".\n", args.ArgS() ).Get() : CFmtStr( "\"%s\" isn't equipped.\n", args.ArgS() ).Get() );
 +		return true;
 +	}
 +
 +	return false;
 +}
 diff --git a/src/game/server/tf/tf_player.h b/src/game/server/tf/tf_player.h
-index d2affa2..d5a8b85 100644
+index d2affa2..0fb121b 100644
 --- a/src/game/server/tf/tf_player.h
 +++ b/src/game/server/tf/tf_player.h
 @@ -618,7 +618,12 @@ public:
@@ -549,27 +2239,46 @@ index d2affa2..d5a8b85 100644
  	CBaseEntity *GetEntityForLoadoutSlot( int iLoadoutSlot, bool bForceCheckWearable = false );			//Gets whatever entity is associated with the loadout slot (wearable or weapon)
  	CTFWearable *GetEquippedWearableForLoadoutSlot( int iLoadoutSlot );
  
-@@ -1015,6 +1020,24 @@ public:
+@@ -1015,6 +1020,43 @@ public:
  	CEconItemView	*ItemTesting_GetTestItem( int iClass, int iSlot );
  	void				ItemTesting_DeleteItems();
  
-+	// MOD: custom items from scripts/items/items_mod.txt, equipped with the
-+	// mod_equip / mod_unequip console commands (they aren't in the Steam inventory).
++	// MOD: items equipped from the console with mod_equip / mod_unequip. Covers our
++	// custom items (scripts/items/items_mod.txt) and, when tf_mod_allow_all_items is on,
++	// any item in TF2's schema, with optional Australium / Unusual / Killstreak / etc.
++	// These are local copies for this mod only; they never touch the Steam inventory.
 +public:
-+	bool				Mod_EquipItem( item_definition_index_t iDefIndex );
++	struct ModEquip_t
++	{
++		item_definition_index_t	m_iDef;
++		int						m_nQuality;		// AE_* quality, or -1 for the item's default
++		int						m_nStyle;		// item style, or -1
++		bool					m_bAustralium;
++		bool					m_bFestive;
++		int						m_nUnusual;		// particle effect id, 0 = none
++		int						m_nKillstreakTier;	// 0..3
++		int						m_nSheen;		// 1..7, 0 = none
++		int						m_nKillstreaker;	// 2002..2008, 0 = none
++
++		void Clear() { m_iDef = INVALID_ITEM_DEF_INDEX; m_nQuality = -1; m_nStyle = -1; m_bAustralium = m_bFestive = false; m_nUnusual = m_nKillstreakTier = m_nSheen = m_nKillstreaker = 0; }
++	};
++
++	bool				Mod_EquipItem( const ModEquip_t &equip );
++	bool				Mod_PlayTaunt( const ModEquip_t &equip );
 +	bool				Mod_UnequipItem( int iClass, int iSlot );
 +	CEconItemView		*Mod_GetItem( int iClass, int iSlot );
 +	CEconItemView		*Mod_GetItemByID( itemid_t ulItemID );
 +	void				Mod_ApplyLoadoutChange( int iClass );
 +
 +private:
-+	bool				Mod_SetItem( int iClass, int iSlot, item_definition_index_t iDefIndex );
++	bool				Mod_SetItem( int iClass, int iSlot, const ModEquip_t &equip );
 +	void				Mod_RestoreSavedEquips( void );
 +	void				Mod_SaveEquips( void );
 +
-+	item_definition_index_t	m_ModEquippedDefs[ TF_CLASS_COUNT_ALL ][ CLASS_LOADOUT_POSITION_COUNT ];
++	ModEquip_t				m_ModEquips[ TF_CLASS_COUNT_ALL ][ CLASS_LOADOUT_POSITION_COUNT ];
 +	CEconItemView			m_ModEquippedItems[ TF_CLASS_COUNT_ALL ][ CLASS_LOADOUT_POSITION_COUNT ];
 +	bool					m_bModEquipsRestored;
++	CEconItemView			m_ModTauntItem;		// taunt played directly with mod_taunt
 +
  public:
  	struct itemtest_t
@@ -854,6 +2563,45 @@ index d71126b..57ee626 100644
  };
  
  #endif	//TF_PROJECTILE_ROCKET_H
+diff --git a/src/game/shared/econ/econ_entity.cpp b/src/game/shared/econ/econ_entity.cpp
+index 8538310..16e3d19 100644
+--- a/src/game/shared/econ/econ_entity.cpp
++++ b/src/game/shared/econ/econ_entity.cpp
+@@ -832,6 +832,7 @@ void C_ViewmodelAttachmentModel::SetOuter( CEconEntity *pOuter )
+ {
+ 	m_hOuter = pOuter;
+ 	SetOwnerEntity( pOuter );
++	m_bModMirrored = false;
+ 
+ 	CEconItemView *pItem = pOuter->GetAttributeContainer()->GetItem();
+ 	if ( pItem->IsValid() )
+@@ -857,7 +858,7 @@ int C_ViewmodelAttachmentModel::InternalDrawModel( int flags )
+ {
+ #ifdef TF_CLIENT_DLL
+ 	CMatRenderContextPtr pRenderContext( materials );
+-	if ( TeamFortress_ShouldFlipClientViewModel() != m_bAlwaysFlip )
++	if ( ( TeamFortress_ShouldFlipClientViewModel() != m_bAlwaysFlip ) != m_bModMirrored )	// MOD: dual wield mirror
+ 	{
+ 		pRenderContext->CullMode( MATERIAL_CULLMODE_CW );
+ 	}
+diff --git a/src/game/shared/econ/econ_entity.h b/src/game/shared/econ/econ_entity.h
+index 5e5139f..eeb0fa4 100644
+--- a/src/game/shared/econ/econ_entity.h
++++ b/src/game/shared/econ/econ_entity.h
+@@ -243,9 +243,13 @@ public:
+ 
+ 	virtual int GetSkin( void );
+ 
++	// MOD: dual wield - this copy sits on a mirrored viewmodel, so its face culling is reversed
++	void Mod_SetMirrored( bool bMirrored ) { m_bModMirrored = bMirrored; }
++
+ private:
+ 	CHandle<CEconEntity>  m_hOuter;
+ 	bool							m_bAlwaysFlip;
++	bool							m_bModMirrored;
+ };
+ #endif // !defined( DOTA_DLL )
+ #endif // defined( CLIENT_DLL )
 diff --git a/src/game/shared/econ/econ_item_schema.cpp b/src/game/shared/econ/econ_item_schema.cpp
 index 50bbea3..615c7c4 100644
 --- a/src/game/shared/econ/econ_item_schema.cpp
@@ -1002,11 +2750,268 @@ index 50bbea3..615c7c4 100644
  	// Initialize the game info block
  	KeyValues *pKVGameInfo = pKVRawDefinition->FindKey( "game_info" );
  	SCHEMA_INIT_CHECK( NULL != pKVGameInfo, "Required key \"game_info\" missing.\n" );
+diff --git a/src/game/shared/tf/tf_shareddefs.cpp b/src/game/shared/tf/tf_shareddefs.cpp
+index bd54279..96cb8d6 100644
+--- a/src/game/shared/tf/tf_shareddefs.cpp
++++ b/src/game/shared/tf/tf_shareddefs.cpp
+@@ -1462,7 +1462,7 @@ void LoadObjectInfos( IBaseFileSystem *pFileSystem )
+ 			// Does it make sense to call the below Steam API so it'll force a validation next startup time?
+ 			// Need to verify it's real corruption and not someone dorking around with their objects.txt file...
+ 			//
+-			// From Martin Otten: If you have a file on disc and you’re 100% sure it’s
++			// From Martin Otten: If you have a file on disc and youï¿½re 100% sure itï¿½s
+ 			//  corrupt, call ISteamApps::MarkContentCorrupt( false ), before you shutdown
+ 			//  the game. This will cause a content validation in Steam.
+ 
+@@ -1765,7 +1765,12 @@ const char *TranslateWeaponEntForClass( const char *pszName, int iClass )
+ 			if ( !Q_stricmp( pszName, pszWpnEntTranslationList[i].pszWpnString ) )
+ 			{
+ 				const char *pTransName = pszWpnEntTranslationList[i].pszClassWpn[ iClass ];
+-				Assert( pTransName && pTransName[0] );
++
++				// MOD: a class with no entry here (e.g. Heavy holding the Spy's revolver)
++				// uses the weapon's own entity instead of an empty name.
++				if ( !pTransName || !pTransName[0] )
++					return pszName;
++
+ 				return pTransName;
+ 			}
+ 		}
+diff --git a/src/game/shared/tf/tf_viewmodel.cpp b/src/game/shared/tf/tf_viewmodel.cpp
+index 4ef8892..baacd69 100644
+--- a/src/game/shared/tf/tf_viewmodel.cpp
++++ b/src/game/shared/tf/tf_viewmodel.cpp
+@@ -43,6 +43,8 @@ CTFViewModel::CTFViewModel()
+ 	m_vLagAngles.Init();
+ 	m_LagAnglesHistory.Setup( &m_vLagAngles, 0 );
+ 	m_vLoweredWeaponOffset.Init();
++	m_pModOffhandModel = NULL;
++	m_iModOffhandRoot = -1;
+ }
+ #else
+ CTFViewModel::CTFViewModel()
+@@ -74,7 +76,8 @@ void CTFViewModel::AddViewModelBob( CBasePlayer *owner, Vector& eyePosition, QAn
+ #ifdef CLIENT_DLL
+ 	// if we are an off hand view model (index 1) and we have a model, add head bob.
+ 	// (Head bob for main hand model added by the weapon itself.)
+-	if ( ViewModelIndex() == 1 && GetModel() != null )
++	// MOD: not for the dual wield left hand - the weapon already bobs it like the right hand.
++	if ( ViewModelIndex() == 1 && GetModel() != null && !Mod_IsDualMirror() )
+ 	{
+ 		CalcViewModelBobHelper( owner, &m_BobState );
+ 		AddViewModelBobHelper( eyePosition, eyeAngles, &m_BobState );
+@@ -82,6 +85,22 @@ void CTFViewModel::AddViewModelBob( CBasePlayer *owner, Vector& eyePosition, QAn
+ #endif
+ }
+ 
++//-----------------------------------------------------------------------------
++// Purpose: MOD: dual wield helpers
++//-----------------------------------------------------------------------------
++CTFWeaponBase *CTFViewModel::Mod_GetDualWeapon( void )
++{
++	CTFWeaponBase *pWeapon = dynamic_cast< CTFWeaponBase* >( GetOwningWeapon() );
++	if ( pWeapon && pWeapon->m_nViewModelIndex == 0 && pWeapon->Mod_IsDualWield() )
++		return pWeapon;
++	return NULL;
++}
++
++bool CTFViewModel::Mod_IsDualMirror( void )
++{
++	return ViewModelIndex() == 1 && Mod_GetDualWeapon() != NULL;
++}
++
+ void CTFViewModel::CalcViewModelLag( Vector& origin, QAngle& angles, QAngle& original_angles )
+ {
+ #ifdef CLIENT_DLL
+@@ -154,7 +173,11 @@ void CTFViewModel::CalcViewModelView( CBasePlayer *owner, const Vector& eyePosit
+ 		bool bInspecting = pWeapon && pWeapon->GetInspectStage() != CTFWeaponBase::INSPECT_INVALID;
+ 
+ 		static float s_inspectInterp = 0.f;
+-		if ( bInspecting )
++		if ( Mod_IsDualMirror() )
++		{
++			// MOD: dual wield - the right hand already advanced the shared timer this frame
++		}
++		else if ( bInspecting )
+ 		{
+ 			if ( pWeapon->GetInspectStage() == CTFWeaponBase::INSPECT_END )
+ 			{
+@@ -270,9 +293,107 @@ int CTFViewModel::DrawModel( int flags )
+ 		 return 0;
+ 	}
+ 
++	// MOD: dual wield - only draw the left gun while its weapon is out
++	if ( Mod_IsDualMirror() && ToTFPlayer( GetOwner() ) && ToTFPlayer( GetOwner() )->GetActiveWeapon() != GetOwningWeapon() )
++	{
++		return 0;
++	}
++
+ 	return BaseClass::DrawModel( flags );
+ }
+ 
++//-----------------------------------------------------------------------------
++// Purpose: MOD: dual wield - the left-hand copy is drawn mirrored.
++//-----------------------------------------------------------------------------
++bool CTFViewModel::ShouldFlipViewModel()
++{
++	bool bFlip = BaseClass::ShouldFlipViewModel();
++	if ( Mod_IsDualMirror() )
++		bFlip = !bFlip;
++	return bFlip;
++}
++
++ConVar tf_mod_dualwield_hide_offhand( "tf_mod_dualwield_hide_offhand", "1", FCVAR_ARCHIVE, "Dual wield: hide each gun's empty left arm so the two arms don't cross on screen." );
++
++//-----------------------------------------------------------------------------
++// Purpose: MOD: dual wield - find the top bone of the left arm (bip_hand_L and
++// its parents whose names end in _L, e.g. lowerArm_L, upperArm_L, collar_L).
++//-----------------------------------------------------------------------------
++int CTFViewModel::Mod_FindOffhandRootBone( CStudioHdr *pStudioHdr )
++{
++	if ( GetModel() == m_pModOffhandModel )
++		return m_iModOffhandRoot;
++
++	m_pModOffhandModel = GetModel();
++	m_iModOffhandRoot = -1;
++
++	int iBone = Studio_BoneIndexByName( pStudioHdr, "bip_hand_L" );
++	if ( iBone < 0 )
++	{
++		// Fall back to any bone named "...hand_L"
++		for ( int i = 0; i < pStudioHdr->numbones() && iBone < 0; ++i )
++		{
++			const char *pszName = pStudioHdr->pBone( i )->pszName();
++			int nLen = Q_strlen( pszName );
++			if ( nLen >= 6 && !Q_stricmp( pszName + nLen - 6, "hand_l" ) )
++				iBone = i;
++		}
++	}
++	if ( iBone < 0 )
++		return -1;
++
++	for ( ;; )
++	{
++		int iParent = pStudioHdr->boneParent( iBone );
++		if ( iParent < 0 )
++			break;
++
++		const char *pszName = pStudioHdr->pBone( iParent )->pszName();
++		int nLen = Q_strlen( pszName );
++		if ( nLen < 2 || pszName[nLen - 2] != '_' || ( pszName[nLen - 1] != 'L' && pszName[nLen - 1] != 'l' ) )
++			break;
++
++		iBone = iParent;
++	}
++
++	m_iModOffhandRoot = iBone;
++	return m_iModOffhandRoot;
++}
++
++//-----------------------------------------------------------------------------
++// Purpose: MOD: dual wield - each viewmodel only shows its gun hand. The empty
++// left arm is shrunk to a point at the shoulder, which is off screen.
++//-----------------------------------------------------------------------------
++void CTFViewModel::BuildTransformations( CStudioHdr *pStudioHdr, Vector *pos, Quaternion q[], const matrix3x4_t& cameraTransform, int boneMask, CBoneBitList &boneComputed )
++{
++	BaseClass::BuildTransformations( pStudioHdr, pos, q, cameraTransform, boneMask, boneComputed );
++
++	if ( !pStudioHdr || !tf_mod_dualwield_hide_offhand.GetBool() || !Mod_GetDualWeapon() )
++		return;
++
++	int iRoot = Mod_FindOffhandRootBone( pStudioHdr );
++	if ( iRoot < 0 )
++		return;
++
++	Vector vecShoulder;
++	MatrixGetColumn( GetBone( iRoot ), 3, vecShoulder );
++
++	for ( int i = 0; i < pStudioHdr->numbones(); ++i )
++	{
++		int j = i;
++		while ( j >= 0 && j != iRoot )
++		{
++			j = pStudioHdr->boneParent( j );
++		}
++		if ( j != iRoot )
++			continue;
++
++		matrix3x4_t &bone = GetBoneForWrite( i );
++		MatrixScaleBy( 0.001f, bone );
++		MatrixSetColumn( vecShoulder, 3, bone );
++	}
++}
++
+ //-----------------------------------------------------------------------------
+ // Purpose: 
+ //-----------------------------------------------------------------------------
+diff --git a/src/game/shared/tf/tf_viewmodel.h b/src/game/shared/tf/tf_viewmodel.h
+index 3032593..65237c0 100644
+--- a/src/game/shared/tf/tf_viewmodel.h
++++ b/src/game/shared/tf/tf_viewmodel.h
+@@ -36,7 +36,14 @@ public:
+ 	virtual void CalcViewModelView( CBasePlayer *owner, const Vector& eyePosition, const QAngle& eyeAngles );
+ 	virtual void AddViewModelBob( CBasePlayer *owner, Vector& eyePosition, QAngle& eyeAngles );
+ 
++	// MOD: dual wield
++	CTFWeaponBase *Mod_GetDualWeapon( void );	// owning weapon, if it has "mod dual wield"
++	bool Mod_IsDualMirror( void );				// this is the mirrored left-hand copy (viewmodel 1)
++
+ #if defined( CLIENT_DLL )
++	virtual bool ShouldFlipViewModel() OVERRIDE;	// MOD: mirror the left-hand copy
++	virtual void BuildTransformations( CStudioHdr *pStudioHdr, Vector *pos, Quaternion q[], const matrix3x4_t& cameraTransform, int boneMask, CBoneBitList &boneComputed ) OVERRIDE;
++
+ 	virtual bool ShouldPredict( void )
+ 	{
+ 		if ( GetOwner() && GetOwner() == C_BasePlayer::GetLocalPlayer() )
+@@ -74,6 +81,11 @@ private:
+ 
+ 	QAngle m_vLoweredWeaponOffset;
+ 
++	// MOD: dual wield - cached root bone of the empty left arm
++	int Mod_FindOffhandRootBone( CStudioHdr *pStudioHdr );
++	const model_t *m_pModOffhandModel;
++	int m_iModOffhandRoot;
++
+ #endif
+ };
+ 
 diff --git a/src/game/shared/tf/tf_weaponbase.cpp b/src/game/shared/tf/tf_weaponbase.cpp
-index 638cc6f..66593ff 100644
+index 638cc6f..ee1110d 100644
 --- a/src/game/shared/tf/tf_weaponbase.cpp
 +++ b/src/game/shared/tf/tf_weaponbase.cpp
-@@ -549,6 +549,20 @@ int CTFWeaponBase::GetWeaponID( void ) const
+@@ -202,6 +202,7 @@ BEGIN_NETWORK_TABLE( CTFWeaponBase, DT_TFWeaponBase )
+ 	RecvPropEHandle( RECVINFO( m_hExtraWearable ) ),
+ 	RecvPropEHandle( RECVINFO( m_hExtraWearableViewModel ) ),
+ 	RecvPropBool( RECVINFO( m_bBeingRepurposedForTaunt ) ),
++	RecvPropBool( RECVINFO( m_bModDualLastLeft ) ),	// MOD: dual wield
+ 	RecvPropInt( RECVINFO( m_nKillComboClass ) ),
+ 	RecvPropInt( RECVINFO( m_nKillComboCount ) ),
+ 	RecvPropFloat( RECVINFO( m_flInspectAnimEndTime ) ),
+@@ -220,6 +221,7 @@ BEGIN_NETWORK_TABLE( CTFWeaponBase, DT_TFWeaponBase )
+ 	SendPropEHandle( SENDINFO( m_hExtraWearable ) ),
+ 	SendPropEHandle( SENDINFO( m_hExtraWearableViewModel ) ),
+ 	SendPropBool( SENDINFO( m_bBeingRepurposedForTaunt ) ),
++	SendPropBool( SENDINFO( m_bModDualLastLeft ) ),	// MOD: dual wield
+ 	SendPropInt( SENDINFO( m_nKillComboClass ), 4, SPROP_UNSIGNED ),
+ 	SendPropInt( SENDINFO( m_nKillComboCount ), 2, SPROP_UNSIGNED ),
+ 	SendPropFloat( SENDINFO( m_flInspectAnimEndTime ) ),
+@@ -244,6 +246,7 @@ BEGIN_PREDICTION_DATA( CTFWeaponBase )
+ 	DEFINE_PRED_FIELD( m_flEnergy, FIELD_FLOAT, FTYPEDESC_INSENDTABLE ),
+ 	DEFINE_PRED_FIELD_TOL( m_flEffectBarRegenTime, FIELD_FLOAT, FTYPEDESC_INSENDTABLE, TD_MSECTOLERANCE ),	
+ 	DEFINE_PRED_FIELD( m_bBeingRepurposedForTaunt, FIELD_BOOLEAN, FTYPEDESC_INSENDTABLE ),
++	DEFINE_PRED_FIELD( m_bModDualLastLeft, FIELD_BOOLEAN, FTYPEDESC_INSENDTABLE ),	// MOD: dual wield
+ #endif
+ END_PREDICTION_DATA()
+ 
+@@ -340,6 +343,7 @@ CTFWeaponBase::CTFWeaponBase()
+ #endif // CLIENT_DLL
+ 
+ 	m_bBeingRepurposedForTaunt = false;
++	m_bModDualLastLeft = true;	// MOD: dual wield - so the first shot comes from the right gun
+ 
+ 	m_nKillComboClass = 0;
+ 	ClearKillComboCount();
+@@ -549,6 +553,20 @@ int CTFWeaponBase::GetWeaponID( void ) const
  	return TF_WEAPON_NONE; 
  }
  
@@ -1027,8 +3032,294 @@ index 638cc6f..66593ff 100644
  // -----------------------------------------------------------------------------
  // Purpose:
  // -----------------------------------------------------------------------------
+@@ -665,6 +683,17 @@ const char *CTFWeaponBase::GetViewModel( int iViewModel ) const
+ 	const CEconItemView *pItem = GetAttributeContainer()->GetItem();
+ 	if ( pPlayer && pItem->IsValid() && pItem->GetStaticData()->ShouldAttachToHands() )
+ 	{
++		// MOD: "mod viewmodel arms class" shows another class's first-person arms (and their
++		// animations) for this weapon, e.g. the Spy's arms for Heavy's Bear Arms revolver.
++		int iArmsClass = 0;
++		CALL_ATTRIB_HOOK_INT( iArmsClass, mod_viewmodel_arms_class );
++		if ( iArmsClass >= TF_FIRST_NORMAL_CLASS && iArmsClass < TF_LAST_NORMAL_CLASS )
++		{
++			const char *pszOtherArms = GetPlayerClassData( iArmsClass )->m_szHandModelName;
++			if ( pszOtherArms && pszOtherArms[0] )
++				return pszOtherArms;
++		}
++
+ 		// Should always be valid, because players without classes shouldn't be carrying items
+ 		const char *pszHandModel = pPlayer->GetPlayerClass()->GetHandModelName( iHandModelIndex );
+ 		Assert( pszHandModel );
+@@ -781,6 +810,116 @@ poseparamtable_t *CTFWeaponBase::GetItemPoseParamList( int &iPoseParamCount )
+ // Purpose: 
+ //-----------------------------------------------------------------------------
+ bool CTFWeaponBase::SendWeaponAnim( int iActivity )
++{
++	// MOD: dual wield. The right gun is viewmodel 0 (the normal one); the left gun is
++	// viewmodel 1, drawn mirrored. Fire animations alternate between the two guns,
++	// every other animation (draw, reload, idle, inspect) plays on both.
++	CTFPlayer *pDualOwner = GetTFPlayerOwner();
++	if ( pDualOwner && m_nViewModelIndex == 0 && pDualOwner->GetViewModel( 1, false ) && Mod_IsDualWield() )
++	{
++		if ( iActivity == ACT_VM_PRIMARYATTACK )
++		{
++			m_bModDualLastLeft = !m_bModDualLastLeft;
++			if ( !m_bModDualLastLeft )
++				return Mod_SendWeaponAnimInternal( iActivity );
++
++			// Left gun: play the shot on viewmodel 1 and leave the right gun alone.
++			m_nViewModelIndex = 1;
++			bool bLeft = Mod_SendWeaponAnimInternal( iActivity );
++			m_nViewModelIndex = 0;
++			return bLeft;
++		}
++
++		CBaseViewModel *pVM0 = pDualOwner->GetViewModel( 0, false );
++		int nOldSequence = pVM0 ? pVM0->GetSequence() : -1;
++		float flOldCycle = pVM0 ? pVM0->GetCycle() : -1.f;
++
++		bool bRet = Mod_SendWeaponAnimInternal( iActivity );
++
++		// Copy only if the right gun actually started a new animation (inspect can swallow idles).
++		if ( pVM0 && ( pVM0->GetSequence() != nOldSequence || pVM0->GetCycle() != flOldCycle || pVM0->GetCycle() == 0.f ) )
++		{
++			Mod_SyncDualViewModel();
++		}
++		return bRet;
++	}
++
++	return Mod_SendWeaponAnimInternal( iActivity );
++}
++
++//-----------------------------------------------------------------------------
++// Purpose: MOD: true if this weapon has the "mod dual wield" attribute.
++//-----------------------------------------------------------------------------
++bool CTFWeaponBase::Mod_IsDualWield( void ) const
++{
++	int iDual = 0;
++	CALL_ATTRIB_HOOK_INT( iDual, mod_dual_wield );
++	return iDual != 0;
++}
++
++//-----------------------------------------------------------------------------
++// Purpose: MOD: put the left gun (viewmodel 1) on the same animation as the right gun.
++//-----------------------------------------------------------------------------
++void CTFWeaponBase::Mod_SyncDualViewModel( void )
++{
++#if defined( CLIENT_DLL )
++	if ( !IsPredicted() )
++		return;
++#endif
++
++	CBasePlayer *pOwner = ToBasePlayer( GetOwner() );
++	if ( !pOwner )
++		return;
++
++	CBaseViewModel *pVM0 = pOwner->GetViewModel( 0, false );
++	CBaseViewModel *pVM1 = pOwner->GetViewModel( 1, false );
++	if ( !pVM0 || !pVM1 || pVM0->GetOwningWeapon() != this )
++		return;
++
++#ifdef GAME_DLL
++	// CTFPlayer::Spawn blanks viewmodel 1 with SetModel(""), which SetWeaponModel doesn't
++	// notice; clear its remembered name so the arms model gets set again.
++	if ( !STRING( pVM1->GetModelName() )[0] )
++	{
++		pVM1->SetWeaponModel( NULL, NULL );
++	}
++#endif
++
++	// Same arms model as the right hand (SetViewModel uses m_nViewModelIndex).
++	m_nViewModelIndex = 1;
++	SetViewModel();
++	m_nViewModelIndex = 0;
++
++	// Visibility is handled by the model: Mod_HideDualViewModel clears it on holster.
++	pVM1->RemoveEffects( EF_NODRAW );
++
++	if ( pVM0->GetSequence() >= 0 )
++	{
++		pVM1->SendViewModelMatchingSequence( pVM0->GetSequence() );
++	}
++	pVM1->SetPlaybackRate( pVM0->GetPlaybackRate() );
++}
++
++//-----------------------------------------------------------------------------
++// Purpose: MOD: take the left gun away when this weapon is put away or removed.
++//-----------------------------------------------------------------------------
++void CTFWeaponBase::Mod_HideDualViewModel( void )
++{
++	CBasePlayer *pOwner = ToBasePlayer( GetOwner() );
++	if ( !pOwner )
++		return;
++
++	CBaseViewModel *pVM1 = pOwner->GetViewModel( 1, false );
++	if ( pVM1 && pVM1->GetOwningWeapon() == this && m_nViewModelIndex == 0 )
++	{
++		pVM1->SetWeaponModel( NULL, NULL );
++	}
++}
++
++//-----------------------------------------------------------------------------
++// Purpose: 
++//-----------------------------------------------------------------------------
++bool CTFWeaponBase::Mod_SendWeaponAnimInternal( int iActivity )
+ {
+ 	CTFPlayer *pPlayer = GetTFPlayerOwner();
+ 	if ( !pPlayer )
+@@ -1153,6 +1292,16 @@ void CTFWeaponBase::UpdateOnRemove( void )
+ {
+ 	RemoveExtraWearables();
+ 
++	// MOD: dual wield
++	Mod_HideDualViewModel();
++#ifdef CLIENT_DLL
++	if ( m_hModDualAttachment )
++	{
++		m_hModDualAttachment->Release();
++		m_hModDualAttachment = NULL;
++	}
++#endif
++
+ 	BaseClass::UpdateOnRemove();
+ }
+ 
+@@ -1220,7 +1369,12 @@ bool CTFWeaponBase::Holster( CBaseCombatWeapon *pSwitchingTo )
+ #endif // GAME_DLL
+ 	m_iConsecutiveShots = 0;
+ 
+-	return BaseClass::Holster( pSwitchingTo );
++	bool bHolstered = BaseClass::Holster( pSwitchingTo );
++
++	// MOD: dual wield - the left gun goes away with the right one
++	Mod_HideDualViewModel();
++
++	return bHolstered;
+ }
+ 
+ //-----------------------------------------------------------------------------
+@@ -1240,6 +1394,7 @@ bool CTFWeaponBase::Deploy( void )
+ #endif
+ 
+ 	m_iReloadMode.Set( TF_RELOAD_START );
++	m_bModDualLastLeft = true;	// MOD: dual wield - first shot after drawing comes from the right gun
+ 
+ 	float flOriginalPrimaryAttack = m_flNextPrimaryAttack;
+ 	float flOriginalSecondaryAttack = m_flNextSecondaryAttack;
+@@ -3086,6 +3241,12 @@ C_BaseAnimating *CTFWeaponBase::GetAppropriateWorldOrViewModel()
+ 		const CEconItemView *pItem = GetAttributeContainer()->GetItem();
+ 		if ( pItem->IsValid() && pItem->GetStaticData()->ShouldAttachToHands() )
+ 		{
++			// MOD: dual wield - muzzle flash and tracer come from the gun that fired last
++			if ( m_bModDualLastLeft && m_hModDualAttachment.Get() )
++			{
++				return m_hModDualAttachment.Get();
++			}
++
+ 			C_BaseAnimating *pVMAttach = GetViewmodelAttachment();
+ 			if ( pVMAttach != NULL )
+ 			{
+@@ -3395,9 +3556,82 @@ void CTFWeaponBase::UpdateAttachmentModels( void )
+ 		// Normal weapons use the base class implementation
+ 		BaseClass::UpdateAttachmentModels();
+ 	}
++
++	Mod_UpdateDualAttachment();	// MOD: dual wield
+ #endif
+ }
+ 
++//-----------------------------------------------------------------------------
++// Purpose: MOD: dual wield. The first-person weapon model is a separate entity
++// bone-merged onto the viewmodel's hands. Keep a second copy on viewmodel 1.
++//-----------------------------------------------------------------------------
++void CTFWeaponBase::Mod_UpdateDualAttachment( void )
++{
++	C_BaseAnimating *pMain = m_hViewmodelAttachment.Get();
++	C_BasePlayer *pOwner = ToBasePlayer( GetOwnerEntity() );
++	C_BaseViewModel *pVM1 = pOwner ? pOwner->GetViewModel( 1, false ) : NULL;
++
++	if ( pMain && pMain->GetModel() && pVM1 && !m_bDisguiseWeapon && Mod_IsDualWield() )
++	{
++		if ( !m_hModDualAttachment )
++		{
++			C_ViewmodelAttachmentModel *pEnt = new class C_ViewmodelAttachmentModel;
++			if ( !pEnt )
++				return;
++
++			pEnt->SetOuter( this );
++			pEnt->Mod_SetMirrored( true );
++			if ( pEnt->InitializeAsClientEntity( modelinfo->GetModelName( pMain->GetModel() ), RENDER_GROUP_VIEW_MODEL_OPAQUE ) == false )
++				return;
++
++			m_hModDualAttachment = pEnt;
++			m_hModDualAttachment->SetParent( pVM1 );
++			m_hModDualAttachment->SetLocalOrigin( vec3_origin );
++			m_hModDualAttachment->UpdatePartitionListEntry();
++			m_hModDualAttachment->CollisionProp()->UpdatePartition();
++			m_hModDualAttachment->UpdateVisibility();
++		}
++		else if ( m_hModDualAttachment->GetMoveParent() != pVM1 )
++		{
++			m_hModDualAttachment->SetParent( pVM1 );
++			m_hModDualAttachment->SetLocalOrigin( vec3_origin );
++		}
++
++		m_hModDualAttachment->m_nSkin = pMain->m_nSkin;
++		return;
++	}
++
++	if ( m_hModDualAttachment )
++	{
++		m_hModDualAttachment->Release();
++		m_hModDualAttachment = NULL;
++	}
++}
++
++//-----------------------------------------------------------------------------
++// Purpose: MOD: dual wield. When viewmodel 1 (the left hand) draws, draw the
++// left-hand copy of the weapon on it instead of the right-hand one.
++//-----------------------------------------------------------------------------
++int CTFWeaponBase::DrawOverriddenViewmodel( C_BaseViewModel *pViewmodel, int flags )
++{
++	if ( pViewmodel && pViewmodel->ViewModelIndex() == 1 && m_nViewModelIndex == 0 )
++	{
++		if ( !m_hModDualAttachment || !m_hViewmodelAttachment )
++		{
++			return pViewmodel->DrawOverriddenViewmodel( flags );	// arms only
++		}
++
++		CHandle<C_BaseAnimating> hMain = m_hViewmodelAttachment;
++		m_hModDualAttachment->m_nSkin = hMain->m_nSkin;
++		m_hViewmodelAttachment = m_hModDualAttachment.Get();
++		int ret = BaseClass::DrawOverriddenViewmodel( pViewmodel, flags );
++		m_hViewmodelAttachment = hMain;
++		return ret;
++	}
++
++	return BaseClass::DrawOverriddenViewmodel( pViewmodel, flags );
++}
++
+ void CTFWeaponBase::ProcessMuzzleFlashEvent( void )
+ {
+ 	C_BaseAnimating *pAttachEnt = GetAppropriateWorldOrViewModel();
+@@ -4846,6 +5080,15 @@ void CTFWeaponBase::AddViewmodelBob( CBaseViewModel *viewmodel, Vector &origin,
+ {
+ 	// call helper functions to do the calculation
+ 	BobState_t *pBobState = GetBobState();
++
++	// MOD: dual wield - the left-hand viewmodel reuses the right hand's bob instead of
++	// advancing the shared bob clock a second time this frame.
++	if ( pBobState && viewmodel && viewmodel->ViewModelIndex() != m_nViewModelIndex )
++	{
++		::AddViewModelBobHelper( origin, angles, pBobState );
++		return;
++	}
++
+ 	if ( pBobState )
+ 	{
+ 		CalcViewmodelBob();
 diff --git a/src/game/shared/tf/tf_weaponbase.h b/src/game/shared/tf/tf_weaponbase.h
-index 22b82e8..20131fd 100644
+index 22b82e8..0ea5913 100644
 --- a/src/game/shared/tf/tf_weaponbase.h
 +++ b/src/game/shared/tf/tf_weaponbase.h
 @@ -290,6 +290,7 @@ class CTFWeaponBase : public CBaseCombatWeapon, public IHasOwner, public IHasGen
@@ -1039,6 +3330,39 @@ index 22b82e8..20131fd 100644
  	bool IsWeapon( int iWeapon ) const;
  	virtual int	GetDamageType() const { return g_aWeaponDamageTypes[ GetWeaponID() ]; }
  	virtual int GetCustomDamageType() const { return TF_DMG_CUSTOM_NONE; }
+@@ -314,6 +315,14 @@ class CTFWeaponBase : public CBaseCombatWeapon, public IHasOwner, public IHasGen
+ 
+ 	virtual bool SendWeaponAnim( int iActivity ) OVERRIDE;
+ 
++	// MOD: "mod dual wield" - a mirrored copy of this weapon in the left hand, drawn on
++	// the player's second viewmodel. Shots alternate right, left, right, ...
++	bool Mod_IsDualWield( void ) const;
++	bool Mod_IsDualFiringLeft( void ) const { return m_bModDualLastLeft; }
++	void Mod_SyncDualViewModel( void );
++	void Mod_HideDualViewModel( void );
++	bool Mod_SendWeaponAnimInternal( int iActivity );
++
+ 	virtual CBaseEntity	*GetOwnerViaInterface( void ) { return GetOwner(); }
+ 
+ 	virtual void Equip( CBaseCombatCharacter *pOwner );
+@@ -587,6 +596,9 @@ class CTFWeaponBase : public CBaseCombatWeapon, public IHasOwner, public IHasGen
+ 	BobState_t		*GetBobState();
+ 	virtual bool	AttachmentModelsShouldBeVisible( void ) OVERRIDE { return (m_iState == WEAPON_IS_ACTIVE) && !IsBeingRepurposedForTaunt(); }
+ 	virtual void	UpdateAttachmentModels( void ) OVERRIDE;
++	virtual int		DrawOverriddenViewmodel( C_BaseViewModel *pViewmodel, int flags ) OVERRIDE;	// MOD: dual wield
++	void			Mod_UpdateDualAttachment( void );
++	CHandle<C_BaseAnimating> m_hModDualAttachment;	// MOD: left-hand copy of the weapon model
+ 
+ 	virtual bool ShouldEjectBrass() { return true; }
+ 
+@@ -785,6 +797,7 @@ private:
+ 	CTFWeaponBase( const CTFWeaponBase & );
+ 
+ 	CNetworkVar( bool, m_bBeingRepurposedForTaunt );
++	CNetworkVar( bool, m_bModDualLastLeft );	// MOD: dual wield - last shot came from the left gun
+ 
+ 	CNetworkVar( int,	m_nKillComboClass );
+ 	CNetworkVar( int,	m_nKillComboCount );
 diff --git a/src/game/shared/tf/tf_weaponbase_melee.cpp b/src/game/shared/tf/tf_weaponbase_melee.cpp
 index 0dac987..a0a1495 100644
 --- a/src/game/shared/tf/tf_weaponbase_melee.cpp
