@@ -1,0 +1,74 @@
+name: Build Windows
+
+# Builds your mod for Windows on GitHub's computers. You don't need Visual Studio.
+# Runs every time you change a file in the repo, or when you press "Run workflow".
+
+on:
+  push:
+  workflow_dispatch:
+
+env:
+  # The name your mod shows in Steam. Change the words in quotes if you like.
+  MOD_NAME: "Smokey's TF2"
+
+jobs:
+  build:
+    runs-on: windows-2022
+    steps:
+      - name: Keep files exactly as they are (no line-ending changes)
+        run: git config --global core.autocrlf false
+
+      - name: Get the code
+        uses: actions/checkout@v4
+
+      - name: Add the custom weapons (tf2-weapons.patch, if uploaded)
+        shell: pwsh
+        run: |
+          if (Test-Path tf2-weapons.patch) {
+            git apply --whitespace=nowarn tf2-weapons.patch
+            if ($LASTEXITCODE -ne 0) { throw "tf2-weapons.patch didn't apply cleanly" }
+            Write-Host "Custom weapons added."
+          } else {
+            Write-Host "No tf2-weapons.patch found - building without custom weapons."
+          }
+
+      - name: Set the mod's name
+        shell: pwsh
+        run: |
+          $gi = "game\mod_tf\gameinfo.txt"
+          $text = Get-Content $gi -Raw
+          $text = [regex]::Replace($text, '(?m)^(\s*game\s+)"[^"]*"', '${1}"' + $env:MOD_NAME + '"')
+          Set-Content -Path $gi -Value $text -NoNewline
+
+      - name: Set up Python (used by the SDK build steps)
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Set up MSBuild
+        uses: microsoft/setup-msbuild@v2
+
+      - name: Generate Visual Studio solution (TF2 mod only)
+        shell: cmd
+        working-directory: src
+        run: devtools\bin\vpc.exe /tf /define:SOURCESDK +everything /mksln everything.sln
+
+      - name: Build Release
+        shell: cmd
+        working-directory: src
+        run: msbuild everything.sln /m /p:Configuration=Release /p:Platform=win64 /v:minimal
+
+      - name: Package the mod folder
+        shell: pwsh
+        run: |
+          New-Item -ItemType Directory -Force dist | Out-Null
+          Copy-Item game\mod_tf dist\mod_tf -Recurse
+          Copy-Item LICENSE, thirdpartylegalnotices.txt -Destination dist\mod_tf
+          Get-ChildItem dist -Recurse -Include *.dll | Select-Object FullName, Length
+          if (-not (Test-Path dist\mod_tf\bin\x64\client.dll)) { throw "client.dll wasn't built" }
+
+      - name: Upload the finished mod
+        uses: actions/upload-artifact@v4
+        with:
+          name: mod_tf-windows
+          path: dist
