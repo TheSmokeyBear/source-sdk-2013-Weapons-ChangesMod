@@ -1,83 +1,86 @@
 diff --git a/game/mod_tf/resource/mod_tf_english.txt b/game/mod_tf/resource/mod_tf_english.txt
-index edf73c793d6444785969dfd9650ac46de8de7b91..21fcde91c67b6cee0676cd5fad96fe9d9f70530d 100644
+index edf73c793d6444785969dfd9650ac46de8de7b91..a43749a3c6970e813ab7f9bd91b5c3336858ac81 100644
 GIT binary patch
-literal 13184
-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
+literal 13636
+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
 
 delta 59
-zcmZojKfoyb|DO^=4nrbC9z!~V5(6(oH3RQNacxm0h7g8)hHQpZphPiTA~v0^7O19{
-F0RXk149frj
+zcmX?-b%0U$|34*$9EL=OJce`zB?exGY6jkk;@YB03?U5p4A~5+K#5|wL~J@+El^D@
+F0|3SO4H5tV
 
 diff --git a/game/mod_tf/scripts/items/items_mod.txt b/game/mod_tf/scripts/items/items_mod.txt
 new file mode 100644
-index 0000000..374c1c0
+index 0000000..b935bca
 --- /dev/null
 +++ b/game/mod_tf/scripts/items/items_mod.txt
-@@ -0,0 +1,1525 @@
+@@ -0,0 +1,1569 @@
 +// =============================================================================
 +// Custom items for this mod. Merged on top of TF2's items_game.txt at load time
 +// (see Mod_MergeCustomItems in src/game/shared/econ/econ_item_schema.cpp).
@@ -296,6 +299,24 @@ index 0000000..374c1c0
 +		{
 +			"name"					"mod medigun portal to patient"	// Reload while healing: teleport beside your patient. Value = UberCharge cost (0.25 = 25%)
 +			"attribute_class"		"mod_medigun_portal_to_patient"
++			"description_format"	"value_is_additive"
++			"effect_type"			"positive"
++			"hidden"				"1"
++			"stored_as_integer"		"0"
++		}
++		"9023"
++		{
++			"name"					"mod stomp from any height"		// landing on an enemy's head stomps them even when the fall wouldn't hurt you (min speed: tf_mod_stomp_min_fall_speed)
++			"attribute_class"		"mod_stomp_any_height"
++			"description_format"	"value_is_additive"
++			"effect_type"			"positive"
++			"hidden"				"1"
++			"stored_as_integer"		"0"
++		}
++		"9024"
++		{
++			"name"					"mod airborne recoil push"		// shotguns: firing in mid-air pushes you away from where you aim. Value = speed
++			"attribute_class"		"mod_airborne_recoil_push"
 +			"description_format"	"value_is_additive"
 +			"effect_type"			"positive"
 +			"hidden"				"1"
@@ -1548,9 +1569,11 @@ index 0000000..374c1c0
 +			"static_attrs"
 +			{
 +				"boots falling stomp"					"1"		// landing on an enemy hurts them, not you (like the Mantreads)
++				"mod stomp from any height"				"1"		// ...even a small drop onto their head
 +				"mod stomp damage multiplier"			"3"		// 3x the Mantreads stomp
 +				"mod landing shockwave"					"1"		// shockwave strength (tf_mod_shockwave_radius / _force)
-+				"increased jump height from weapon"		"1.4"	// about twice as high
++				"increased jump height from weapon"		"1.26"	// was 1.4, now 10% lower
++				"mult_player_movespeed_active"			"1.3"	// +30% move speed, like the Gloves of Running Urgently
 +				"mod fall damage taken"					"0.65"	// 35% less fall damage
 +				"mod only weapon"						"1"		// no primary or secondary while equipped
 +			}
@@ -1601,6 +1624,30 @@ index 0000000..374c1c0
 +				"overheal penalty"					"0.6"	// -40% max overheal
 +			}
 +		}
++
++		// Heavy secondary: a double-barrel. Uses TF2's own Family Business model and icon
++		// (its Workshop name was the Baikal Boomstick), so no extra files are needed.
++		"38111"
++		{
++			"mod_copy_from"		"425"	// The Family Business
++			"name"				"The Baikal Boomstick"
++			"item_name"			"#Mod_BaikalBoomstick"
++			"item_description"	"#Mod_BaikalBoomstick_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"heavy"		"1"
++			}
++			"item_slot"			"secondary"
++			"static_attrs"
++			{
++				"bullets per shot bonus"		"2"		// both barrels at once: 20 pellets
++				"mod airborne recoil push"		"420"	// fire in mid-air to be thrown back (aim down to fly up)
++				"clip size penalty"				"0.34"	// 2 shells
++				"spread penalty"				"1.4"	// +40% spread
++				"mod weapon tint"				"14524637"	// colour #DDA15D (brass)
++			}
++		}
 +	}
 +}
 diff --git a/src/game/client/tf/tf_gc_client.cpp b/src/game/client/tf/tf_gc_client.cpp
@@ -1630,7 +1677,7 @@ index 346654b..af53ca1 100644
  			V_snprintf(szSlot, sizeof(szSlot), "%i", iSlot);
  
 diff --git a/src/game/server/tf/tf_player.cpp b/src/game/server/tf/tf_player.cpp
-index c030951..d5cd83c 100644
+index c030951..60fffa6 100644
 --- a/src/game/server/tf/tf_player.cpp
 +++ b/src/game/server/tf/tf_player.cpp
 @@ -1124,6 +1124,20 @@ CTFPlayer::CTFPlayer()
@@ -1833,7 +1880,7 @@ index c030951..d5cd83c 100644
  /*
  		// no fall damage in space
  		if (  m_Shared.InCond( TF_COND_SPACE_GRAVITY ) )
-@@ -23148,3 +23248,1230 @@ void CTFPlayer::ScriptStunPlayer( float flTime, float flReductionAmount, int iSt
+@@ -23148,3 +23248,1255 @@ void CTFPlayer::ScriptStunPlayer( float flTime, float flReductionAmount, int iSt
  {
  	m_Shared.StunPlayer( flTime, flReductionAmount, iStunFlags, ScriptToEntClass< CTFPlayer >( hAttacker ) );
  }
@@ -1861,6 +1908,31 @@ index c030951..d5cd83c 100644
 +// Purpose: MOD: Bear Feet landing shockwave. Stronger and wider the faster the
 +// fall; enemies in the open get thrown up and away, walls block it.
 +//-----------------------------------------------------------------------------
++//-----------------------------------------------------------------------------
++// MOD: "mod stomp from any height" - landing on an enemy too gently to take fall damage
++// still stomps them. Same damage formula as the normal (Mantreads) stomp: what the fall
++// would have done to you, x3, +10, then "mod stomp damage multiplier".
++//-----------------------------------------------------------------------------
++void CTFPlayer::Mod_LowFallStomp( CTFPlayer *pOther, float flFallSpeed )
++{
++	if ( !pOther || !pOther->IsAlive() || pOther->GetTeamNumber() == GetTeamNumber() || !IsAlive() )
++		return;
++
++	if ( !m_Shared.CanFallStomp() )
++		return;
++
++	const float flFallDamage = 5.f * ( flFallSpeed / 300.f ) * ( (float)GetMaxHealth() / 100.f );
++	float flStompDamage = 10.f + flFallDamage * 3.f;
++	CALL_ATTRIB_HOOK_FLOAT_ON_OTHER( this, flStompDamage, mod_stomp_damage_mult );
++
++	CTakeDamageInfo info( this, this, GetActiveTFWeapon(), flStompDamage, DMG_FALL, TF_DMG_CUSTOM_BOOTS_STOMP );
++	pOther->TakeDamage( info );
++
++	EmitSound( "Weapon_Mantreads.Impact" );
++	EmitSound( "Player.FallDamageDealt" );
++	UTIL_ScreenShake( pOther->WorldSpaceCenter(), 15.0, 150.0, 1.0, 500, SHAKE_START );
++}
++
 +static void Mod_LandingShockwave( CTFPlayer *pPlayer, float flFallSpeed, float flStrength )
 +{
 +	if ( !pPlayer || !TFGameRules() )
@@ -3065,7 +3137,7 @@ index c030951..d5cd83c 100644
 +	return false;
 +}
 diff --git a/src/game/server/tf/tf_player.h b/src/game/server/tf/tf_player.h
-index d2affa2..dbd1e76 100644
+index d2affa2..590fd4e 100644
 --- a/src/game/server/tf/tf_player.h
 +++ b/src/game/server/tf/tf_player.h
 @@ -618,7 +618,12 @@ public:
@@ -3082,7 +3154,7 @@ index d2affa2..dbd1e76 100644
  	CBaseEntity *GetEntityForLoadoutSlot( int iLoadoutSlot, bool bForceCheckWearable = false );			//Gets whatever entity is associated with the loadout slot (wearable or weapon)
  	CTFWearable *GetEquippedWearableForLoadoutSlot( int iLoadoutSlot );
  
-@@ -1015,6 +1020,57 @@ public:
+@@ -1015,6 +1020,58 @@ public:
  	CEconItemView	*ItemTesting_GetTestItem( int iClass, int iSlot );
  	void				ItemTesting_DeleteItems();
  
@@ -3123,6 +3195,7 @@ index d2affa2..dbd1e76 100644
 +	bool				Mod_IsCurrentExtraWeapon( CBaseCombatWeapon *pWeapon );
 +	void				Mod_GiveExtraWeapons( void );
 +	void				Mod_ApplyInventoryLoadout( KeyValues *pKV );	// custom items equipped in the loadout menu
++	void				Mod_LowFallStomp( CTFPlayer *pOther, float flFallSpeed );	// "mod stomp from any height"
 +
 +private:
 +	bool				Mod_SetItem( int iClass, int iSlot, const ModEquip_t &equip );
@@ -3691,6 +3764,48 @@ index 50bbea3..16889c3 100644
  	// Initialize the game info block
  	KeyValues *pKVGameInfo = pKVRawDefinition->FindKey( "game_info" );
  	SCHEMA_INIT_CHECK( NULL != pKVGameInfo, "Required key \"game_info\" missing.\n" );
+diff --git a/src/game/shared/tf/tf_gamemovement.cpp b/src/game/shared/tf/tf_gamemovement.cpp
+index 4766016..8c6868f 100644
+--- a/src/game/shared/tf/tf_gamemovement.cpp
++++ b/src/game/shared/tf/tf_gamemovement.cpp
+@@ -2553,6 +2553,12 @@ void CTFGameMovement::CheckWaterJump( void )
+ //-----------------------------------------------------------------------------
+ // Purpose: 
+ //-----------------------------------------------------------------------------
++#ifdef GAME_DLL
++// MOD: Bear Feet stomps
++#define MOD_TF_MAX_SAFE_FALL_SPEED	650.f	// same as TF_PLAYER_MAX_SAFE_FALL_SPEED in tf_gamerules.cpp
++ConVar tf_mod_stomp_min_fall_speed( "tf_mod_stomp_min_fall_speed", "200", FCVAR_NOTIFY, "Slowest landing (units/sec) that still stomps an enemy for weapons with \"mod stomp from any height\"." );
++#endif
++
+ void CTFGameMovement::CheckFalling( void )
+ {
+ 	// if we landed on the ground
+@@ -2572,6 +2578,24 @@ void CTFGameMovement::CheckFalling( void )
+ 			}
+ #endif // CLIENT_DLL
+ 		}
++
++#ifdef GAME_DLL
++		// MOD: "mod stomp from any height" (Bear Feet). Normally a stomp only happens when the
++		// landing would have hurt you (falling faster than 650). This lets smaller drops onto
++		// an enemy's head stomp too; faster landings still go through the normal fall damage path.
++		const float flFallSpeed = player->m_Local.m_flFallVelocity;
++		CBaseEntity *pGround = player->GetGroundEntity();
++		if ( pGround->IsPlayer() && player->GetWaterLevel() == WL_NotInWater &&
++			 flFallSpeed >= tf_mod_stomp_min_fall_speed.GetFloat() && flFallSpeed <= MOD_TF_MAX_SAFE_FALL_SPEED )
++		{
++			int iStompAnyHeight = 0;
++			CALL_ATTRIB_HOOK_INT_ON_OTHER( m_pTFPlayer, iStompAnyHeight, mod_stomp_any_height );
++			if ( iStompAnyHeight )
++			{
++				m_pTFPlayer->Mod_LowFallStomp( ToTFPlayer( pGround ), flFallSpeed );
++			}
++		}
++#endif
+ 	}
+ 
+ 	BaseClass::CheckFalling();
 diff --git a/src/game/shared/tf/tf_gamerules.cpp b/src/game/shared/tf/tf_gamerules.cpp
 index b14837f..640ef3b 100644
 --- a/src/game/shared/tf/tf_gamerules.cpp
@@ -4595,6 +4710,58 @@ index 5b4fae8..e9f7f5b 100644
  	float					m_flEndResistCharge;
  	
  	struct targetdetachtimes_t
+diff --git a/src/game/shared/tf/tf_weapon_shotgun.cpp b/src/game/shared/tf/tf_weapon_shotgun.cpp
+index 666e005..9769bdc 100644
+--- a/src/game/shared/tf/tf_weapon_shotgun.cpp
++++ b/src/game/shared/tf/tf_weapon_shotgun.cpp
+@@ -68,6 +68,35 @@ CTFShotgun::CTFShotgun()
+ 	m_bReloadsSingly = true;
+ }
+ 
++//-----------------------------------------------------------------------------
++// MOD: "mod airborne recoil push" (value = speed). Firing while in the air throws you
++// away from where you're aiming - aim down to fly up. Once per jump, like the Force-A-Nature.
++//-----------------------------------------------------------------------------
++void CTFShotgun::FireBullet( CTFPlayer *pPlayer )
++{
++	float flPush = 0.f;
++	CALL_ATTRIB_HOOK_FLOAT( flPush, mod_airborne_recoil_push );
++	if ( flPush > 0.f && pPlayer && !( pPlayer->GetFlags() & FL_ONGROUND ) && !pPlayer->m_Shared.m_bScattergunJump &&
++		 !( TFGameRules() && TFGameRules()->State_Get() == GR_STATE_PREROUND ) )
++	{
++		pPlayer->m_Shared.m_bScattergunJump = true;	// cleared when you land
++
++		Vector vecForward;
++		AngleVectors( pPlayer->EyeAngles(), &vecForward );
++
++		Vector vecVelocity = pPlayer->GetAbsVelocity();
++		if ( vecVelocity.z < 0.f )
++		{
++			vecVelocity.z = 0.f;	// stop the fall first, so aiming down always lifts you
++		}
++		vecVelocity -= vecForward * flPush;
++		pPlayer->SetAbsVelocity( vecVelocity );
++		pPlayer->RemoveFlag( FL_ONGROUND );
++	}
++
++	BaseClass::FireBullet( pPlayer );
++}
++
+ //-----------------------------------------------------------------------------
+ // Purpose:
+ //-----------------------------------------------------------------------------
+diff --git a/src/game/shared/tf/tf_weapon_shotgun.h b/src/game/shared/tf/tf_weapon_shotgun.h
+index 9cfaae2..2f4ab90 100644
+--- a/src/game/shared/tf/tf_weapon_shotgun.h
++++ b/src/game/shared/tf/tf_weapon_shotgun.h
+@@ -51,6 +51,7 @@ public:
+ 	virtual int		GetWeaponID( void ) const			{ return TF_WEAPON_SHOTGUN_PRIMARY; }
+ 	virtual void	PrimaryAttack();
+ 	virtual void	PlayWeaponShootSound( void );
++	virtual void	FireBullet( CTFPlayer *pPlayer );	// MOD: "mod airborne recoil push"
+ 
+ #ifdef GAME_DLL
+ 	virtual CDmgAccumulator	*GetDmgAccumulator( void ) { return &m_Accumulator; }
 diff --git a/src/game/shared/tf/tf_weaponbase.cpp b/src/game/shared/tf/tf_weaponbase.cpp
 index 638cc6f..4900052 100644
 --- a/src/game/shared/tf/tf_weaponbase.cpp
