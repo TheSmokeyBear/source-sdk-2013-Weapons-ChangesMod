@@ -1,0 +1,1105 @@
+diff --git a/game/mod_tf/resource/mod_tf_english.txt b/game/mod_tf/resource/mod_tf_english.txt
+index edf73c793d6444785969dfd9650ac46de8de7b91..cb4a0fa31725630550a58c92a8edce3a58ec02e2 100644
+GIT binary patch
+literal 1118
+zcma)+PfHt76vfZhMZUvhpimdaZc3p$Ma6|;(QFDrm`q|4OdK(jwrTOJxBZ=WGb9la
+z8D8Fd_n!Oj-23wHZ=sn=J!q^#9sOYyx>!q=>|>3PB-Uw0%{0|QlZ-CZQ>}Xt56D{k
+zJx)EHsjo||bfZR3*f@eQd+V>zcWjsF67p?K0$C%qO+qut5tHuNXT<8}NFDqf@+G2N
+z=|o>SRrs^7TJvn*fSw~s`p9pU^LRwRz;4PO+U;{6e61ld8vSDJ!-wm+%+kKjv+t<J
+zEG@~gBEu2B+uDj9RLX4b;@<DGPi3Q=dw4H&O$Jrw+;t=viF;xXzRaCj8?n1Hu5!iM
+zr;<GFui?JJBKS8mHB$Grgc<k5GcjbJpqXP6{pjiz`89XPEkQVk=#*_|bZHa4L1SCn
+z9O$z?=>ysd)Krh07VN*#dvdl}K1SwDk67+s%d9c2E^TSwwtmT>y`1L=KQb@Q+f}rj
+zd0NNRZH_!kNrQDhW+gJ}BJF|kTX6mU4P8v<ZZ#!-8uT~%2{ztZyaU(MYSWJXWlb$=
+z<Ky+ZJlD>~uezPO%^XarBx-dg6*uQ?iCK8c9glm7>>K=eGK}$546;{GPt3uAzR*?o
+RbO>V3ihqlap6Teb{sXcYw}Sux
+
+delta 13
+Ucmcb|ae#5cF1A_*UWQr*03#y<{{R30
+
+diff --git a/game/mod_tf/scripts/items/items_mod.txt b/game/mod_tf/scripts/items/items_mod.txt
+new file mode 100644
+index 0000000..681a3c9
+--- /dev/null
++++ b/game/mod_tf/scripts/items/items_mod.txt
+@@ -0,0 +1,137 @@
++// =============================================================================
++// Custom items for this mod. Merged on top of TF2's items_game.txt at load time
++// (see Mod_MergeCustomItems in src/game/shared/econ/econ_item_schema.cpp).
++//
++// Index ranges reserved for the mod:
++//   attributes  9000 - 9999
++//   items      38000 - 39999   (only these can be equipped with mod_equip)
++//
++// "mod_copy_from" clones an existing TF2 item (model, sounds, animations,
++// icons) without its stats. Any key you set replaces the copied one.
++// =============================================================================
++"items_mod"
++{
++	"attributes"
++	{
++		"9000"
++		{
++			"name"					"mod homing rockets"
++			"attribute_class"		"mod_homing_rockets"
++			"description_format"	"value_is_additive"
++			"effect_type"			"positive"
++			"hidden"				"1"
++			"stored_as_integer"		"0"
++		}
++		"9001"
++		{
++			"name"					"mod clip size multiplier"
++			"attribute_class"		"mult_clipsize"
++			"description_format"	"value_is_percentage"
++			"effect_type"			"neutral"
++			"hidden"				"1"
++			"stored_as_integer"		"0"
++		}
++		"9002"
++		{
++			"name"					"mod reload time multiplier"
++			"attribute_class"		"mult_reload_time"
++			"description_format"	"value_is_percentage"
++			"effect_type"			"neutral"
++			"hidden"				"1"
++			"stored_as_integer"		"0"
++		}
++		"9003"
++		{
++			"name"					"mod damage multiplier"
++			"attribute_class"		"mult_dmg"
++			"description_format"	"value_is_percentage"
++			"effect_type"			"neutral"
++			"hidden"				"1"
++			"stored_as_integer"		"0"
++		}
++		"9004"
++		{
++			"name"					"mod melee airblast knockback"
++			"attribute_class"		"mod_melee_airblast_knockback"
++			"description_format"	"value_is_additive"
++			"effect_type"			"positive"
++			"hidden"				"1"
++			"stored_as_integer"		"0"
++		}
++		"9005"
++		{
++			"name"					"mod weapon bucket"
++			"attribute_class"		"mod_weapon_bucket"
++			"description_format"	"value_is_additive"
++			"effect_type"			"neutral"
++			"hidden"				"1"
++			"stored_as_integer"		"0"
++		}
++	}
++
++	"items"
++	{
++		// Soldier primary: stock Rocket Launcher look, lock-on homing rockets,
++		// 2 in the clip, 20 reserve (Soldier's default), reloads in half the time.
++		"38000"
++		{
++			"mod_copy_from"		"18"	// TF_WEAPON_ROCKETLAUNCHER
++			"name"				"Homing Launcher"
++			"item_name"			"#Mod_HomingLauncher"
++			"item_description"	"#Mod_HomingLauncher_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"soldier"	"1"
++			}
++			"item_slot"			"primary"
++			"static_attrs"
++			{
++				"mod homing rockets"			"1"		// steering strength (x tf_mod_homing_turn_rate)
++				"mod clip size multiplier"		"0.5"	// 4 -> 2
++				"mod reload time multiplier"	"0.5"	// half the reload time
++			}
++		}
++
++		// Heavy secondary: it's just the Spy's revolver.
++		"38001"
++		{
++			"mod_copy_from"		"24"	// TF_WEAPON_REVOLVER
++			"name"				"Bear Arms"
++			"item_name"			"#Mod_BearArms"
++			"item_description"	"#Mod_BearArms_Desc"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"heavy"		"1"
++			}
++			"item_slot"			"secondary"
++			"anim_slot"			"secondary"
++			"static_attrs"
++			{
++				"mod weapon bucket"		"2"		// number key 2, like Heavy's other secondaries
++			}
++		}
++
++		// Scout melee: Sandman look, plain bat (no ball), tiny damage, huge knockback.
++		"38002"
++		{
++			"mod_copy_from"		"44"	// The Sandman
++			"name"				"Batta Swing"
++			"item_name"			"#Mod_BattaSwing"
++			"item_description"	"#Mod_BattaSwing_Desc"
++			"item_class"		"tf_weapon_bat"
++			"item_quality"		"unique"
++			"used_by_classes"
++			{
++				"scout"		"1"
++			}
++			"item_slot"			"melee"
++			"static_attrs"
++			{
++				"mod damage multiplier"			"0.25"	// 35 -> ~9 damage
++				"mod melee airblast knockback"	"2"		// 2x Pyro airblast push
++			}
++		}
++	}
++}
+diff --git a/src/game/server/tf/tf_player.cpp b/src/game/server/tf/tf_player.cpp
+index c030951..038b01b 100644
+--- a/src/game/server/tf/tf_player.cpp
++++ b/src/game/server/tf/tf_player.cpp
+@@ -1124,6 +1124,16 @@ CTFPlayer::CTFPlayer()
+ 	m_bRespawning = false;
+ 
+ 	m_bAlreadyUsedExtendFreezeThisDeath = false;
++
++	// MOD: no custom items equipped yet (saved ones are restored on first use).
++	for ( int iClass = 0; iClass < TF_CLASS_COUNT_ALL; ++iClass )
++	{
++		for ( int iSlot = 0; iSlot < CLASS_LOADOUT_POSITION_COUNT; ++iSlot )
++		{
++			m_ModEquippedDefs[iClass][iSlot] = INVALID_ITEM_DEF_INDEX;
++		}
++	}
++	m_bModEquipsRestored = false;
+ }
+ 
+ //-----------------------------------------------------------------------------
+@@ -4895,6 +4905,14 @@ CEconItemView *CTFPlayer::GetLoadoutItem( int iClass, int iSlot, bool bReportWhi
+ 			return pItem;
+ 	}
+ 
++	// MOD: a custom item equipped with mod_equip wins over the Steam loadout.
++	if ( !TFGameRules()->IsInTraining() )
++	{
++		CEconItemView *pModItem = Mod_GetItem( iClass, iSlot );
++		if ( pModItem )
++			return pModItem;
++	}
++
+ 	if ( TFGameRules()->IsInTraining() || TFGameRules()->IsInItemTestingMode() )
+ 	{
+ 		CTFInventoryManager *pInventoryManager = TFInventoryManager();
+@@ -7188,12 +7206,18 @@ static void DebugEconItemView( const char *pszDescStr, CEconItemView *pEconItemV
+ }
+ #endif
+ 
++static bool Mod_HandleClientCommand( CTFPlayer *pPlayer, const CCommand &args ); // MOD
++
+ bool CTFPlayer::ClientCommand( const CCommand &args )
+ {
+ 	const char *pcmd = args[0];
+ 	
+ 	m_flLastAction = gpGlobals->curtime;
+ 
++	// MOD: mod_items / mod_equip / mod_unequip
++	if ( Mod_HandleClientCommand( this, args ) )
++		return true;
++
+ 	if ( FStrEq( pcmd, "addcond" ) )
+ 	{
+ 		if ( sv_cheats->GetBool() && args.ArgC() >= 2 )
+@@ -23148,3 +23172,316 @@ void CTFPlayer::ScriptStunPlayer( float flTime, float flReductionAmount, int iSt
+ {
+ 	m_Shared.StunPlayer( flTime, flReductionAmount, iStunFlags, ScriptToEntClass< CTFPlayer >( hAttacker ) );
+ }
++
++//=============================================================================
++//
++// MOD: Custom items (scripts/items/items_mod.txt)
++//
++// Items in the mod index range aren't in anyone's Steam inventory, so players
++// equip them from the console:
++//    mod_items                 list custom items
++//    mod_equip <name|index>    equip one (e.g. mod_equip "Bear Arms")
++//    mod_unequip <name|index|all>
++//
++//=============================================================================
++#define MOD_ITEM_INDEX_MIN	38000
++#define MOD_ITEM_INDEX_MAX	39999
++
++static bool Mod_IsModItemIndex( int iDefIndex )
++{
++	return iDefIndex >= MOD_ITEM_INDEX_MIN && iDefIndex <= MOD_ITEM_INDEX_MAX;
++}
++
++static const char *Mod_SlotName( int iSlot )
++{
++	switch ( iSlot )
++	{
++	case LOADOUT_POSITION_PRIMARY:		return "primary";
++	case LOADOUT_POSITION_SECONDARY:	return "secondary";
++	case LOADOUT_POSITION_MELEE:		return "melee";
++	default:							return "other";
++	}
++}
++
++// Accepts a definition index or a definition "name" (case-insensitive).
++static item_definition_index_t Mod_FindItemDef( const char *pszNameOrIndex )
++{
++	if ( !pszNameOrIndex || !*pszNameOrIndex )
++		return INVALID_ITEM_DEF_INDEX;
++
++	const int iIndex = V_atoi( pszNameOrIndex );
++	if ( iIndex > 0 && Mod_IsModItemIndex( iIndex ) && GetItemSchema()->GetItemDefinition( iIndex ) )
++		return (item_definition_index_t)iIndex;
++
++	const CEconItemSchema::ItemDefinitionMap_t &mapDefs = GetItemSchema()->GetItemDefinitionMap();
++	FOR_EACH_MAP_FAST( mapDefs, i )
++	{
++		if ( !Mod_IsModItemIndex( mapDefs.Key( i ) ) )
++			continue;
++
++		if ( !V_stricmp( mapDefs[i]->GetDefinitionName(), pszNameOrIndex ) )
++			return mapDefs.Key( i );
++	}
++
++	return INVALID_ITEM_DEF_INDEX;
++}
++
++// Equips are remembered per Steam account for as long as the server runs,
++// so they survive map changes and reconnects.
++struct ModEquipSave_t
++{
++	item_definition_index_t m_Defs[ TF_CLASS_COUNT_ALL ][ CLASS_LOADOUT_POSITION_COUNT ];
++};
++static CUtlMap< uint32, ModEquipSave_t > s_ModEquipSaves( DefLessFunc( uint32 ) );
++
++void CTFPlayer::Mod_SaveEquips( void )
++{
++	CSteamID steamID;
++	if ( !GetSteamID( &steamID ) || !steamID.IsValid() )
++		return;
++
++	ModEquipSave_t save;
++	V_memcpy( save.m_Defs, m_ModEquippedDefs, sizeof( save.m_Defs ) );
++	s_ModEquipSaves.InsertOrReplace( steamID.GetAccountID(), save );
++}
++
++void CTFPlayer::Mod_RestoreSavedEquips( void )
++{
++	CSteamID steamID;
++	if ( !GetSteamID( &steamID ) || !steamID.IsValid() )
++		return; // not known yet - try again next time
++
++	m_bModEquipsRestored = true;
++
++	const int iSave = s_ModEquipSaves.Find( steamID.GetAccountID() );
++	if ( !s_ModEquipSaves.IsValidIndex( iSave ) )
++		return;
++
++	const ModEquipSave_t &save = s_ModEquipSaves[iSave];
++	for ( int iClass = 0; iClass < TF_CLASS_COUNT_ALL; ++iClass )
++	{
++		for ( int iSlot = 0; iSlot < CLASS_LOADOUT_POSITION_COUNT; ++iSlot )
++		{
++			if ( save.m_Defs[iClass][iSlot] != INVALID_ITEM_DEF_INDEX )
++			{
++				Mod_SetItem( iClass, iSlot, save.m_Defs[iClass][iSlot] );
++			}
++		}
++	}
++}
++
++bool CTFPlayer::Mod_SetItem( int iClass, int iSlot, item_definition_index_t iDefIndex )
++{
++	// Fake, never-reused item IDs well outside the range of real Steam item IDs.
++	static itemid_t s_ulNextModItemID = ( 1ull << 62 );
++
++	CEconItemView &item = m_ModEquippedItems[iClass][iSlot];
++	item.Init( iDefIndex, AE_UNIQUE, AE_USE_SCRIPT_VALUE, false );
++	if ( !item.GetStaticData() )
++	{
++		m_ModEquippedDefs[iClass][iSlot] = INVALID_ITEM_DEF_INDEX;
++		return false;
++	}
++	item.SetItemID( s_ulNextModItemID++ );
++
++	m_ModEquippedDefs[iClass][iSlot] = iDefIndex;
++	return true;
++}
++
++CEconItemView *CTFPlayer::Mod_GetItem( int iClass, int iSlot )
++{
++	if ( !m_bModEquipsRestored )
++	{
++		Mod_RestoreSavedEquips();
++	}
++
++	if ( iClass < 0 || iClass >= TF_CLASS_COUNT_ALL || iSlot < 0 || iSlot >= CLASS_LOADOUT_POSITION_COUNT )
++		return NULL;
++
++	if ( m_ModEquippedDefs[iClass][iSlot] == INVALID_ITEM_DEF_INDEX )
++		return NULL;
++
++	CEconItemView *pItem = &m_ModEquippedItems[iClass][iSlot];
++	return ( pItem->IsValid() && pItem->GetStaticData() ) ? pItem : NULL;
++}
++
++CEconItemView *CTFPlayer::Mod_GetItemByID( itemid_t ulItemID )
++{
++	if ( ulItemID == INVALID_ITEM_ID || ulItemID == 0 )
++		return NULL;
++
++	for ( int iClass = 0; iClass < TF_CLASS_COUNT_ALL; ++iClass )
++	{
++		for ( int iSlot = 0; iSlot < CLASS_LOADOUT_POSITION_COUNT; ++iSlot )
++		{
++			CEconItemView *pItem = Mod_GetItem( iClass, iSlot );
++			if ( pItem && pItem->GetItemID() == ulItemID )
++				return pItem;
++		}
++	}
++	return NULL;
++}
++
++bool CTFPlayer::Mod_EquipItem( item_definition_index_t iDefIndex )
++{
++	GameItemDefinition_t *pDef = static_cast< GameItemDefinition_t * >( GetItemSchema()->GetItemDefinition( iDefIndex ) );
++	if ( !pDef )
++		return false;
++
++	// Equip for the class we're playing if it can use the item, otherwise the first class that can.
++	int iClass = GetPlayerClass() ? GetPlayerClass()->GetClassIndex() : TF_CLASS_UNDEFINED;
++	if ( iClass < TF_FIRST_NORMAL_CLASS || iClass >= TF_LAST_NORMAL_CLASS || !pDef->CanBeUsedByClass( iClass ) )
++	{
++		iClass = TF_CLASS_UNDEFINED;
++		for ( int i = TF_FIRST_NORMAL_CLASS; i < TF_LAST_NORMAL_CLASS; ++i )
++		{
++			if ( pDef->CanBeUsedByClass( i ) )
++			{
++				iClass = i;
++				break;
++			}
++		}
++	}
++	if ( iClass == TF_CLASS_UNDEFINED )
++		return false;
++
++	const int iSlot = pDef->GetLoadoutSlot( iClass );
++	if ( iSlot < 0 || iSlot >= CLASS_LOADOUT_POSITION_COUNT )
++		return false;
++
++	if ( !m_bModEquipsRestored )
++	{
++		Mod_RestoreSavedEquips();
++	}
++
++	if ( !Mod_SetItem( iClass, iSlot, iDefIndex ) )
++		return false;
++
++	Mod_SaveEquips();
++
++	ClientPrint( this, HUD_PRINTCONSOLE, CFmtStr( "Equipped %s for %s (%s).\n", pDef->GetDefinitionName(), g_aPlayerClassNames_NonLocalized[iClass], Mod_SlotName( iSlot ) ) );
++	Mod_ApplyLoadoutChange( iClass );
++	return true;
++}
++
++bool CTFPlayer::Mod_UnequipItem( int iClass, int iSlot )
++{
++	if ( !Mod_GetItem( iClass, iSlot ) )
++		return false;
++
++	m_ModEquippedDefs[iClass][iSlot] = INVALID_ITEM_DEF_INDEX;
++	Mod_SaveEquips();
++	Mod_ApplyLoadoutChange( iClass );
++	return true;
++}
++
++void CTFPlayer::Mod_ApplyLoadoutChange( int iClass )
++{
++	if ( !IsAlive() || !GetPlayerClass() || GetPlayerClass()->GetClassIndex() != iClass )
++		return;
++
++	// Same rule as a normal loadout change: instant in your own spawn room,
++	// otherwise at the next resupply locker or respawn.
++	if ( PointInRespawnRoom( this, WorldSpaceCenter(), true ) )
++	{
++		ForceRegenerateAndRespawn();
++	}
++	else
++	{
++		ClientPrint( this, HUD_PRINTCENTER, "Loadout changed - visit a resupply locker or respawn to use it." );
++	}
++}
++
++// Returns true if the command was one of ours.
++static bool Mod_HandleClientCommand( CTFPlayer *pPlayer, const CCommand &args )
++{
++	const char *pcmd = args[0];
++
++	if ( FStrEq( pcmd, "mod_items" ) )
++	{
++		ClientPrint( pPlayer, HUD_PRINTCONSOLE, "Custom items (use: mod_equip <name or index>):\n" );
++		const CEconItemSchema::ItemDefinitionMap_t &mapDefs = GetItemSchema()->GetItemDefinitionMap();
++		FOR_EACH_MAP_FAST( mapDefs, i )
++		{
++			const int iDefIndex = mapDefs.Key( i );
++			if ( !Mod_IsModItemIndex( iDefIndex ) )
++				continue;
++
++			GameItemDefinition_t *pDef = static_cast< GameItemDefinition_t * >( mapDefs[i] );
++			CUtlString strClasses;
++			for ( int iClass = TF_FIRST_NORMAL_CLASS; iClass < TF_LAST_NORMAL_CLASS; ++iClass )
++			{
++				if ( !pDef->CanBeUsedByClass( iClass ) )
++					continue;
++
++				if ( !strClasses.IsEmpty() )
++					strClasses += ", ";
++				strClasses += CFmtStr( "%s %s", g_aPlayerClassNames_NonLocalized[iClass], Mod_SlotName( pDef->GetLoadoutSlot( iClass ) ) ).Get();
++			}
++
++			const int iMyClass = pPlayer->GetPlayerClass() ? pPlayer->GetPlayerClass()->GetClassIndex() : TF_CLASS_UNDEFINED;
++			CEconItemView *pMine = pPlayer->Mod_GetItem( iMyClass, pDef->GetLoadoutSlot( iMyClass ) );
++			const bool bEquipped = pMine && pMine->GetItemDefIndex() == iDefIndex;
++
++			ClientPrint( pPlayer, HUD_PRINTCONSOLE, CFmtStr( "  %d  \"%s\"  [%s]%s\n", iDefIndex, pDef->GetDefinitionName(), strClasses.Get(), bEquipped ? "  (equipped)" : "" ) );
++		}
++		return true;
++	}
++
++	if ( FStrEq( pcmd, "mod_equip" ) || FStrEq( pcmd, "mod_unequip" ) )
++	{
++		const bool bEquip = FStrEq( pcmd, "mod_equip" );
++		if ( args.ArgC() < 2 )
++		{
++			ClientPrint( pPlayer, HUD_PRINTCONSOLE, bEquip ? "Usage: mod_equip <name or index>   (see mod_items)\n" : "Usage: mod_unequip <name, index or all>\n" );
++			return true;
++		}
++
++		// Allow names with spaces whether or not they were quoted.
++		const char *pszArg = ( args.ArgC() == 2 ) ? args[1] : args.ArgS();
++
++		if ( !bEquip && !V_stricmp( pszArg, "all" ) )
++		{
++			for ( int iClass = 0; iClass < TF_CLASS_COUNT_ALL; ++iClass )
++				for ( int iSlot = 0; iSlot < CLASS_LOADOUT_POSITION_COUNT; ++iSlot )
++					pPlayer->Mod_UnequipItem( iClass, iSlot );
++
++			ClientPrint( pPlayer, HUD_PRINTCONSOLE, "Unequipped all custom items.\n" );
++			return true;
++		}
++
++		const item_definition_index_t iDefIndex = Mod_FindItemDef( pszArg );
++		if ( iDefIndex == INVALID_ITEM_DEF_INDEX )
++		{
++			ClientPrint( pPlayer, HUD_PRINTCONSOLE, CFmtStr( "No custom item called \"%s\". Type mod_items for the list.\n", pszArg ) );
++			return true;
++		}
++
++		if ( bEquip )
++		{
++			if ( !pPlayer->Mod_EquipItem( iDefIndex ) )
++			{
++				ClientPrint( pPlayer, HUD_PRINTCONSOLE, CFmtStr( "Couldn't equip \"%s\".\n", pszArg ) );
++			}
++		}
++		else
++		{
++			bool bFound = false;
++			for ( int iClass = 0; iClass < TF_CLASS_COUNT_ALL; ++iClass )
++			{
++				for ( int iSlot = 0; iSlot < CLASS_LOADOUT_POSITION_COUNT; ++iSlot )
++				{
++					CEconItemView *pItem = pPlayer->Mod_GetItem( iClass, iSlot );
++					if ( pItem && pItem->GetItemDefIndex() == iDefIndex )
++					{
++						bFound |= pPlayer->Mod_UnequipItem( iClass, iSlot );
++					}
++				}
++			}
++			ClientPrint( pPlayer, HUD_PRINTCONSOLE, bFound ? CFmtStr( "Unequipped \"%s\".\n", pszArg ).Get() : CFmtStr( "\"%s\" isn't equipped.\n", pszArg ).Get() );
++		}
++		return true;
++	}
++
++	return false;
++}
+diff --git a/src/game/server/tf/tf_player.h b/src/game/server/tf/tf_player.h
+index d2affa2..d5a8b85 100644
+--- a/src/game/server/tf/tf_player.h
++++ b/src/game/server/tf/tf_player.h
+@@ -618,7 +618,12 @@ public:
+ 	bool IsZombieCostumeEquipped( void ) const;
+ 	bool HasWearablesEquipped( const CSchemaItemDefHandle *ppItemDefs, int nWearables ) const;
+ 
+-	CEconItemView *GetEquippedItemForLoadoutSlot( int iLoadoutSlot ){ return m_Inventory.GetInventoryItemByItemID( m_EquippedLoadoutItemIndices[iLoadoutSlot] ); }
++	CEconItemView *GetEquippedItemForLoadoutSlot( int iLoadoutSlot )
++	{
++		// MOD: our custom items aren't in the Steam inventory, so check them first.
++		CEconItemView *pModItem = Mod_GetItemByID( m_EquippedLoadoutItemIndices[iLoadoutSlot] );
++		return pModItem ? pModItem : m_Inventory.GetInventoryItemByItemID( m_EquippedLoadoutItemIndices[iLoadoutSlot] );
++	}
+ 	CBaseEntity *GetEntityForLoadoutSlot( int iLoadoutSlot, bool bForceCheckWearable = false );			//Gets whatever entity is associated with the loadout slot (wearable or weapon)
+ 	CTFWearable *GetEquippedWearableForLoadoutSlot( int iLoadoutSlot );
+ 
+@@ -1015,6 +1020,24 @@ public:
+ 	CEconItemView	*ItemTesting_GetTestItem( int iClass, int iSlot );
+ 	void				ItemTesting_DeleteItems();
+ 
++	// MOD: custom items from scripts/items/items_mod.txt, equipped with the
++	// mod_equip / mod_unequip console commands (they aren't in the Steam inventory).
++public:
++	bool				Mod_EquipItem( item_definition_index_t iDefIndex );
++	bool				Mod_UnequipItem( int iClass, int iSlot );
++	CEconItemView		*Mod_GetItem( int iClass, int iSlot );
++	CEconItemView		*Mod_GetItemByID( itemid_t ulItemID );
++	void				Mod_ApplyLoadoutChange( int iClass );
++
++private:
++	bool				Mod_SetItem( int iClass, int iSlot, item_definition_index_t iDefIndex );
++	void				Mod_RestoreSavedEquips( void );
++	void				Mod_SaveEquips( void );
++
++	item_definition_index_t	m_ModEquippedDefs[ TF_CLASS_COUNT_ALL ][ CLASS_LOADOUT_POSITION_COUNT ];
++	CEconItemView			m_ModEquippedItems[ TF_CLASS_COUNT_ALL ][ CLASS_LOADOUT_POSITION_COUNT ];
++	bool					m_bModEquipsRestored;
++
+ public:
+ 	struct itemtest_t
+ 	{
+diff --git a/src/game/server/tf/tf_projectile_rocket.cpp b/src/game/server/tf/tf_projectile_rocket.cpp
+index 528b290..f7d4ee0 100644
+--- a/src/game/server/tf/tf_projectile_rocket.cpp
++++ b/src/game/server/tf/tf_projectile_rocket.cpp
+@@ -8,6 +8,7 @@
+ #include "tf_weaponbase.h"
+ #include "tf_projectile_rocket.h"
+ #include "tf_player.h"
++#include "tf_obj.h"
+ 
+ //=============================================================================
+ //
+@@ -15,6 +16,13 @@
+ //
+ #define ROCKET_MODEL "models/weapons/w_models/w_rocket.mdl"
+ 
++// MOD: homing rocket tuning
++ConVar tf_mod_homing_turn_rate( "tf_mod_homing_turn_rate", "200", FCVAR_NOTIFY, "Homing rockets: max turn rate in degrees/second (scaled by the launcher's homing attribute)." );
++ConVar tf_mod_homing_lock_cone( "tf_mod_homing_lock_cone", "40", FCVAR_NOTIFY, "Homing rockets: half-angle in degrees of the cone in front of the rocket where it can lock on." );
++ConVar tf_mod_homing_range( "tf_mod_homing_range", "2500", FCVAR_NOTIFY, "Homing rockets: max lock-on distance." );
++ConVar tf_mod_homing_arm_time( "tf_mod_homing_arm_time", "0.1", FCVAR_NOTIFY, "Homing rockets: seconds after launch before the rocket starts steering." );
++ConVar tf_mod_homing_lost_time( "tf_mod_homing_lost_time", "0.5", FCVAR_NOTIFY, "Homing rockets: seconds a locked target can be out of sight before the lock drops." );
++
+ LINK_ENTITY_TO_CLASS( tf_projectile_rocket, CTFProjectile_Rocket );
+ PRECACHE_REGISTER( tf_projectile_rocket );
+ 
+@@ -24,6 +32,10 @@ BEGIN_NETWORK_TABLE( CTFProjectile_Rocket, DT_TFProjectile_Rocket )
+ 	SendPropBool( SENDINFO( m_bCritical ) ),
+ END_NETWORK_TABLE()
+ 
++BEGIN_DATADESC( CTFProjectile_Rocket )
++	DEFINE_THINKFUNC( HomingThink ),
++END_DATADESC()
++
+ //-----------------------------------------------------------------------------
+ // Purpose:
+ //-----------------------------------------------------------------------------
+@@ -40,6 +52,14 @@ CTFProjectile_Rocket *CTFProjectile_Rocket::Create( CBaseEntity *pLauncher, cons
+ 		CTFWeaponBase *pWeapon = dynamic_cast< CTFWeaponBase * >( pLauncher );
+ 		bool bDirectHit = pWeapon ? ( pWeapon->GetWeaponID() == TF_WEAPON_ROCKETLAUNCHER_DIRECTHIT ) : false;
+ 		pRocket->SetDirectHit( bDirectHit );
++
++		// MOD: launchers with "mod homing rockets" fire lock-on rockets.
++		float flHoming = 0.f;
++		CALL_ATTRIB_HOOK_FLOAT_ON_OTHER( pLauncher, flHoming, mod_homing_rockets );
++		if ( flHoming > 0.f )
++		{
++			pRocket->StartHoming( flHoming );
++		}
+ 	}
+ 
+ 	return pRocket;
+@@ -52,6 +72,186 @@ void CTFProjectile_Rocket::Spawn()
+ {
+ 	SetModel( ROCKET_MODEL );
+ 	BaseClass::Spawn();
++
++	m_flHomingPower = 0.f;
++	m_hHomingTarget = NULL;
++}
++
++//-----------------------------------------------------------------------------
++// MOD: Homing rockets
++//-----------------------------------------------------------------------------
++void CTFProjectile_Rocket::StartHoming( float flPower )
++{
++	m_flHomingPower = flPower;
++	m_flHomingStartTime = gpGlobals->curtime + tf_mod_homing_arm_time.GetFloat();
++
++	// Lock onto whatever is closest to the crosshair right as we fire.
++	m_hHomingTarget = FindHomingTarget();
++	m_flLastSawTargetTime = gpGlobals->curtime;
++
++	SetThink( &CTFProjectile_Rocket::HomingThink );
++	SetNextThink( gpGlobals->curtime );
++}
++
++bool CTFProjectile_Rocket::IsValidHomingTarget( CBaseEntity *pTarget, bool bRequireCone )
++{
++	if ( !pTarget || pTarget == this )
++		return false;
++
++	if ( pTarget->GetTeamNumber() < FIRST_GAME_TEAM || pTarget->GetTeamNumber() == GetTeamNumber() )
++		return false;
++
++	if ( pTarget->IsPlayer() )
++	{
++		CTFPlayer *pPlayer = ToTFPlayer( pTarget );
++		if ( !pPlayer || !pPlayer->IsAlive() )
++			return false;
++
++		// Invisible spies and spies disguised as our team don't get locked.
++		if ( pPlayer->m_Shared.IsStealthed() )
++			return false;
++
++		if ( pPlayer->m_Shared.InCond( TF_COND_DISGUISED ) && pPlayer->m_Shared.GetDisguiseTeam() == GetTeamNumber() )
++			return false;
++	}
++	else
++	{
++		CBaseObject *pObject = dynamic_cast< CBaseObject * >( pTarget );
++		if ( !pObject || pObject->IsDying() || pObject->IsPlacing() || pObject->IsCarried() )
++			return false;
++	}
++
++	const Vector vecTarget = pTarget->WorldSpaceCenter();
++	Vector vecToTarget = vecTarget - GetAbsOrigin();
++	const float flDist = VectorNormalize( vecToTarget );
++	if ( flDist > tf_mod_homing_range.GetFloat() )
++		return false;
++
++	if ( bRequireCone )
++	{
++		Vector vecHeading = GetAbsVelocity();
++		VectorNormalize( vecHeading );
++		if ( DotProduct( vecHeading, vecToTarget ) < cosf( DEG2RAD( tf_mod_homing_lock_cone.GetFloat() ) ) )
++			return false;
++	}
++
++	trace_t tr;
++	UTIL_TraceLine( GetAbsOrigin(), vecTarget, MASK_SOLID_BRUSHONLY, this, COLLISION_GROUP_NONE, &tr );
++	return tr.fraction >= 1.0f || tr.m_pEnt == pTarget;
++}
++
++CBaseEntity *CTFProjectile_Rocket::FindHomingTarget( void )
++{
++	Vector vecHeading = GetAbsVelocity();
++	VectorNormalize( vecHeading );
++
++	CBaseEntity *pBest = NULL;
++	float flBestDot = -1.f;
++
++	CUtlVector< CBaseEntity * > vecCandidates;
++	for ( int i = 1; i <= gpGlobals->maxClients; ++i )
++	{
++		CBaseEntity *pPlayer = UTIL_PlayerByIndex( i );
++		if ( pPlayer )
++		{
++			vecCandidates.AddToTail( pPlayer );
++		}
++	}
++	for ( int i = 0; i < IBaseObjectAutoList::AutoList().Count(); ++i )
++	{
++		vecCandidates.AddToTail( static_cast< CBaseObject * >( IBaseObjectAutoList::AutoList()[i] ) );
++	}
++
++	FOR_EACH_VEC( vecCandidates, i )
++	{
++		CBaseEntity *pCandidate = vecCandidates[i];
++		if ( !IsValidHomingTarget( pCandidate, true ) )
++			continue;
++
++		// Prefer whatever is nearest to the rocket's line of flight.
++		Vector vecToTarget = pCandidate->WorldSpaceCenter() - GetAbsOrigin();
++		VectorNormalize( vecToTarget );
++		const float flDot = DotProduct( vecHeading, vecToTarget );
++		if ( flDot > flBestDot )
++		{
++			flBestDot = flDot;
++			pBest = pCandidate;
++		}
++	}
++
++	return pBest;
++}
++
++void CTFProjectile_Rocket::HomingThink( void )
++{
++	SetNextThink( gpGlobals->curtime );
++
++	const float flNow = gpGlobals->curtime;
++
++	// Keep (or drop) the current lock.
++	CBaseEntity *pTarget = m_hHomingTarget.Get();
++	bool bCanSee = false;
++	if ( pTarget )
++	{
++		if ( IsValidHomingTarget( pTarget, false ) )
++		{
++			bCanSee = true;
++			m_flLastSawTargetTime = flNow;
++		}
++		else if ( !pTarget->IsAlive() || pTarget->GetTeamNumber() == GetTeamNumber() || flNow - m_flLastSawTargetTime > tf_mod_homing_lost_time.GetFloat() )
++		{
++			m_hHomingTarget = NULL;
++			pTarget = NULL;
++		}
++	}
++
++	// No lock: look for a new one a few times a second.
++	if ( !pTarget && ( gpGlobals->tickcount % 3 ) == 0 )
++	{
++		pTarget = FindHomingTarget();
++		if ( pTarget )
++		{
++			m_hHomingTarget = pTarget;
++			m_flLastSawTargetTime = flNow;
++			bCanSee = true;
++		}
++	}
++
++	if ( !pTarget || !bCanSee || flNow < m_flHomingStartTime )
++		return;
++
++	// Turn toward the target at a capped rate, keeping our speed.
++	Vector vecVelocity = GetAbsVelocity();
++	const float flSpeed = vecVelocity.Length();
++	if ( flSpeed < 1.f )
++		return;
++
++	Vector vecDir = vecVelocity / flSpeed;
++	Vector vecToTarget = pTarget->WorldSpaceCenter() - GetAbsOrigin();
++	VectorNormalize( vecToTarget );
++
++	const float flAngle = acosf( clamp( DotProduct( vecDir, vecToTarget ), -1.f, 1.f ) );
++	const float flMaxTurn = DEG2RAD( tf_mod_homing_turn_rate.GetFloat() * m_flHomingPower ) * gpGlobals->interval_per_tick;
++
++	Vector vecNewDir;
++	const float flSin = sinf( flAngle );
++	if ( flAngle <= flMaxTurn || flSin < 0.001f )
++	{
++		vecNewDir = ( flAngle <= flMaxTurn ) ? vecToTarget : vecDir;
++	}
++	else
++	{
++		// Spherical interpolation by the allowed fraction of the turn.
++		const float t = flMaxTurn / flAngle;
++		vecNewDir = vecDir * ( sinf( ( 1.f - t ) * flAngle ) / flSin ) + vecToTarget * ( sinf( t * flAngle ) / flSin );
++		VectorNormalize( vecNewDir );
++	}
++
++	SetAbsVelocity( vecNewDir * flSpeed );
++
++	QAngle angNew;
++	VectorAngles( vecNewDir, angNew );
++	SetAbsAngles( angNew );
+ }
+ 
+ //-----------------------------------------------------------------------------
+@@ -153,6 +353,10 @@ void CTFProjectile_Rocket::Deflected( CBaseEntity *pDeflectedBy, Vector &vecDir
+ 	ChangeTeam( pTFDeflector->GetTeamNumber() );
+ 	SetLauncher( pTFDeflector->GetActiveWeapon() );
+ 
++	// MOD: a reflected homing rocket drops its lock and hunts the other team.
++	m_hHomingTarget = NULL;
++	m_flHomingStartTime = gpGlobals->curtime + tf_mod_homing_arm_time.GetFloat();
++
+ 	CTFPlayer *pOldOwner = ToTFPlayer( GetOwnerEntity() );
+ 	if ( pOldOwner == nullptr )
+ 	{
+diff --git a/src/game/server/tf/tf_projectile_rocket.h b/src/game/server/tf/tf_projectile_rocket.h
+index d71126b..57ee626 100644
+--- a/src/game/server/tf/tf_projectile_rocket.h
++++ b/src/game/server/tf/tf_projectile_rocket.h
+@@ -49,12 +49,25 @@ public:
+ 	void SetEyeBallRocket( bool state ){ m_bEyeBallRocket = state; }
+ 	void SetSpell( bool bSpell ) { m_bSpell = bSpell; }
+ 
++	// MOD: homing ("mod homing rockets" attribute on the launcher)
++	DECLARE_DATADESC();
++	void			StartHoming( float flPower );
++	void			HomingThink( void );
++	bool			IsValidHomingTarget( CBaseEntity *pTarget, bool bRequireCone );
++	CBaseEntity		*FindHomingTarget( void );
++
+ private:
+ 	CBaseHandle m_Scorer;
+ 	CNetworkVar( bool,	m_bCritical );
+ 	bool m_bDirectHit;
+ 	bool m_bEyeBallRocket;
+ 	bool m_bSpell;
++
++	// MOD: homing state
++	float					m_flHomingPower;
++	float					m_flHomingStartTime;
++	float					m_flLastSawTargetTime;
++	CHandle<CBaseEntity>	m_hHomingTarget;
+ };
+ 
+ #endif	//TF_PROJECTILE_ROCKET_H
+diff --git a/src/game/shared/econ/econ_item_schema.cpp b/src/game/shared/econ/econ_item_schema.cpp
+index 50bbea3..615c7c4 100644
+--- a/src/game/shared/econ/econ_item_schema.cpp
++++ b/src/game/shared/econ/econ_item_schema.cpp
+@@ -4615,6 +4615,130 @@ EEquipType_t CEconItemSchema::GetEquipTypeFromClassIndex( int iClass ) const
+ 	return EEquipType_t::EQUIP_TYPE_INVALID;
+ }
+ 
++#if defined( TF_DLL ) || defined( TF_CLIENT_DLL )
++//-----------------------------------------------------------------------------
++// MOD: Custom item support.
++//
++// Valve's scripts/items/items_game.txt is loaded from the player's TF2 install and
++// is signature-checked, so we never edit it. Instead, anything in our mod's
++// scripts/items/items_mod.txt is merged on top of it at load time:
++//
++//   "items_mod"
++//   {
++//       "attributes" { "<index>" { ...same format as items_game... } }
++//       "items"
++//       {
++//           "<index>"
++//           {
++//               "mod_copy_from"  "<existing item index>"   // optional
++//               ...keys...
++//           }
++//       }
++//   }
++//
++// "mod_copy_from" clones an existing item (flattened through its prefabs, so it
++// keeps the model, sounds, animations and visuals) and strips its attributes,
++// base-item flag and set membership. Every other key you give replaces the
++// copied key of the same name entirely (blocks are replaced, not merged).
++//-----------------------------------------------------------------------------
++#define MOD_ITEMS_FILE "scripts/items/items_mod.txt"
++
++static void Mod_RemoveAllKeysNamed( KeyValues *pKV, const char *pszName )
++{
++	KeyValues *pKey;
++	while ( ( pKey = pKV->FindKey( pszName ) ) != NULL )
++	{
++		pKV->RemoveSubKey( pKey );
++		pKey->deleteThis();
++	}
++}
++
++static void Mod_MergeBlockByName( KeyValues *pDest, KeyValues *pSrc )
++{
++	if ( !pDest || !pSrc )
++		return;
++
++	FOR_EACH_TRUE_SUBKEY( pSrc, pEntry )
++	{
++		Mod_RemoveAllKeysNamed( pDest, pEntry->GetName() );
++		pDest->AddSubKey( pEntry->MakeCopy() );
++	}
++}
++
++void MergeDefinitionPrefab( KeyValues *pKVWriteItem, KeyValues *pKVSourceItem );
++
++static void Mod_MergeCustomItems( KeyValues *pKVRawDefinition )
++{
++	KeyValues *pKVMod = new KeyValues( "items_mod" );
++	if ( !pKVMod->LoadFromFile( g_pFullFileSystem, MOD_ITEMS_FILE, "MOD" ) )
++	{
++		pKVMod->deleteThis();
++		return;
++	}
++
++	int nAttribs = 0, nItems = 0;
++
++	// Attributes: straight add/replace by index.
++	KeyValues *pModAttribs = pKVMod->FindKey( "attributes" );
++	if ( pModAttribs )
++	{
++		Mod_MergeBlockByName( pKVRawDefinition->FindKey( "attributes", true ), pModAttribs );
++		FOR_EACH_TRUE_SUBKEY( pModAttribs, pAttr ) { ++nAttribs; }
++	}
++
++	// Items: optionally cloned from an existing item, then overlaid.
++	KeyValues *pModItems = pKVMod->FindKey( "items" );
++	if ( pModItems )
++	{
++		KeyValues *pItems = pKVRawDefinition->FindKey( "items", true );
++
++		FOR_EACH_TRUE_SUBKEY( pModItems, pModItem )
++		{
++			KeyValues *pNewItem = new KeyValues( pModItem->GetName() );
++
++			const char *pszCopyFrom = pModItem->GetString( "mod_copy_from", NULL );
++			if ( pszCopyFrom && *pszCopyFrom )
++			{
++				KeyValues *pSource = pItems->FindKey( pszCopyFrom );
++				if ( pSource )
++				{
++					MergeDefinitionPrefab( pNewItem, pSource );
++
++					// Don't inherit identity or stats from the source item.
++					Mod_RemoveAllKeysNamed( pNewItem, "prefab" );
++					Mod_RemoveAllKeysNamed( pNewItem, "baseitem" );
++					Mod_RemoveAllKeysNamed( pNewItem, "attributes" );
++					Mod_RemoveAllKeysNamed( pNewItem, "static_attrs" );
++					Mod_RemoveAllKeysNamed( pNewItem, "item_set" );
++					Mod_RemoveAllKeysNamed( pNewItem, "propername" );
++					Mod_RemoveAllKeysNamed( pNewItem, "xifier_class_remap" );
++				}
++				else
++				{
++					Warning( "%s: item %s copies from unknown item %s\n", MOD_ITEMS_FILE, pModItem->GetName(), pszCopyFrom );
++				}
++			}
++
++			FOR_EACH_SUBKEY( pModItem, pKey )
++			{
++				if ( !V_stricmp( pKey->GetName(), "mod_copy_from" ) )
++					continue;
++
++				Mod_RemoveAllKeysNamed( pNewItem, pKey->GetName() );
++				pNewItem->AddSubKey( pKey->MakeCopy() );
++			}
++
++			Mod_RemoveAllKeysNamed( pItems, pModItem->GetName() );
++			pItems->AddSubKey( pNewItem );
++			++nItems;
++		}
++	}
++
++	DevMsg( "%s: merged %d attributes and %d items\n", MOD_ITEMS_FILE, nAttribs, nItems );
++	pKVMod->deleteThis();
++}
++#endif // TF_DLL || TF_CLIENT_DLL
++
+ //-----------------------------------------------------------------------------
+ // Purpose:	Initializes the schema
+ // Input:	pKVRawDefinition - The raw KeyValues representation of the schema
+@@ -4642,6 +4766,12 @@ bool CEconItemSchema::BInitSchema( KeyValues *pKVRawDefinition, CUtlVector<CUtlS
+ 		SCHEMA_INIT_SUBSTEP( BInitDefinitionPrefabs( pKVPrefabs, pVecErrors ) );
+ 	}
+ 
++#if defined( TF_DLL ) || defined( TF_CLIENT_DLL )
++	// MOD: pull in our own attributes/items from scripts/items/items_mod.txt.
++	// Done after prefabs so copied base items can be flattened through their prefabs.
++	Mod_MergeCustomItems( pKVRawDefinition );
++#endif
++
+ 	// Initialize the game info block
+ 	KeyValues *pKVGameInfo = pKVRawDefinition->FindKey( "game_info" );
+ 	SCHEMA_INIT_CHECK( NULL != pKVGameInfo, "Required key \"game_info\" missing.\n" );
+diff --git a/src/game/shared/tf/tf_weaponbase.cpp b/src/game/shared/tf/tf_weaponbase.cpp
+index 638cc6f..66593ff 100644
+--- a/src/game/shared/tf/tf_weaponbase.cpp
++++ b/src/game/shared/tf/tf_weaponbase.cpp
+@@ -549,6 +549,20 @@ int CTFWeaponBase::GetWeaponID( void ) const
+ 	return TF_WEAPON_NONE; 
+ }
+ 
++// -----------------------------------------------------------------------------
++// MOD: "mod weapon bucket" moves a weapon to another number key (value = key).
++// Lets e.g. the Spy's revolver sit on Heavy's secondary key (2) instead of 1.
++// -----------------------------------------------------------------------------
++int CTFWeaponBase::GetSlot( void ) const
++{
++	int iKey = 0;
++	CALL_ATTRIB_HOOK_INT( iKey, mod_weapon_bucket );
++	if ( iKey > 0 )
++		return iKey - 1;
++
++	return BaseClass::GetSlot();
++}
++
+ // -----------------------------------------------------------------------------
+ // Purpose:
+ // -----------------------------------------------------------------------------
+diff --git a/src/game/shared/tf/tf_weaponbase.h b/src/game/shared/tf/tf_weaponbase.h
+index 22b82e8..20131fd 100644
+--- a/src/game/shared/tf/tf_weaponbase.h
++++ b/src/game/shared/tf/tf_weaponbase.h
+@@ -290,6 +290,7 @@ class CTFWeaponBase : public CBaseCombatWeapon, public IHasOwner, public IHasGen
+ 	// Weapon Data.
+ 	CTFWeaponInfo const	&GetTFWpnData() const;
+ 	virtual int GetWeaponID( void ) const;
++	virtual int GetSlot( void ) const OVERRIDE;	// MOD: honors "mod weapon bucket"
+ 	bool IsWeapon( int iWeapon ) const;
+ 	virtual int	GetDamageType() const { return g_aWeaponDamageTypes[ GetWeaponID() ]; }
+ 	virtual int GetCustomDamageType() const { return TF_DMG_CUSTOM_NONE; }
+diff --git a/src/game/shared/tf/tf_weaponbase_melee.cpp b/src/game/shared/tf/tf_weaponbase_melee.cpp
+index 0dac987..a0a1495 100644
+--- a/src/game/shared/tf/tf_weaponbase_melee.cpp
++++ b/src/game/shared/tf/tf_weaponbase_melee.cpp
+@@ -15,6 +15,11 @@
+ #include "tf_gamestats.h"
+ #include "ilagcompensationmanager.h"
+ #include "tf_passtime_logic.h"
++
++// MOD: reuse the Pyro airblast tuning for melee knockback.
++extern ConVar tf_airblast_cray_power;
++extern ConVar tf_airblast_cray_ground_minz;
++extern ConVar tf_airblast_cray_lose_footing_duration;
+ // Client specific.
+ #else
+ #include "c_tf_gamestats.h"
+@@ -881,6 +886,47 @@ void CTFWeaponBaseMelee::DoMeleeDamage( CBaseEntity* ent, trace_t& trace, float
+ 	bool bTruce = TFGameRules() && TFGameRules()->IsTruceActive() && pPlayer->IsTruceValidForEnt();
+ 	if ( !bTruce )
+ 	{
++		// MOD: "mod melee airblast knockback" - the hit launches the victim like a Pyro
++		// airblast, with the push strength multiplied by the attribute value.
++		float flAirblastKnockback = 0.f;
++		CALL_ATTRIB_HOOK_FLOAT( flAirblastKnockback, mod_melee_airblast_knockback );
++		if ( flAirblastKnockback > 0.f )
++		{
++			CTFPlayer *pVictimPlayer = ToTFPlayer( ent );
++			if ( pVictimPlayer && pVictimPlayer->IsAlive() && !pVictimPlayer->InSameTeam( pPlayer ) && !pVictimPlayer->m_Shared.IsImmuneToPushback() )
++			{
++				// Same direction rule as airblast: our aim pitch, turned to face the victim.
++				Vector vecToVictim = pVictimPlayer->WorldSpaceCenter() - pPlayer->WorldSpaceCenter();
++				QAngle angToVictim;
++				VectorAngles( vecToVictim, angToVictim );
++				QAngle angPush = pPlayer->EyeAngles();
++				angPush[YAW] = angToVictim[YAW];
++				Vector vecPushDir;
++				AngleVectors( angPush, &vecPushDir );
++
++				Vector vecForce = vecPushDir * ( tf_airblast_cray_power.GetFloat() * flAirblastKnockback );
++
++				// Grounded victims always get lifted, like airblast's ground bounce.
++				const float flMinUp = tf_airblast_cray_ground_minz.GetFloat() * flAirblastKnockback;
++				if ( ( pVictimPlayer->GetFlags() & FL_ONGROUND ) && vecForce.z < flMinUp )
++				{
++					vecForce.z = flMinUp;
++				}
++
++				pVictimPlayer->ApplyPunchImpulseX( RandomInt( 10, 15 ) );
++				pVictimPlayer->RemoveFlag( FL_ONGROUND );
++				pVictimPlayer->SetGroundEntity( NULL );
++				const float flLoseFooting = tf_airblast_cray_lose_footing_duration.GetFloat();
++				if ( flLoseFooting > 0.f )
++				{
++					pVictimPlayer->m_Shared.AddCond( TF_COND_LOST_FOOTING, flLoseFooting );
++				}
++				pVictimPlayer->m_Shared.AddCond( TF_COND_AIR_CURRENT );
++				pVictimPlayer->m_Shared.AddCond( TF_COND_KNOCKED_INTO_AIR );
++				pVictimPlayer->ApplyAbsVelocityImpulse( vecForce );
++			}
++		}
++
+ 		int iCritsForceVictimToLaugh = 0;
+ 		CALL_ATTRIB_HOOK_INT( iCritsForceVictimToLaugh, crit_forces_victim_to_laugh );
+ 		if ( iCritsForceVictimToLaugh > 0 && ( IsCurrentAttackACrit() || iDmgType & DMG_CRITICAL ) )
